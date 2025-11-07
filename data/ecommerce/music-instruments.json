@@ -1,0 +1,422 @@
+[
+  {
+    "id": "product-421",
+    "title": "Product 1",
+    "category": "music-instruments",
+    "price": 20,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 1 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-421.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-422",
+    "title": "Product 2",
+    "category": "music-instruments",
+    "price": 21,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 2 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-422.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-423",
+    "title": "Product 3",
+    "category": "music-instruments",
+    "price": 22,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 3 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-423.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-424",
+    "title": "Product 4",
+    "category": "music-instruments",
+    "price": 23,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 4 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-424.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-425",
+    "title": "Product 5",
+    "category": "music-instruments",
+    "price": 24,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 5 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-425.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-426",
+    "title": "Product 6",
+    "category": "music-instruments",
+    "price": 25,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 6 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-426.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-427",
+    "title": "Product 7",
+    "category": "music-instruments",
+    "price": 26,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 7 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-427.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-428",
+    "title": "Product 8",
+    "category": "music-instruments",
+    "price": 27,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 8 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-428.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-429",
+    "title": "Product 9",
+    "category": "music-instruments",
+    "price": 28,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 9 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-429.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-430",
+    "title": "Product 10",
+    "category": "music-instruments",
+    "price": 29,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 10 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-430.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-431",
+    "title": "Product 11",
+    "category": "music-instruments",
+    "price": 30,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 11 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-431.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-432",
+    "title": "Product 12",
+    "category": "music-instruments",
+    "price": 31,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 12 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-432.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-433",
+    "title": "Product 13",
+    "category": "music-instruments",
+    "price": 32,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 13 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-433.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-434",
+    "title": "Product 14",
+    "category": "music-instruments",
+    "price": 33,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 14 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-434.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-435",
+    "title": "Product 15",
+    "category": "music-instruments",
+    "price": 34,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 15 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-435.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-436",
+    "title": "Product 16",
+    "category": "music-instruments",
+    "price": 35,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 16 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-436.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-437",
+    "title": "Product 17",
+    "category": "music-instruments",
+    "price": 36,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 17 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-437.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-438",
+    "title": "Product 18",
+    "category": "music-instruments",
+    "price": 37,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 18 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-438.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-439",
+    "title": "Product 19",
+    "category": "music-instruments",
+    "price": 38,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 19 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-439.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-440",
+    "title": "Product 20",
+    "category": "music-instruments",
+    "price": 39,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 20 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-440.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-441",
+    "title": "Product 21",
+    "category": "music-instruments",
+    "price": 40,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 21 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-441.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-442",
+    "title": "Product 22",
+    "category": "music-instruments",
+    "price": 41,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 22 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-442.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-443",
+    "title": "Product 23",
+    "category": "music-instruments",
+    "price": 42,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 23 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-443.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-444",
+    "title": "Product 24",
+    "category": "music-instruments",
+    "price": 43,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 24 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-444.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-445",
+    "title": "Product 25",
+    "category": "music-instruments",
+    "price": 44,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 25 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-445.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-446",
+    "title": "Product 26",
+    "category": "music-instruments",
+    "price": 45,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 26 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-446.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-447",
+    "title": "Product 27",
+    "category": "music-instruments",
+    "price": 46,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 27 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-447.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-448",
+    "title": "Product 28",
+    "category": "music-instruments",
+    "price": 47,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 28 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-448.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-449",
+    "title": "Product 29",
+    "category": "music-instruments",
+    "price": 48,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 29 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-449.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-450",
+    "title": "Product 30",
+    "category": "music-instruments",
+    "price": 49,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 30 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/music-instruments/product-450.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  }
+]

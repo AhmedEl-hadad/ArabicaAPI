@@ -1,0 +1,422 @@
+[
+  {
+    "id": "product-241",
+    "title": "Product 1",
+    "category": "kitchen",
+    "price": 20,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 1 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-241.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-242",
+    "title": "Product 2",
+    "category": "kitchen",
+    "price": 21,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 2 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-242.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-243",
+    "title": "Product 3",
+    "category": "kitchen",
+    "price": 22,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 3 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-243.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-244",
+    "title": "Product 4",
+    "category": "kitchen",
+    "price": 23,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 4 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-244.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-245",
+    "title": "Product 5",
+    "category": "kitchen",
+    "price": 24,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 5 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-245.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-246",
+    "title": "Product 6",
+    "category": "kitchen",
+    "price": 25,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 6 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-246.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-247",
+    "title": "Product 7",
+    "category": "kitchen",
+    "price": 26,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 7 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-247.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-248",
+    "title": "Product 8",
+    "category": "kitchen",
+    "price": 27,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 8 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-248.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-249",
+    "title": "Product 9",
+    "category": "kitchen",
+    "price": 28,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 9 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-249.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-250",
+    "title": "Product 10",
+    "category": "kitchen",
+    "price": 29,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 10 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-250.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-251",
+    "title": "Product 11",
+    "category": "kitchen",
+    "price": 30,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 11 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-251.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-252",
+    "title": "Product 12",
+    "category": "kitchen",
+    "price": 31,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 12 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-252.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-253",
+    "title": "Product 13",
+    "category": "kitchen",
+    "price": 32,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 13 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-253.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-254",
+    "title": "Product 14",
+    "category": "kitchen",
+    "price": 33,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 14 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-254.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-255",
+    "title": "Product 15",
+    "category": "kitchen",
+    "price": 34,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 15 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-255.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-256",
+    "title": "Product 16",
+    "category": "kitchen",
+    "price": 35,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 16 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-256.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-257",
+    "title": "Product 17",
+    "category": "kitchen",
+    "price": 36,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 17 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-257.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-258",
+    "title": "Product 18",
+    "category": "kitchen",
+    "price": 37,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 18 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-258.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-259",
+    "title": "Product 19",
+    "category": "kitchen",
+    "price": 38,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 19 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-259.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-260",
+    "title": "Product 20",
+    "category": "kitchen",
+    "price": 39,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 20 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-260.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-261",
+    "title": "Product 21",
+    "category": "kitchen",
+    "price": 40,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 21 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-261.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-262",
+    "title": "Product 22",
+    "category": "kitchen",
+    "price": 41,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 22 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-262.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-263",
+    "title": "Product 23",
+    "category": "kitchen",
+    "price": 42,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 23 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-263.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-264",
+    "title": "Product 24",
+    "category": "kitchen",
+    "price": 43,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 24 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-264.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-265",
+    "title": "Product 25",
+    "category": "kitchen",
+    "price": 44,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 25 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-265.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-266",
+    "title": "Product 26",
+    "category": "kitchen",
+    "price": 45,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 26 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-266.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-267",
+    "title": "Product 27",
+    "category": "kitchen",
+    "price": 46,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 27 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-267.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-268",
+    "title": "Product 28",
+    "category": "kitchen",
+    "price": 47,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 28 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-268.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-269",
+    "title": "Product 29",
+    "category": "kitchen",
+    "price": 48,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 29 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-269.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-270",
+    "title": "Product 30",
+    "category": "kitchen",
+    "price": 49,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 30 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/kitchen/product-270.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  }
+]

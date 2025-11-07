@@ -1,0 +1,422 @@
+[
+  {
+    "id": "product-571",
+    "title": "Product 1",
+    "category": "appliances",
+    "price": 20,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 1 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-571.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-572",
+    "title": "Product 2",
+    "category": "appliances",
+    "price": 21,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 2 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-572.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-573",
+    "title": "Product 3",
+    "category": "appliances",
+    "price": 22,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 3 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-573.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-574",
+    "title": "Product 4",
+    "category": "appliances",
+    "price": 23,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 4 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-574.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-575",
+    "title": "Product 5",
+    "category": "appliances",
+    "price": 24,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 5 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-575.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-576",
+    "title": "Product 6",
+    "category": "appliances",
+    "price": 25,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 6 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-576.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-577",
+    "title": "Product 7",
+    "category": "appliances",
+    "price": 26,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 7 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-577.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-578",
+    "title": "Product 8",
+    "category": "appliances",
+    "price": 27,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 8 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-578.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-579",
+    "title": "Product 9",
+    "category": "appliances",
+    "price": 28,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 9 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-579.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-580",
+    "title": "Product 10",
+    "category": "appliances",
+    "price": 29,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 10 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-580.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-581",
+    "title": "Product 11",
+    "category": "appliances",
+    "price": 30,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 11 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-581.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-582",
+    "title": "Product 12",
+    "category": "appliances",
+    "price": 31,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 12 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-582.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-583",
+    "title": "Product 13",
+    "category": "appliances",
+    "price": 32,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 13 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-583.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-584",
+    "title": "Product 14",
+    "category": "appliances",
+    "price": 33,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 14 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-584.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-585",
+    "title": "Product 15",
+    "category": "appliances",
+    "price": 34,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 15 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-585.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-586",
+    "title": "Product 16",
+    "category": "appliances",
+    "price": 35,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 16 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-586.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-587",
+    "title": "Product 17",
+    "category": "appliances",
+    "price": 36,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 17 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-587.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-588",
+    "title": "Product 18",
+    "category": "appliances",
+    "price": 37,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 18 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-588.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-589",
+    "title": "Product 19",
+    "category": "appliances",
+    "price": 38,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 19 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-589.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-590",
+    "title": "Product 20",
+    "category": "appliances",
+    "price": 39,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 20 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-590.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-591",
+    "title": "Product 21",
+    "category": "appliances",
+    "price": 40,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 21 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-591.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-592",
+    "title": "Product 22",
+    "category": "appliances",
+    "price": 41,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 22 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-592.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-593",
+    "title": "Product 23",
+    "category": "appliances",
+    "price": 42,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 23 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-593.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-594",
+    "title": "Product 24",
+    "category": "appliances",
+    "price": 43,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 24 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-594.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-595",
+    "title": "Product 25",
+    "category": "appliances",
+    "price": 44,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 25 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-595.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-596",
+    "title": "Product 26",
+    "category": "appliances",
+    "price": 45,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 26 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-596.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-597",
+    "title": "Product 27",
+    "category": "appliances",
+    "price": 46,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 27 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-597.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-598",
+    "title": "Product 28",
+    "category": "appliances",
+    "price": 47,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 28 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-598.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-599",
+    "title": "Product 29",
+    "category": "appliances",
+    "price": 48,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 29 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-599.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-600",
+    "title": "Product 30",
+    "category": "appliances",
+    "price": 49,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 30 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/appliances/product-600.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  }
+]

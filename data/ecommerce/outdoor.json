@@ -1,0 +1,422 @@
+[
+  {
+    "id": "product-451",
+    "title": "Product 1",
+    "category": "outdoor",
+    "price": 20,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 1 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-451.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-452",
+    "title": "Product 2",
+    "category": "outdoor",
+    "price": 21,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 2 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-452.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-453",
+    "title": "Product 3",
+    "category": "outdoor",
+    "price": 22,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 3 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-453.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-454",
+    "title": "Product 4",
+    "category": "outdoor",
+    "price": 23,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 4 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-454.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-455",
+    "title": "Product 5",
+    "category": "outdoor",
+    "price": 24,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 5 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-455.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-456",
+    "title": "Product 6",
+    "category": "outdoor",
+    "price": 25,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 6 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-456.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-457",
+    "title": "Product 7",
+    "category": "outdoor",
+    "price": 26,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 7 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-457.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-458",
+    "title": "Product 8",
+    "category": "outdoor",
+    "price": 27,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 8 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-458.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-459",
+    "title": "Product 9",
+    "category": "outdoor",
+    "price": 28,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 9 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-459.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-460",
+    "title": "Product 10",
+    "category": "outdoor",
+    "price": 29,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 10 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-460.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-461",
+    "title": "Product 11",
+    "category": "outdoor",
+    "price": 30,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 11 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-461.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-462",
+    "title": "Product 12",
+    "category": "outdoor",
+    "price": 31,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 12 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-462.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-463",
+    "title": "Product 13",
+    "category": "outdoor",
+    "price": 32,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 13 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-463.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-464",
+    "title": "Product 14",
+    "category": "outdoor",
+    "price": 33,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 14 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-464.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-465",
+    "title": "Product 15",
+    "category": "outdoor",
+    "price": 34,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 15 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-465.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-466",
+    "title": "Product 16",
+    "category": "outdoor",
+    "price": 35,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 16 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-466.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-467",
+    "title": "Product 17",
+    "category": "outdoor",
+    "price": 36,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 17 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-467.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-468",
+    "title": "Product 18",
+    "category": "outdoor",
+    "price": 37,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 18 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-468.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-469",
+    "title": "Product 19",
+    "category": "outdoor",
+    "price": 38,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 19 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-469.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-470",
+    "title": "Product 20",
+    "category": "outdoor",
+    "price": 39,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 20 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-470.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-471",
+    "title": "Product 21",
+    "category": "outdoor",
+    "price": 40,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 21 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-471.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-472",
+    "title": "Product 22",
+    "category": "outdoor",
+    "price": 41,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 22 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-472.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-473",
+    "title": "Product 23",
+    "category": "outdoor",
+    "price": 42,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 23 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-473.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-474",
+    "title": "Product 24",
+    "category": "outdoor",
+    "price": 43,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 24 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-474.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-475",
+    "title": "Product 25",
+    "category": "outdoor",
+    "price": 44,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 25 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-475.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-476",
+    "title": "Product 26",
+    "category": "outdoor",
+    "price": 45,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 26 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-476.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-477",
+    "title": "Product 27",
+    "category": "outdoor",
+    "price": 46,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 27 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-477.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-478",
+    "title": "Product 28",
+    "category": "outdoor",
+    "price": 47,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 28 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-478.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-479",
+    "title": "Product 29",
+    "category": "outdoor",
+    "price": 48,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 29 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-479.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-480",
+    "title": "Product 30",
+    "category": "outdoor",
+    "price": 49,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 30 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/outdoor/product-480.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  }
+]

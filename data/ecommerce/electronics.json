@@ -1,0 +1,422 @@
+[
+  {
+    "id": "product-001",
+    "title": "Wireless Headphones",
+    "category": "electronics",
+    "price": 50,
+    "rating": 3.5,
+    "brand": "TechSound",
+    "description": "High-quality wireless headphones from TechSound, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-001.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-002",
+    "title": "Smartphone",
+    "category": "electronics",
+    "price": 51,
+    "rating": 3.6,
+    "brand": "PhoneX",
+    "description": "High-quality smartphone from PhoneX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-002.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-003",
+    "title": "Laptop",
+    "category": "electronics",
+    "price": 52,
+    "rating": 3.7,
+    "brand": "CompuTech",
+    "description": "High-quality laptop from CompuTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-003.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-004",
+    "title": "Tablet",
+    "category": "electronics",
+    "price": 53,
+    "rating": 3.8,
+    "brand": "ScreenPro",
+    "description": "High-quality tablet from ScreenPro, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-004.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-005",
+    "title": "Smart Watch",
+    "category": "electronics",
+    "price": 54,
+    "rating": 3.9,
+    "brand": "AudioMax",
+    "description": "High-quality smart watch from AudioMax, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-005.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-006",
+    "title": "Camera",
+    "category": "electronics",
+    "price": 55,
+    "rating": 4.0,
+    "brand": "VisionTech",
+    "description": "High-quality camera from VisionTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-006.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-007",
+    "title": "Speaker",
+    "category": "electronics",
+    "price": 56,
+    "rating": 4.1,
+    "brand": "GameZone",
+    "description": "High-quality speaker from GameZone, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-007.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-008",
+    "title": "Monitor",
+    "category": "electronics",
+    "price": 57,
+    "rating": 4.2,
+    "brand": "SmartHome",
+    "description": "High-quality monitor from SmartHome, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-008.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-009",
+    "title": "Keyboard",
+    "category": "electronics",
+    "price": 58,
+    "rating": 4.3,
+    "brand": "FlyTech",
+    "description": "High-quality keyboard from FlyTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-009.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-010",
+    "title": "Mouse",
+    "category": "electronics",
+    "price": 59,
+    "rating": 4.4,
+    "brand": "ActionCam",
+    "description": "High-quality mouse from ActionCam, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-010.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-011",
+    "title": "Webcam",
+    "category": "electronics",
+    "price": 60,
+    "rating": 4.5,
+    "brand": "TechSound",
+    "description": "High-quality webcam from TechSound, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-011.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-012",
+    "title": "Headset",
+    "category": "electronics",
+    "price": 61,
+    "rating": 4.6,
+    "brand": "PhoneX",
+    "description": "High-quality headset from PhoneX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-012.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-013",
+    "title": "Charger",
+    "category": "electronics",
+    "price": 62,
+    "rating": 4.7,
+    "brand": "CompuTech",
+    "description": "High-quality charger from CompuTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-013.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-014",
+    "title": "Power Bank",
+    "category": "electronics",
+    "price": 63,
+    "rating": 4.8,
+    "brand": "ScreenPro",
+    "description": "High-quality power bank from ScreenPro, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-014.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-015",
+    "title": "USB Drive",
+    "category": "electronics",
+    "price": 64,
+    "rating": 4.9,
+    "brand": "AudioMax",
+    "description": "High-quality usb drive from AudioMax, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-015.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-016",
+    "title": "SSD Drive",
+    "category": "electronics",
+    "price": 65,
+    "rating": 3.5,
+    "brand": "VisionTech",
+    "description": "High-quality ssd drive from VisionTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-016.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-017",
+    "title": "Router",
+    "category": "electronics",
+    "price": 66,
+    "rating": 3.6,
+    "brand": "GameZone",
+    "description": "High-quality router from GameZone, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-017.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-018",
+    "title": "Modem",
+    "category": "electronics",
+    "price": 67,
+    "rating": 3.7,
+    "brand": "SmartHome",
+    "description": "High-quality modem from SmartHome, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-018.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-019",
+    "title": "Printer",
+    "category": "electronics",
+    "price": 68,
+    "rating": 3.8,
+    "brand": "FlyTech",
+    "description": "High-quality printer from FlyTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-019.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-020",
+    "title": "Scanner",
+    "category": "electronics",
+    "price": 69,
+    "rating": 3.9,
+    "brand": "ActionCam",
+    "description": "High-quality scanner from ActionCam, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-020.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-021",
+    "title": "Projector",
+    "category": "electronics",
+    "price": 70,
+    "rating": 4.0,
+    "brand": "TechSound",
+    "description": "High-quality projector from TechSound, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-021.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-022",
+    "title": "VR Headset",
+    "category": "electronics",
+    "price": 71,
+    "rating": 4.1,
+    "brand": "PhoneX",
+    "description": "High-quality vr headset from PhoneX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-022.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-023",
+    "title": "Gaming Console",
+    "category": "electronics",
+    "price": 72,
+    "rating": 4.2,
+    "brand": "CompuTech",
+    "description": "High-quality gaming console from CompuTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-023.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-024",
+    "title": "Smart TV",
+    "category": "electronics",
+    "price": 73,
+    "rating": 4.3,
+    "brand": "ScreenPro",
+    "description": "High-quality smart tv from ScreenPro, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-024.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-025",
+    "title": "Bluetooth Earbuds",
+    "category": "electronics",
+    "price": 74,
+    "rating": 4.4,
+    "brand": "AudioMax",
+    "description": "High-quality bluetooth earbuds from AudioMax, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-025.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-026",
+    "title": "Fitness Tracker",
+    "category": "electronics",
+    "price": 75,
+    "rating": 4.5,
+    "brand": "VisionTech",
+    "description": "High-quality fitness tracker from VisionTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-026.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-027",
+    "title": "Smart Thermostat",
+    "category": "electronics",
+    "price": 76,
+    "rating": 4.6,
+    "brand": "GameZone",
+    "description": "High-quality smart thermostat from GameZone, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-027.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-028",
+    "title": "Security Camera",
+    "category": "electronics",
+    "price": 77,
+    "rating": 4.7,
+    "brand": "SmartHome",
+    "description": "High-quality security camera from SmartHome, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-028.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-029",
+    "title": "Drone",
+    "category": "electronics",
+    "price": 78,
+    "rating": 4.8,
+    "brand": "FlyTech",
+    "description": "High-quality drone from FlyTech, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-029.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-030",
+    "title": "Action Camera",
+    "category": "electronics",
+    "price": 79,
+    "rating": 4.9,
+    "brand": "ActionCam",
+    "description": "High-quality action camera from ActionCam, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-030.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  }
+]

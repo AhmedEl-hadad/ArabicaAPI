@@ -1,0 +1,422 @@
+[
+  {
+    "id": "product-091",
+    "title": "Product 1",
+    "category": "sports",
+    "price": 25,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 1 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-091.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-092",
+    "title": "Product 2",
+    "category": "sports",
+    "price": 26,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 2 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-092.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-093",
+    "title": "Product 3",
+    "category": "sports",
+    "price": 27,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 3 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-093.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-094",
+    "title": "Product 4",
+    "category": "sports",
+    "price": 28,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 4 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-094.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-095",
+    "title": "Product 5",
+    "category": "sports",
+    "price": 29,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 5 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-095.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-096",
+    "title": "Product 6",
+    "category": "sports",
+    "price": 30,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 6 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-096.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-097",
+    "title": "Product 7",
+    "category": "sports",
+    "price": 31,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 7 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-097.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-098",
+    "title": "Product 8",
+    "category": "sports",
+    "price": 32,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 8 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-098.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-099",
+    "title": "Product 9",
+    "category": "sports",
+    "price": 33,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 9 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-099.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-100",
+    "title": "Product 10",
+    "category": "sports",
+    "price": 34,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 10 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-100.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-101",
+    "title": "Product 11",
+    "category": "sports",
+    "price": 35,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 11 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-101.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-102",
+    "title": "Product 12",
+    "category": "sports",
+    "price": 36,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 12 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-102.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-103",
+    "title": "Product 13",
+    "category": "sports",
+    "price": 37,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 13 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-103.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-104",
+    "title": "Product 14",
+    "category": "sports",
+    "price": 38,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 14 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-104.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-105",
+    "title": "Product 15",
+    "category": "sports",
+    "price": 39,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 15 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-105.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-106",
+    "title": "Product 16",
+    "category": "sports",
+    "price": 40,
+    "rating": 3.5,
+    "brand": "BrandX",
+    "description": "High-quality product 16 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-106.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-107",
+    "title": "Product 17",
+    "category": "sports",
+    "price": 41,
+    "rating": 3.6,
+    "brand": "BrandY",
+    "description": "High-quality product 17 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-107.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-108",
+    "title": "Product 18",
+    "category": "sports",
+    "price": 42,
+    "rating": 3.7,
+    "brand": "BrandZ",
+    "description": "High-quality product 18 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-108.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-109",
+    "title": "Product 19",
+    "category": "sports",
+    "price": 43,
+    "rating": 3.8,
+    "brand": "BrandX",
+    "description": "High-quality product 19 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-109.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-110",
+    "title": "Product 20",
+    "category": "sports",
+    "price": 44,
+    "rating": 3.9,
+    "brand": "BrandY",
+    "description": "High-quality product 20 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-110.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-111",
+    "title": "Product 21",
+    "category": "sports",
+    "price": 45,
+    "rating": 4.0,
+    "brand": "BrandZ",
+    "description": "High-quality product 21 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-111.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-112",
+    "title": "Product 22",
+    "category": "sports",
+    "price": 46,
+    "rating": 4.1,
+    "brand": "BrandX",
+    "description": "High-quality product 22 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-112.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-113",
+    "title": "Product 23",
+    "category": "sports",
+    "price": 47,
+    "rating": 4.2,
+    "brand": "BrandY",
+    "description": "High-quality product 23 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-113.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-114",
+    "title": "Product 24",
+    "category": "sports",
+    "price": 48,
+    "rating": 4.3,
+    "brand": "BrandZ",
+    "description": "High-quality product 24 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-114.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-115",
+    "title": "Product 25",
+    "category": "sports",
+    "price": 49,
+    "rating": 4.4,
+    "brand": "BrandX",
+    "description": "High-quality product 25 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-115.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-116",
+    "title": "Product 26",
+    "category": "sports",
+    "price": 50,
+    "rating": 4.5,
+    "brand": "BrandY",
+    "description": "High-quality product 26 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-116.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-117",
+    "title": "Product 27",
+    "category": "sports",
+    "price": 51,
+    "rating": 4.6,
+    "brand": "BrandZ",
+    "description": "High-quality product 27 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-117.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-118",
+    "title": "Product 28",
+    "category": "sports",
+    "price": 52,
+    "rating": 4.7,
+    "brand": "BrandX",
+    "description": "High-quality product 28 from BrandX, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-118.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-119",
+    "title": "Product 29",
+    "category": "sports",
+    "price": 53,
+    "rating": 4.8,
+    "brand": "BrandY",
+    "description": "High-quality product 29 from BrandY, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-119.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  },
+  {
+    "id": "product-120",
+    "title": "Product 30",
+    "category": "sports",
+    "price": 54,
+    "rating": 4.9,
+    "brand": "BrandZ",
+    "description": "High-quality product 30 from BrandZ, perfect for your needs",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/sports/product-120.jpg",
+    "specs": {
+      "material": "Premium Quality",
+      "warranty": "1 Year"
+    }
+  }
+]
