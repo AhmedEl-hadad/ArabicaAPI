@@ -54,9 +54,8 @@ There is a dedicated assets branch for images used across datasets.
 ## 📘 Documentation
 
 - **Data Guidelines:**
-```
+  
  > https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/DATA_GUIDELINES.md
-```
 
 ---
 
