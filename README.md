@@ -19,11 +19,17 @@ Or fetch it directly using the raw GitHub file URL, just like calling a real API
 This gives you realistic, ready-to-use data for:
 
 ecommerce apps
+
 travel and tourism projects
+
 fitness apps
+
 educational platforms
+
 mockups and prototypes
+
 dashboards
+
 UI testing
 
 anything that needs real-looking data without external APIs
