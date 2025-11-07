@@ -18,7 +18,7 @@ It is built for:
 - Beginner-friendly and advanced-friendly workflows
 
 **Note:**  
-Some datasets are static and stored as JSON. This is intentional for stability and simplicity. Future updates may include dynamic data.
+Datasets are static and stored as JSON. This is intentional for stability and simplicity. Future updates may include dynamic data.
 
 ---
 
