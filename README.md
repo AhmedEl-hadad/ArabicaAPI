@@ -5,7 +5,7 @@ Everything is pre-structured, realistic, and ready to fetch directly from your c
 
 This repo focuses on **Arabic-friendly data** to help developers build apps quickly without searching for datasets or using paid APIs.
 
-![Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/assets/695e86e0-ea94-40e0-8da0-617baddbc44d.png?raw=true)
+![Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/assets/thumbnail.jpg?raw=true)
 
 ---
 
