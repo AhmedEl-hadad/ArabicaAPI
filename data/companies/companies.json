@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "company-001",
+    "name": "شركة النور للتكنولوجيا",
+    "industry": "تكنولوجيا المعلومات",
+    "employees": 250,
+    "website": "https://www.noor-tech.com",
+    "location": {
+      "city": "الرياض",
+      "district": "العليا",
+      "country": "السعودية"
+    },
+    "foundingDate": "2015-03-20",
+    "ceo": "أحمد محمد السعيد",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-001.png",
+    "description": "شركة رائدة في مجال تطوير البرمجيات والحلول التقنية",
+    "tags": ["برمجيات", "تطوير", "تقنية"],
+    "social": {
+      "instagram": "https://instagram.com/noor_tech",
+      "facebook": "https://facebook.com/noor.tech",
+      "tiktok": "https://tiktok.com/@noor_tech",
+      "x": "https://x.com/noor_tech"
+    },
+    "jobs": ["مطور ويب", "مهندس برمجيات", "مصمم واجهات"]
+  },
+  {
+    "id": "company-002",
+    "name": "مؤسسة الأمل للرعاية الصحية",
+    "industry": "الرعاية الصحية",
+    "employees": 180,
+    "website": "https://www.amal-healthcare.com",
+    "location": {
+      "city": "جدة",
+      "district": "الروضة",
+      "country": "السعودية"
+    },
+    "foundingDate": "2010-07-15",
+    "ceo": "فاطمة علي حسن",
+    "rating": 4.8,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-002.png",
+    "description": "مؤسسة متخصصة في تقديم خدمات الرعاية الصحية والطبية",
+    "tags": ["صحة", "طب", "رعاية"],
+    "social": {
+      "instagram": "https://instagram.com/amal_healthcare",
+      "facebook": "https://facebook.com/amal.healthcare",
+      "tiktok": "https://tiktok.com/@amal_healthcare",
+      "x": "https://x.com/amal_healthcare"
+    },
+    "jobs": ["طبيب", "ممرض", "إداري صحي"]
+  },
+  {
+    "id": "company-003",
+    "name": "مجموعة الهدى للتمويل",
+    "industry": "الخدمات المالية",
+    "employees": 120,
+    "website": "https://www.alhuda-finance.com",
+    "location": {
+      "city": "الدمام",
+      "district": "الكورنيش",
+      "country": "السعودية"
+    },
+    "foundingDate": "2012-11-08",
+    "ceo": "خالد عبدالله المطيري",
+    "rating": 4.3,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-003.png",
+    "description": "مجموعة متخصصة في الخدمات المالية والاستثمار",
+    "tags": ["تمويل", "استثمار", "مصرفية"],
+    "social": {
+      "instagram": "https://instagram.com/alhuda_finance",
+      "facebook": "https://facebook.com/alhuda.finance",
+      "tiktok": "https://tiktok.com/@alhuda_finance",
+      "x": "https://x.com/alhuda_finance"
+    },
+    "jobs": ["محاسب", "مستشار مالي", "مدير استثمار"]
+  },
+  {
+    "id": "company-004",
+    "name": "شركة الفجر للتعليم",
+    "industry": "التعليم",
+    "employees": 95,
+    "website": "https://www.alfajr-education.com",
+    "location": {
+      "city": "مكة المكرمة",
+      "district": "العزيزية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2018-02-14",
+    "ceo": "سارة أحمد الزهراني",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-004.png",
+    "description": "شركة تعليمية تقدم برامج تدريبية وتطويرية عالية الجودة",
+    "tags": ["تعليم", "تدريب", "تطوير"],
+    "social": {
+      "instagram": "https://instagram.com/alfajr_education",
+      "facebook": "https://facebook.com/alfajr.education",
+      "tiktok": "https://tiktok.com/@alfajr_education",
+      "x": "https://x.com/alfajr_education"
+    },
+    "jobs": ["معلم", "مدرب", "منسق تعليمي"]
+  },
+  {
+    "id": "company-005",
+    "name": "مؤسسة السلام للإنشاءات",
+    "industry": "الإنشاءات",
+    "employees": 450,
+    "website": "https://www.alsalam-construction.com",
+    "location": {
+      "city": "المدينة المنورة",
+      "district": "القباء",
+      "country": "السعودية"
+    },
+    "foundingDate": "2005-05-30",
+    "ceo": "محمود حسن القرشي",
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-005.png",
+    "description": "مؤسسة رائدة في مجال الإنشاءات والمقاولات",
+    "tags": ["إنشاءات", "مقاولات", "هندسة مدنية"],
+    "social": {
+      "instagram": "https://instagram.com/alsalam_construction",
+      "facebook": "https://facebook.com/alsalam.construction",
+      "tiktok": "https://tiktok.com/@alsalam_construction",
+      "x": "https://x.com/alsalam_construction"
+    },
+    "jobs": ["مهندس مدني", "مهندس معماري", "مدير مشروع"]
+  },
+  {
+    "id": "company-006",
+    "name": "شركة الأفق للسياحة",
+    "industry": "السياحة والسفر",
+    "employees": 65,
+    "website": "https://www.alufuq-travel.com",
+    "location": {
+      "city": "الطائف",
+      "district": "الهدا",
+      "country": "السعودية"
+    },
+    "foundingDate": "2019-09-12",
+    "ceo": "نورا سعيد الغامدي",
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-006.png",
+    "description": "شركة متخصصة في تنظيم رحلات سياحية وبرامج سفر",
+    "tags": ["سياحة", "سفر", "رحلات"],
+    "social": {
+      "instagram": "https://instagram.com/alufuq_travel",
+      "facebook": "https://facebook.com/alufuq.travel",
+      "tiktok": "https://tiktok.com/@alufuq_travel",
+      "x": "https://x.com/alufuq_travel"
+    },
+    "jobs": ["منسق سياحي", "دليل سياحي", "مدير رحلات"]
+  },
+  {
+    "id": "company-007",
+    "name": "مؤسسة البدر للزراعة",
+    "industry": "الزراعة",
+    "employees": 320,
+    "website": "https://www.albader-agriculture.com",
+    "location": {
+      "city": "أبها",
+      "district": "المنسك",
+      "country": "السعودية"
+    },
+    "foundingDate": "2011-04-25",
+    "ceo": "علي خالد العسيري",
+    "rating": 4.2,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-007.png",
+    "description": "مؤسسة متخصصة في الزراعة الحديثة والإنتاج الزراعي",
+    "tags": ["زراعة", "إنتاج", "بيئة"],
+    "social": {
+      "instagram": "https://instagram.com/albader_agriculture",
+      "facebook": "https://facebook.com/albader.agriculture",
+      "tiktok": "https://tiktok.com/@albader_agriculture",
+      "x": "https://x.com/albader_agriculture"
+    },
+    "jobs": ["مهندس زراعي", "فني زراعي", "مدير مزرعة"]
+  },
+  {
+    "id": "company-008",
+    "name": "مجموعة النخبة للتسويق",
+    "industry": "التسويق والإعلان",
+    "employees": 85,
+    "website": "https://www.alnukhba-marketing.com",
+    "location": {
+      "city": "بريدة",
+      "district": "الريان",
+      "country": "السعودية"
+    },
+    "foundingDate": "2017-06-18",
+    "ceo": "يوسف محمد القحطاني",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-008.png",
+    "description": "مجموعة متخصصة في التسويق الرقمي والإعلان",
+    "tags": ["تسويق", "إعلان", "رقمي"],
+    "social": {
+      "instagram": "https://instagram.com/alnukhba_marketing",
+      "facebook": "https://facebook.com/alnukhba.marketing",
+      "tiktok": "https://tiktok.com/@alnukhba_marketing",
+      "x": "https://x.com/alnukhba_marketing"
+    },
+    "jobs": ["مدير تسويق", "مصمم جرافيك", "كاتب محتوى"]
+  },
+  {
+    "id": "company-009",
+    "name": "شركة اليسر للتجارة",
+    "industry": "التجارة",
+    "employees": 150,
+    "website": "https://www.alaysar-trade.com",
+    "location": {
+      "city": "تبوك",
+      "district": "الورود",
+      "country": "السعودية"
+    },
+    "foundingDate": "2014-08-22",
+    "ceo": "مريم عبدالرحمن الحربي",
+    "rating": 4.1,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-009.png",
+    "description": "شركة تجارية متخصصة في الاستيراد والتصدير",
+    "tags": ["تجارة", "استيراد", "تصدير"],
+    "social": {
+      "instagram": "https://instagram.com/alaysar_trade",
+      "facebook": "https://facebook.com/alaysar.trade",
+      "tiktok": "https://tiktok.com/@alaysar_trade",
+      "x": "https://x.com/alaysar_trade"
+    },
+    "jobs": ["مدير مبيعات", "مندوب تجاري", "محاسب"]
+  },
+  {
+    "id": "company-010",
+    "name": "مؤسسة النجاح للاستشارات",
+    "industry": "الاستشارات",
+    "employees": 45,
+    "website": "https://www.alnajah-consulting.com",
+    "location": {
+      "city": "حائل",
+      "district": "المطار",
+      "country": "السعودية"
+    },
+    "foundingDate": "2016-10-05",
+    "ceo": "حسن سعيد الشمري",
+    "rating": 4.9,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-010.png",
+    "description": "مؤسسة استشارية متخصصة في الأعمال والإدارة",
+    "tags": ["استشارات", "إدارة", "أعمال"],
+    "social": {
+      "instagram": "https://instagram.com/alnajah_consulting",
+      "facebook": "https://facebook.com/alnajah.consulting",
+      "tiktok": "https://tiktok.com/@alnajah_consulting",
+      "x": "https://x.com/alnajah_consulting"
+    },
+    "jobs": ["مستشار أعمال", "محلل استراتيجي", "مدير مشروع"]
+  },
+  {
+    "id": "company-011",
+    "name": "شركة الأمل للصناعات التحويلية",
+    "industry": "الصناعة",
+    "employees": 580,
+    "website": "https://www.amal-industries.com",
+    "location": {
+      "city": "جازان",
+      "district": "الروابي",
+      "country": "السعودية"
+    },
+    "foundingDate": "2008-12-10",
+    "ceo": "عبدالله إبراهيم الجازي",
+    "rating": 4.3,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-011.png",
+    "description": "شركة رائدة في الصناعات التحويلية والإنتاج",
+    "tags": ["صناعة", "إنتاج", "تحويل"],
+    "social": {
+      "instagram": "https://instagram.com/amal_industries",
+      "facebook": "https://facebook.com/amal.industries",
+      "tiktok": "https://tiktok.com/@amal_industries",
+      "x": "https://x.com/amal_industries"
+    },
+    "jobs": ["مهندس إنتاج", "فني تصنيع", "مدير جودة"]
+  },
+  {
+    "id": "company-012",
+    "name": "مؤسسة الرؤية للإعلام",
+    "industry": "الإعلام",
+    "employees": 110,
+    "website": "https://www.alruya-media.com",
+    "location": {
+      "city": "نجران",
+      "district": "الفيصلية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2013-01-28",
+    "ceo": "ليلى خالد النجراني",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-012.png",
+    "description": "مؤسسة إعلامية تنتج محتوى إعلامي وتلفزيوني",
+    "tags": ["إعلام", "إنتاج", "محتوى"],
+    "social": {
+      "instagram": "https://instagram.com/alruya_media",
+      "facebook": "https://facebook.com/alruya.media",
+      "tiktok": "https://tiktok.com/@alruya_media",
+      "x": "https://x.com/alruya_media"
+    },
+    "jobs": ["مذيع", "منتج إعلامي", "محرر محتوى"]
+  },
+  {
+    "id": "company-013",
+    "name": "مجموعة الوفاء للخدمات اللوجستية",
+    "industry": "الخدمات اللوجستية",
+    "employees": 220,
+    "website": "https://www.alwafa-logistics.com",
+    "location": {
+      "city": "الباحة",
+      "district": "الظفير",
+      "country": "السعودية"
+    },
+    "foundingDate": "2015-07-14",
+    "ceo": "طارق علي الزهراني",
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-013.png",
+    "description": "مجموعة متخصصة في الخدمات اللوجستية والنقل",
+    "tags": ["لوجستيات", "نقل", "شحن"],
+    "social": {
+      "instagram": "https://instagram.com/alwafa_logistics",
+      "facebook": "https://facebook.com/alwafa.logistics",
+      "tiktok": "https://tiktok.com/@alwafa_logistics",
+      "x": "https://x.com/alwafa_logistics"
+    },
+    "jobs": ["مدير لوجستيات", "منسق شحن", "سائق"]
+  },
+  {
+    "id": "company-014",
+    "name": "شركة السعادة للترفيه",
+    "industry": "الترفيه",
+    "employees": 75,
+    "website": "https://www.alsada-entertainment.com",
+    "location": {
+      "city": "سكاكا",
+      "district": "الفيصلية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2019-03-09",
+    "ceo": "سعد محمد الجوف",
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-014.png",
+    "description": "شركة متخصصة في تنظيم الفعاليات والأنشطة الترفيهية",
+    "tags": ["ترفيه", "فعاليات", "أنشطة"],
+    "social": {
+      "instagram": "https://instagram.com/alsada_entertainment",
+      "facebook": "https://facebook.com/alsada.entertainment",
+      "tiktok": "https://tiktok.com/@alsada_entertainment",
+      "x": "https://x.com/alsada_entertainment"
+    },
+    "jobs": ["منظم فعاليات", "مصور", "فنان"]
+  },
+  {
+    "id": "company-015",
+    "name": "مؤسسة الإبداع للتصميم",
+    "industry": "التصميم",
+    "employees": 55,
+    "website": "https://www.alebdae-design.com",
+    "location": {
+      "city": "عرعر",
+      "district": "المنصورية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2018-11-20",
+    "ceo": "زينب أحمد الشمري",
+    "rating": 4.8,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-015.png",
+    "description": "مؤسسة متخصصة في التصميم الجرافيكي والداخلي",
+    "tags": ["تصميم", "جرافيك", "إبداع"],
+    "social": {
+      "instagram": "https://instagram.com/alebdae_design",
+      "facebook": "https://facebook.com/alebdae.design",
+      "tiktok": "https://tiktok.com/@alebdae_design",
+      "x": "https://x.com/alebdae_design"
+    },
+    "jobs": ["مصمم جرافيك", "مصمم داخلي", "فنان رقمي"]
+  },
+  {
+    "id": "company-016",
+    "name": "شركة الأمانة القانونية",
+    "industry": "القانون",
+    "employees": 35,
+    "website": "https://www.alamana-legal.com",
+    "location": {
+      "city": "الخبر",
+      "district": "العقربية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2017-04-16",
+    "ceo": "منى حسن الخالدي",
+    "rating": 4.9,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-016.png",
+    "description": "شركة محاماة متخصصة في الخدمات القانونية",
+    "tags": ["قانون", "محاماة", "استشارات قانونية"],
+    "social": {
+      "instagram": "https://instagram.com/alamana_legal",
+      "facebook": "https://facebook.com/alamana.legal",
+      "tiktok": "https://tiktok.com/@alamana_legal",
+      "x": "https://x.com/alamana_legal"
+    },
+    "jobs": ["محامي", "مساعد قانوني", "مستشار قانوني"]
+  },
+  {
+    "id": "company-017",
+    "name": "مؤسسة التقدم للهندسة",
+    "industry": "الهندسة",
+    "employees": 280,
+    "website": "https://www.altagaddom-engineering.com",
+    "location": {
+      "city": "الجبيل",
+      "district": "الدارين",
+      "country": "السعودية"
+    },
+    "foundingDate": "2009-09-03",
+    "ceo": "رامي خالد القحطاني",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-017.png",
+    "description": "مؤسسة هندسية متخصصة في المشاريع الكبرى",
+    "tags": ["هندسة", "مشاريع", "تصميم هندسي"],
+    "social": {
+      "instagram": "https://instagram.com/altagaddom_engineering",
+      "facebook": "https://facebook.com/altagaddom.engineering",
+      "tiktok": "https://tiktok.com/@altagaddom_engineering",
+      "x": "https://x.com/altagaddom_engineering"
+    },
+    "jobs": ["مهندس كهرباء", "مهندس ميكانيكي", "مهندس مدني"]
+  },
+  {
+    "id": "company-018",
+    "name": "مجموعة النجاح للتدريب",
+    "industry": "التدريب والتعليم",
+    "employees": 70,
+    "website": "https://www.alnajah-training.com",
+    "location": {
+      "city": "ينبع",
+      "district": "الهيئة الملكية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2016-02-11",
+    "ceo": "مها سعيد البقمي",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-018.png",
+    "description": "مجموعة متخصصة في التدريب المهني والتطوير",
+    "tags": ["تدريب", "تطوير", "مهني"],
+    "social": {
+      "instagram": "https://instagram.com/alnajah_training",
+      "facebook": "https://facebook.com/alnajah.training",
+      "tiktok": "https://tiktok.com/@alnajah_training",
+      "x": "https://x.com/alnajah_training"
+    },
+    "jobs": ["مدرب", "منسق تدريب", "مستشار تطوير"]
+  },
+  {
+    "id": "company-019",
+    "name": "شركة المستقبل للطاقة",
+    "industry": "الطاقة",
+    "employees": 1200,
+    "website": "https://www.almustaqbal-energy.com",
+    "location": {
+      "city": "القطيف",
+      "district": "الشاطئ",
+      "country": "السعودية"
+    },
+    "foundingDate": "2003-06-25",
+    "ceo": "نواف عبدالله القطيفي",
+    "rating": 4.2,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-019.png",
+    "description": "شركة رائدة في مجال الطاقة المتجددة والنفط",
+    "tags": ["طاقة", "متجددة", "نفط"],
+    "social": {
+      "instagram": "https://instagram.com/almustaqbal_energy",
+      "facebook": "https://facebook.com/almustaqbal.energy",
+      "tiktok": "https://tiktok.com/@almustaqbal_energy",
+      "x": "https://x.com/almustaqbal_energy"
+    },
+    "jobs": ["مهندس طاقة", "فني محطات", "مدير عمليات"]
+  },
+  {
+    "id": "company-020",
+    "name": "مؤسسة الأمل للتأمين",
+    "industry": "التأمين",
+    "employees": 140,
+    "website": "https://www.amal-insurance.com",
+    "location": {
+      "city": "الظهران",
+      "district": "الدوحة",
+      "country": "السعودية"
+    },
+    "foundingDate": "2014-12-07",
+    "ceo": "باسم محمد الخليفي",
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-020.png",
+    "description": "مؤسسة تأمينية تقدم خدمات التأمين الشامل",
+    "tags": ["تأمين", "خدمات مالية", "حماية"],
+    "social": {
+      "instagram": "https://instagram.com/amal_insurance",
+      "facebook": "https://facebook.com/amal.insurance",
+      "tiktok": "https://tiktok.com/@amal_insurance",
+      "x": "https://x.com/amal_insurance"
+    },
+    "jobs": ["مندوب تأمين", "محلل مخاطر", "مدير علاقات عملاء"]
+  },
+  {
+    "id": "company-021",
+    "name": "شركة النخبة للتطوير العقاري",
+    "industry": "التطوير العقاري",
+    "employees": 380,
+    "website": "https://www.alnukhba-realestate.com",
+    "location": {
+      "city": "الرياض",
+      "district": "العليا",
+      "country": "السعودية"
+    },
+    "foundingDate": "2007-05-19",
+    "ceo": "عادل أحمد العلياني",
+    "rating": 4.3,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-021.png",
+    "description": "شركة متخصصة في التطوير العقاري والإدارة",
+    "tags": ["عقارات", "تطوير", "استثمار"],
+    "social": {
+      "instagram": "https://instagram.com/alnukhba_realestate",
+      "facebook": "https://facebook.com/alnukhba.realestate",
+      "tiktok": "https://tiktok.com/@alnukhba_realestate",
+      "x": "https://x.com/alnukhba_realestate"
+    },
+    "jobs": ["وسيط عقاري", "مدير مشروع", "مهندس معماري"]
+  },
+  {
+    "id": "company-022",
+    "name": "مؤسسة الإتقان للبرمجيات",
+    "industry": "البرمجيات",
+    "employees": 195,
+    "website": "https://www.alitqan-software.com",
+    "location": {
+      "city": "جدة",
+      "district": "السلامة",
+      "country": "السعودية"
+    },
+    "foundingDate": "2015-08-30",
+    "ceo": "إيهاب سعيد الجهني",
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-022.png",
+    "description": "مؤسسة متخصصة في تطوير البرمجيات والتطبيقات",
+    "tags": ["برمجيات", "تطبيقات", "تقنية"],
+    "social": {
+      "instagram": "https://instagram.com/alitqan_software",
+      "facebook": "https://facebook.com/alitqan.software",
+      "tiktok": "https://tiktok.com/@alitqan_software",
+      "x": "https://x.com/alitqan_software"
+    },
+    "jobs": ["مطور برمجيات", "مهندس نظم", "مختبر برمجيات"]
+  },
+  {
+    "id": "company-023",
+    "name": "مجموعة الرخاء للاستثمار",
+    "industry": "الاستثمار",
+    "employees": 90,
+    "website": "https://www.alrakhaa-investment.com",
+    "location": {
+      "city": "الدمام",
+      "district": "الكورنيش",
+      "country": "السعودية"
+    },
+    "foundingDate": "2012-03-22",
+    "ceo": "وليد خالد الدوسري",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-023.png",
+    "description": "مجموعة استثمارية متخصصة في إدارة المحافظ",
+    "tags": ["استثمار", "محافظ", "أموال"],
+    "social": {
+      "instagram": "https://instagram.com/alrakhaa_investment",
+      "facebook": "https://facebook.com/alrakhaa.investment",
+      "tiktok": "https://tiktok.com/@alrakhaa_investment",
+      "x": "https://x.com/alrakhaa_investment"
+    },
+    "jobs": ["مستشار استثماري", "محلل مالي", "مدير محفظة"]
+  },
+  {
+    "id": "company-024",
+    "name": "شركة الإبداع للإعلان",
+    "industry": "الإعلان",
+    "employees": 105,
+    "website": "https://www.alebdae-advertising.com",
+    "location": {
+      "city": "مكة المكرمة",
+      "district": "الشوقية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2016-07-08",
+    "ceo": "شريف محمد الزهراني",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-024.png",
+    "description": "شركة إعلانية تنتج حملات إعلانية مبتكرة",
+    "tags": ["إعلان", "حملات", "إبداع"],
+    "social": {
+      "instagram": "https://instagram.com/alebdae_advertising",
+      "facebook": "https://facebook.com/alebdae.advertising",
+      "tiktok": "https://tiktok.com/@alebdae_advertising",
+      "x": "https://x.com/alebdae_advertising"
+    },
+    "jobs": ["مصمم إعلانات", "كاتب إبداعي", "مدير حملات"]
+  },
+  {
+    "id": "company-025",
+    "name": "مؤسسة التميز للتصنيع",
+    "industry": "التصنيع",
+    "employees": 520,
+    "website": "https://www.altamayoz-manufacturing.com",
+    "location": {
+      "city": "المدينة المنورة",
+      "district": "القباء",
+      "country": "السعودية"
+    },
+    "foundingDate": "2006-10-14",
+    "ceo": "ياسر علي المدني",
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-025.png",
+    "description": "مؤسسة متخصصة في التصنيع والإنتاج الصناعي",
+    "tags": ["تصنيع", "إنتاج", "صناعة"],
+    "social": {
+      "instagram": "https://instagram.com/altamayoz_manufacturing",
+      "facebook": "https://facebook.com/altamayoz.manufacturing",
+      "tiktok": "https://tiktok.com/@altamayoz_manufacturing",
+      "x": "https://x.com/altamayoz_manufacturing"
+    },
+    "jobs": ["مهندس إنتاج", "فني تصنيع", "مدير جودة"]
+  },
+  {
+    "id": "company-026",
+    "name": "شركة الطموح للمطاعم",
+    "industry": "المطاعم والضيافة",
+    "employees": 165,
+    "website": "https://www.altamoh-restaurants.com",
+    "location": {
+      "city": "الطائف",
+      "district": "الشفا",
+      "country": "السعودية"
+    },
+    "foundingDate": "2018-01-26",
+    "ceo": "سمر حسن الثقفي",
+    "rating": 4.8,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-026.png",
+    "description": "شركة تدير سلسلة من المطاعم الراقية",
+    "tags": ["مطاعم", "طعام", "ضيافة"],
+    "social": {
+      "instagram": "https://instagram.com/altamoh_restaurants",
+      "facebook": "https://facebook.com/altamoh.restaurants",
+      "tiktok": "https://tiktok.com/@altamoh_restaurants",
+      "x": "https://x.com/altamoh_restaurants"
+    },
+    "jobs": ["شيف", "مدير مطعم", "نادل"]
+  },
+  {
+    "id": "company-027",
+    "name": "مؤسسة الريادة للتعليم",
+    "industry": "التعليم",
+    "employees": 125,
+    "website": "https://www.alriyada-education.com",
+    "location": {
+      "city": "أبها",
+      "district": "الخالدية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2011-09-17",
+    "ceo": "رانيا محمد العسيري",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-027.png",
+    "description": "مؤسسة تعليمية تقدم برامج أكاديمية متقدمة",
+    "tags": ["تعليم", "أكاديمي", "تطوير"],
+    "social": {
+      "instagram": "https://instagram.com/alriyada_education",
+      "facebook": "https://facebook.com/alriyada.education",
+      "tiktok": "https://tiktok.com/@alriyada_education",
+      "x": "https://x.com/alriyada_education"
+    },
+    "jobs": ["معلم", "مشرف أكاديمي", "منسق برامج"]
+  },
+  {
+    "id": "company-028",
+    "name": "مجموعة المثالية للخدمات",
+    "industry": "الخدمات",
+    "employees": 200,
+    "website": "https://www.almithaliya-services.com",
+    "location": {
+      "city": "بريدة",
+      "district": "النهضة",
+      "country": "السعودية"
+    },
+    "foundingDate": "2013-04-12",
+    "ceo": "عمر سعيد القحطاني",
+    "rating": 4.3,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-028.png",
+    "description": "مجموعة متخصصة في تقديم الخدمات المتكاملة",
+    "tags": ["خدمات", "صيانة", "نظافة"],
+    "social": {
+      "instagram": "https://instagram.com/almithaliya_services",
+      "facebook": "https://facebook.com/almithaliya.services",
+      "tiktok": "https://tiktok.com/@almithaliya_services",
+      "x": "https://x.com/almithaliya_services"
+    },
+    "jobs": ["فني صيانة", "مدير خدمات", "مندوب خدمة"]
+  },
+  {
+    "id": "company-029",
+    "name": "شركة الفطرة للزراعة العضوية",
+    "industry": "الزراعة",
+    "employees": 95,
+    "website": "https://www.alfitra-organic.com",
+    "location": {
+      "city": "تبوك",
+      "district": "المروج",
+      "country": "السعودية"
+    },
+    "foundingDate": "2019-05-21",
+    "ceo": "مازن خالد الحويطي",
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-029.png",
+    "description": "شركة متخصصة في الزراعة العضوية والإنتاج الطبيعي",
+    "tags": ["زراعة عضوية", "طبيعي", "بيئة"],
+    "social": {
+      "instagram": "https://instagram.com/alfitra_organic",
+      "facebook": "https://facebook.com/alfitra.organic",
+      "tiktok": "https://tiktok.com/@alfitra_organic",
+      "x": "https://x.com/alfitra_organic"
+    },
+    "jobs": ["مهندس زراعي", "فني زراعة", "مدير مزرعة"]
+  },
+  {
+    "id": "company-030",
+    "name": "مؤسسة الابتكار للتقنية",
+    "industry": "تكنولوجيا المعلومات",
+    "employees": 175,
+    "website": "https://www.alibtekr-tech.com",
+    "location": {
+      "city": "حائل",
+      "district": "الزهراء",
+      "country": "السعودية"
+    },
+    "foundingDate": "2017-11-04",
+    "ceo": "نبيل أحمد الشمري",
+    "rating": 4.8,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-030.png",
+    "description": "مؤسسة تقنية متخصصة في الذكاء الاصطناعي",
+    "tags": ["ذكاء اصطناعي", "تقنية", "ابتكار"],
+    "social": {
+      "instagram": "https://instagram.com/alibtekr_tech",
+      "facebook": "https://facebook.com/alibtekr.tech",
+      "tiktok": "https://tiktok.com/@alibtekr_tech",
+      "x": "https://x.com/alibtekr_tech"
+    },
+    "jobs": ["مهندس ذكاء اصطناعي", "مطور", "محلل بيانات"]
+  },
+  {
+    "id": "company-031",
+    "name": "شركة الكفاءة للصيانة",
+    "industry": "الصيانة",
+    "employees": 145,
+    "website": "https://www.alkifaeh-maintenance.com",
+    "location": {
+      "city": "جازان",
+      "district": "الصفا",
+      "country": "السعودية"
+    },
+    "foundingDate": "2014-06-29",
+    "ceo": "رائد محمد الجازي",
+    "rating": 4.2,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-031.png",
+    "description": "شركة متخصصة في خدمات الصيانة والإصلاح",
+    "tags": ["صيانة", "إصلاح", "خدمات"],
+    "social": {
+      "instagram": "https://instagram.com/alkifaeh_maintenance",
+      "facebook": "https://facebook.com/alkifaeh.maintenance",
+      "tiktok": "https://tiktok.com/@alkifaeh_maintenance",
+      "x": "https://x.com/alkifaeh_maintenance"
+    },
+    "jobs": ["فني صيانة", "كهربائي", "سباك"]
+  },
+  {
+    "id": "company-032",
+    "name": "مؤسسة الجودة للتصنيع",
+    "industry": "التصنيع",
+    "employees": 410,
+    "website": "https://www.aljouda-manufacturing.com",
+    "location": {
+      "city": "نجران",
+      "district": "الفيصلية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2010-02-18",
+    "ceo": "كامل سعيد النجراني",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-032.png",
+    "description": "مؤسسة متخصصة في التصنيع عالي الجودة",
+    "tags": ["تصنيع", "جودة", "إنتاج"],
+    "social": {
+      "instagram": "https://instagram.com/aljouda_manufacturing",
+      "facebook": "https://facebook.com/aljouda.manufacturing",
+      "tiktok": "https://tiktok.com/@aljouda_manufacturing",
+      "x": "https://x.com/aljouda_manufacturing"
+    },
+    "jobs": ["مهندس إنتاج", "فني تصنيع", "مدير جودة"]
+  },
+  {
+    "id": "company-033",
+    "name": "مجموعة المهارة للتدريب",
+    "industry": "التدريب",
+    "employees": 60,
+    "website": "https://www.almaharah-training.com",
+    "location": {
+      "city": "الباحة",
+      "district": "الروابي",
+      "country": "السعودية"
+    },
+    "foundingDate": "2018-08-23",
+    "ceo": "هند خالد الزهراني",
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-033.png",
+    "description": "مجموعة متخصصة في التدريب المهني والتأهيل",
+    "tags": ["تدريب", "مهني", "تأهيل"],
+    "social": {
+      "instagram": "https://instagram.com/almaharah_training",
+      "facebook": "https://facebook.com/almaharah.training",
+      "tiktok": "https://tiktok.com/@almaharah_training",
+      "x": "https://x.com/almaharah_training"
+    },
+    "jobs": ["مدرب", "منسق تدريب", "مستشار مهني"]
+  },
+  {
+    "id": "company-034",
+    "name": "شركة الأصالة للتراث",
+    "industry": "التراث والسياحة",
+    "employees": 50,
+    "website": "https://www.alasalah-heritage.com",
+    "location": {
+      "city": "سكاكا",
+      "district": "الفيصلية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2020-12-15",
+    "ceo": "سعد أحمد الجوف",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-034.png",
+    "description": "شركة متخصصة في السياحة التراثية والثقافية",
+    "tags": ["تراث", "سياحة", "ثقافة"],
+    "social": {
+      "instagram": "https://instagram.com/alasalah_heritage",
+      "facebook": "https://facebook.com/alasalah.heritage",
+      "tiktok": "https://tiktok.com/@alasalah_heritage",
+      "x": "https://x.com/alasalah_heritage"
+    },
+    "jobs": ["دليل سياحي", "منسق فعاليات", "باحث تراث"]
+  },
+  {
+    "id": "company-035",
+    "name": "مؤسسة الرائدة للنقل",
+    "industry": "النقل",
+    "employees": 265,
+    "website": "https://www.alraida-transport.com",
+    "location": {
+      "city": "عرعر",
+      "district": "المنصورية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2011-07-06",
+    "ceo": "فادي علي الشمري",
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-035.png",
+    "description": "مؤسسة متخصصة في خدمات النقل والشحن",
+    "tags": ["نقل", "شحن", "لوجستيات"],
+    "social": {
+      "instagram": "https://instagram.com/alraida_transport",
+      "facebook": "https://facebook.com/alraida.transport",
+      "tiktok": "https://tiktok.com/@alraida_transport",
+      "x": "https://x.com/alraida_transport"
+    },
+    "jobs": ["سائق", "منسق شحن", "مدير عمليات"]
+  },
+  {
+    "id": "company-036",
+    "name": "شركة الوئام للمقاولات",
+    "industry": "الإنشاءات",
+    "employees": 330,
+    "website": "https://www.alwiam-contracting.com",
+    "location": {
+      "city": "الخبر",
+      "district": "الكورنيش",
+      "country": "السعودية"
+    },
+    "foundingDate": "2008-03-13",
+    "ceo": "عمرو خالد الخليفي",
+    "rating": 4.3,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-036.png",
+    "description": "شركة متخصصة في المقاولات والإنشاءات",
+    "tags": ["مقاولات", "إنشاءات", "بناء"],
+    "social": {
+      "instagram": "https://instagram.com/alwiam_contracting",
+      "facebook": "https://facebook.com/alwiam.contracting",
+      "tiktok": "https://tiktok.com/@alwiam_contracting",
+      "x": "https://x.com/alwiam_contracting"
+    },
+    "jobs": ["مهندس مدني", "مدير مشروع", "مهندس موقع"]
+  },
+  {
+    "id": "company-037",
+    "name": "مؤسسة البركة للخدمات المالية",
+    "industry": "الخدمات المالية",
+    "employees": 115,
+    "website": "https://www.albarka-finance.com",
+    "location": {
+      "city": "الجبيل",
+      "district": "الدارين",
+      "country": "السعودية"
+    },
+    "foundingDate": "2015-10-27",
+    "ceo": "بسام محمد القحطاني",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-037.png",
+    "description": "مؤسسة متخصصة في الخدمات المالية والاستشارات",
+    "tags": ["مالية", "استشارات", "استثمار"],
+    "social": {
+      "instagram": "https://instagram.com/albarka_finance",
+      "facebook": "https://facebook.com/albarka.finance",
+      "tiktok": "https://tiktok.com/@albarka_finance",
+      "x": "https://x.com/albarka_finance"
+    },
+    "jobs": ["مستشار مالي", "محلل مالي", "مدير حسابات"]
+  },
+  {
+    "id": "company-038",
+    "name": "مجموعة الوفاء للخدمات",
+    "industry": "الخدمات",
+    "employees": 185,
+    "website": "https://www.alwafa-services.com",
+    "location": {
+      "city": "ينبع",
+      "district": "الهيئة الملكية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2012-09-19",
+    "ceo": "ولاء سعيد البقمي",
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-038.png",
+    "description": "مجموعة متخصصة في تقديم الخدمات المتكاملة",
+    "tags": ["خدمات", "تنظيف", "صيانة"],
+    "social": {
+      "instagram": "https://instagram.com/alwafa_services",
+      "facebook": "https://facebook.com/alwafa.services",
+      "tiktok": "https://tiktok.com/@alwafa_services",
+      "x": "https://x.com/alwafa_services"
+    },
+    "jobs": ["مدير خدمات", "فني صيانة", "مندوب خدمة"]
+  },
+  {
+    "id": "company-039",
+    "name": "شركة الريادة للطاقة الشمسية",
+    "industry": "الطاقة",
+    "employees": 155,
+    "website": "https://www.alriyada-solar.com",
+    "location": {
+      "city": "القطيف",
+      "district": "الشاطئ",
+      "country": "السعودية"
+    },
+    "foundingDate": "2017-04-02",
+    "ceo": "طارق خالد القطيفي",
+    "rating": 4.8,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-039.png",
+    "description": "شركة متخصصة في الطاقة الشمسية والمتجددة",
+    "tags": ["طاقة شمسية", "متجددة", "بيئة"],
+    "social": {
+      "instagram": "https://instagram.com/alriyada_solar",
+      "facebook": "https://facebook.com/alriyada.solar",
+      "tiktok": "https://tiktok.com/@alriyada_solar",
+      "x": "https://x.com/alriyada_solar"
+    },
+    "jobs": ["مهندس طاقة شمسية", "فني تركيب", "مدير مشروع"]
+  },
+  {
+    "id": "company-040",
+    "name": "مؤسسة الكفاية للتجارة الإلكترونية",
+    "industry": "التجارة الإلكترونية",
+    "employees": 135,
+    "website": "https://www.alkifaya-ecommerce.com",
+    "location": {
+      "city": "الظهران",
+      "district": "الدوحة",
+      "country": "السعودية"
+    },
+    "foundingDate": "2019-06-11",
+    "ceo": "رامي محمد الخليفي",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-040.png",
+    "description": "مؤسسة متخصصة في التجارة الإلكترونية والتسويق الرقمي",
+    "tags": ["تجارة إلكترونية", "تسويق رقمي", "بيع"],
+    "social": {
+      "instagram": "https://instagram.com/alkifaya_ecommerce",
+      "facebook": "https://facebook.com/alkifaya.ecommerce",
+      "tiktok": "https://tiktok.com/@alkifaya_ecommerce",
+      "x": "https://x.com/alkifaya_ecommerce"
+    },
+    "jobs": ["مدير تجارة إلكترونية", "متخصص تسويق رقمي", "مدير متجر"]
+  },
+  {
+    "id": "company-041",
+    "name": "شركة الخير للخدمات الاجتماعية",
+    "industry": "الخدمات الاجتماعية",
+    "employees": 80,
+    "website": "https://www.alkhair-social.com",
+    "location": {
+      "city": "الرياض",
+      "district": "العليا",
+      "country": "السعودية"
+    },
+    "foundingDate": "2016-01-24",
+    "ceo": "نادية أحمد العلياني",
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-041.png",
+    "description": "شركة متخصصة في الخدمات الاجتماعية والتنمية",
+    "tags": ["خدمات اجتماعية", "تنمية", "إنسانية"],
+    "social": {
+      "instagram": "https://instagram.com/alkhair_social",
+      "facebook": "https://facebook.com/alkhair.social",
+      "tiktok": "https://tiktok.com/@alkhair_social",
+      "x": "https://x.com/alkhair_social"
+    },
+    "jobs": ["أخصائي اجتماعي", "منسق برامج", "مدير مشروع"]
+  },
+  {
+    "id": "company-042",
+    "name": "مؤسسة الجدارة للاستشارات الهندسية",
+    "industry": "الهندسة",
+    "employees": 245,
+    "website": "https://www.aljadarah-engineering.com",
+    "location": {
+      "city": "جدة",
+      "district": "الروضة",
+      "country": "السعودية"
+    },
+    "foundingDate": "2009-08-07",
+    "ceo": "نواف سعيد الجهني",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-042.png",
+    "description": "مؤسسة استشارات هندسية متخصصة في المشاريع الكبرى",
+    "tags": ["هندسة", "استشارات", "مشاريع"],
+    "social": {
+      "instagram": "https://instagram.com/aljadarah_engineering",
+      "facebook": "https://facebook.com/aljadarah.engineering",
+      "tiktok": "https://tiktok.com/@aljadarah_engineering",
+      "x": "https://x.com/aljadarah_engineering"
+    },
+    "jobs": ["مهندس استشاري", "مهندس تصميم", "مدير مشروع"]
+  },
+  {
+    "id": "company-043",
+    "name": "مجموعة المهارات للتدريب التقني",
+    "industry": "التدريب",
+    "employees": 70,
+    "website": "https://www.almaharar-tech-training.com",
+    "location": {
+      "city": "الدمام",
+      "district": "الكورنيش",
+      "country": "السعودية"
+    },
+    "foundingDate": "2018-02-16",
+    "ceo": "هالة خالد الدوسري",
+    "rating": 4.8,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-043.png",
+    "description": "مجموعة متخصصة في التدريب التقني والمهني",
+    "tags": ["تدريب تقني", "مهني", "تطوير"],
+    "social": {
+      "instagram": "https://instagram.com/almaharar_tech_training",
+      "facebook": "https://facebook.com/almaharar.tech.training",
+      "tiktok": "https://tiktok.com/@almaharar_tech_training",
+      "x": "https://x.com/almaharar_tech_training"
+    },
+    "jobs": ["مدرب تقني", "منسق برامج", "مستشار تطوير"]
+  },
+  {
+    "id": "company-044",
+    "name": "شركة الابتكار للذكاء الاصطناعي",
+    "industry": "تكنولوجيا المعلومات",
+    "employees": 190,
+    "website": "https://www.alibtekr-ai.com",
+    "location": {
+      "city": "مكة المكرمة",
+      "district": "العزيزية",
+      "country": "السعودية"
+    },
+    "foundingDate": "2020-09-28",
+    "ceo": "كريم محمد الزهراني",
+    "rating": 4.9,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-044.png",
+    "description": "شركة رائدة في مجال الذكاء الاصطناعي والتعلم الآلي",
+    "tags": ["ذكاء اصطناعي", "تعلم آلي", "تقنية"],
+    "social": {
+      "instagram": "https://instagram.com/alibtekr_ai",
+      "facebook": "https://facebook.com/alibtekr.ai",
+      "tiktok": "https://tiktok.com/@alibtekr_ai",
+      "x": "https://x.com/alibtekr_ai"
+    },
+    "jobs": ["مهندس ذكاء اصطناعي", "محلل بيانات", "مطور"]
+  },
+  {
+    "id": "company-045",
+    "name": "مؤسسة الرقي للخدمات الاستشارية",
+    "industry": "الاستشارات",
+    "employees": 100,
+    "website": "https://www.alarqi-consulting.com",
+    "location": {
+      "city": "المدينة المنورة",
+      "district": "القباء",
+      "country": "السعودية"
+    },
+    "foundingDate": "2014-11-03",
+    "ceo": "ماجد علي المدني",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-045.png",
+    "description": "مؤسسة استشارية متخصصة في الاستراتيجية والإدارة",
+    "tags": ["استشارات", "إستراتيجية", "إدارة"],
+    "social": {
+      "instagram": "https://instagram.com/alarqi_consulting",
+      "facebook": "https://facebook.com/alarqi.consulting",
+      "tiktok": "https://tiktok.com/@alarqi_consulting",
+      "x": "https://x.com/alarqi_consulting"
+    },
+    "jobs": ["مستشار استراتيجي", "محلل أعمال", "مدير مشروع"]
+  },
+  {
+    "id": "company-046",
+    "name": "مجموعة المثلى للعقارات",
+    "industry": "التطوير العقاري",
+    "employees": 270,
+    "website": "https://www.almuthla-realestate.com",
+    "location": {
+      "city": "الطائف",
+      "district": "الهدا",
+      "country": "السعودية"
+    },
+    "foundingDate": "2011-05-31",
+    "ceo": "عبدالرحمن سعيد الثقفي",
+    "rating": 4.4,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-046.png",
+    "description": "مجموعة متخصصة في التطوير العقاري والإدارة",
+    "tags": ["عقارات", "تطوير", "إدارة"],
+    "social": {
+      "instagram": "https://instagram.com/almuthla_realestate",
+      "facebook": "https://facebook.com/almuthla.realestate",
+      "tiktok": "https://tiktok.com/@almuthla_realestate",
+      "x": "https://x.com/almuthla_realestate"
+    },
+    "jobs": ["وسيط عقاري", "مدير عقارات", "مستشار عقاري"]
+  },
+  {
+    "id": "company-047",
+    "name": "شركة الكفاءة للتصنيع الدوائي",
+    "industry": "الصناعة",
+    "employees": 480,
+    "website": "https://www.alkifaeh-pharma.com",
+    "location": {
+      "city": "أبها",
+      "district": "المنسك",
+      "country": "السعودية"
+    },
+    "foundingDate": "2007-12-19",
+    "ceo": "محمد خالد العسيري",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-047.png",
+    "description": "شركة متخصصة في تصنيع الأدوية والمستحضرات الطبية",
+    "tags": ["أدوية", "طبي", "تصنيع"],
+    "social": {
+      "instagram": "https://instagram.com/alkifaeh_pharma",
+      "facebook": "https://facebook.com/alkifaeh.pharma",
+      "tiktok": "https://tiktok.com/@alkifaeh_pharma",
+      "x": "https://x.com/alkifaeh_pharma"
+    },
+    "jobs": ["مهندس إنتاج", "كيميائي", "مدير جودة"]
+  },
+  {
+    "id": "company-048",
+    "name": "مؤسسة الإحسان للخدمات الصحية",
+    "industry": "الرعاية الصحية",
+    "employees": 160,
+    "website": "https://www.alihsan-healthcare.com",
+    "location": {
+      "city": "بريدة",
+      "district": "الريان",
+      "country": "السعودية"
+    },
+    "foundingDate": "2015-07-22",
+    "ceo": "فاطمة علي القحطاني",
+    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-048.png",
+    "description": "مؤسسة متخصصة في الخدمات الصحية والطبية",
+    "tags": ["صحة", "طبي", "رعاية"],
+    "social": {
+      "instagram": "https://instagram.com/alihsan_healthcare",
+      "facebook": "https://facebook.com/alihsan.healthcare",
+      "tiktok": "https://tiktok.com/@alihsan_healthcare",
+      "x": "https://x.com/alihsan_healthcare"
+    },
+    "jobs": ["طبيب", "ممرض", "إداري صحي"]
+  },
+  {
+    "id": "company-049",
+    "name": "مجموعة النهضة للتكنولوجيا",
+    "industry": "تكنولوجيا المعلومات",
+    "employees": 225,
+    "website": "https://www.alnahda-technology.com",
+    "location": {
+      "city": "تبوك",
+      "district": "الورود",
+      "country": "السعودية"
+    },
+    "foundingDate": "2013-03-14",
+    "ceo": "وسام سعيد الحويطي",
+    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-049.png",
+    "description": "مجموعة متخصصة في تطوير التطبيقات والأنظمة",
+    "tags": ["تطبيقات", "أنظمة", "تقنية"],
+    "social": {
+      "instagram": "https://instagram.com/alnahda_technology",
+      "facebook": "https://facebook.com/alnahda.technology",
+      "tiktok": "https://tiktok.com/@alnahda_technology",
+      "x": "https://x.com/alnahda_technology"
+    },
+    "jobs": ["مطور تطبيقات", "مهندس نظم", "مصمم"]
+  },
+  {
+    "id": "company-050",
+    "name": "شركة الريادة للخدمات اللوجستية",
+    "industry": "الخدمات اللوجستية",
+    "employees": 300,
+    "website": "https://www.alriyada-logistics.com",
+    "location": {
+      "city": "حائل",
+      "district": "المطار",
+      "country": "السعودية"
+    },
+    "foundingDate": "2010-04-09",
+    "ceo": "فادي خالد الشمري",
+    "rating": 4.5,
+    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-050.png",
+    "description": "شركة رائدة في الخدمات اللوجستية والنقل الدولي",
+    "tags": ["لوجستيات", "نقل", "شحن دولي"],
+    "social": {
+      "instagram": "https://instagram.com/alriyada_logistics",
+      "facebook": "https://facebook.com/alriyada.logistics",
+      "tiktok": "https://tiktok.com/@alriyada_logistics",
+      "x": "https://x.com/alriyada_logistics"
+    },
+    "jobs": ["مدير لوجستيات", "منسق شحن", "مدير عمليات"]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "أحمد خالد السبيعي",
+    "email": "ahmad.s@almadares.edu",
+    "phone": "+966501112210",
+    "schoolId": 1,
+    "subjects": ["رياضيات", "علوم"]
+  },
+  {
+    "id": 2,
+    "name": "نورة فهد الغامدي",
+    "email": "nora.g@almadares.edu",
+    "phone": "+966502223320",
+    "schoolId": 4,
+    "subjects": ["لغة عربية"]
+  },
+  {
+    "id": 3,
+    "name": "سلمان مازن الدوسري",
+    "email": "salman.d@almadares.edu",
+    "phone": "+966503334430",
+    "schoolId": 7,
+    "subjects": ["علوم", "أحياء"]
+  },
+  {
+    "id": 4,
+    "name": "ريم عبدالله العبدلي",
+    "email": "reem.a@almadares.edu",
+    "phone": "+966504445540",
+    "schoolId": 10,
+    "subjects": ["لغة إنجليزية", "اجتماعيات"]
+  },
+  {
+    "id": 5,
+    "name": "ياسر ناصر الحربي",
+    "email": "yasser.h@almadares.edu",
+    "phone": "+966505556650",
+    "schoolId": 12,
+    "subjects": ["حاسب آلي"]
+  },
+  {
+    "id": 6,
+    "name": "هالة سعيد الزهراني",
+    "email": "hala.z@almadares.edu",
+    "phone": "+966506667760",
+    "schoolId": 15,
+    "subjects": ["كيمياء", "فيزياء"]
+  },
+  {
+    "id": 7,
+    "name": "طارق علي القحطاني",
+    "email": "tariq.q@almadares.edu",
+    "phone": "+966507778870",
+    "schoolId": 18,
+    "subjects": ["تربية إسلامية"]
+  },
+  {
+    "id": 8,
+    "name": "ليلى حسين البقمي",
+    "email": "layla.b@almadares.edu",
+    "phone": "+966508889980",
+    "schoolId": 21,
+    "subjects": ["لغة عربية", "تربية أسرية"]
+  },
+  {
+    "id": 9,
+    "name": "فهد سامي المطيري",
+    "email": "fahad.m@almadares.edu",
+    "phone": "+966509990090",
+    "schoolId": 25,
+    "subjects": ["رياضيات"]
+  },
+  {
+    "id": 10,
+    "name": "جمانة محمد العتيبي",
+    "email": "jumana.a@almadares.edu",
+    "phone": "+966500110105",
+    "schoolId": 30,
+    "subjects": ["فيزياء", "رياضيات"]
+  }
+]
+

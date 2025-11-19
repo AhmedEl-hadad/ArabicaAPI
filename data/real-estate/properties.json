@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "property-001",
+    "title": "فيلا النخيل الفاخرة",
+    "type": "فيلا",
+    "price": 2800000,
+    "area": 450,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "الرياض",
+    "district": "العليا",
+    "country": "السعودية",
+    "agent": "أحمد محمد السعيد",
+    "contact": {
+      "phone": "+966501234567",
+      "email": "ahmed.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-001-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-001-2.png"
+    ],
+    "description": "فيلا فاخرة في حي راقي مع حديقة واسعة ومسبح خاص وجراج لثلاث سيارات",
+    "features": ["مسبح خاص", "حديقة واسعة", "جراج ثلاث سيارات", "مطبخ مفتوح", "صالة استقبال"]
+  },
+  {
+    "id": "property-002",
+    "title": "شقة الندى الحديثة",
+    "type": "شقة",
+    "price": 920000,
+    "area": 165,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "جدة",
+    "district": "الروضة",
+    "country": "السعودية",
+    "agent": "فاطمة علي حسن",
+    "contact": {
+      "phone": "+966502345678",
+      "email": "fatima.ali@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-002-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-002-2.png"
+    ],
+    "description": "شقة حديثة مكتملة التشطيب في موقع ممتاز قريب من الشاطئ والمدارس",
+    "features": ["موقف سيارة", "مصعد", "نظام أمن", "شرفة واسعة"]
+  },
+  {
+    "id": "property-003",
+    "title": "مكتب تجاري فاخر",
+    "type": "مكتب",
+    "price": 1850000,
+    "area": 280,
+    "bedrooms": 0,
+    "bathrooms": 3,
+    "city": "الدمام",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "خالد عبدالله المطيري",
+    "contact": {
+      "phone": "+966503456789",
+      "email": "khaled.abdullah@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-003-1.png"
+    ],
+    "description": "مكتب تجاري فاخر في موقع استراتيجي مناسب للشركات والمؤسسات",
+    "features": ["موقف سيارات", "نظام أمن متقدم", "إنترنت عالي السرعة", "قاعات اجتماعات"]
+  },
+  {
+    "id": "property-004",
+    "title": "بنتهاوس النخبة",
+    "type": "بنتهاوس",
+    "price": 4200000,
+    "area": 520,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "الرياض",
+    "district": "العليا",
+    "country": "السعودية",
+    "agent": "سارة أحمد الزهراني",
+    "contact": {
+      "phone": "+966504567890",
+      "email": "sara.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-004-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-004-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-004-3.png"
+    ],
+    "description": "بنتهاوس فاخر في أعلى الطابق مع إطلالة بانورامية على المدينة وتراس خاص",
+    "features": ["تراس خاص", "إطلالة بانورامية", "مصعد خاص", "نظام أمن", "مطبخ فاخر"]
+  },
+  {
+    "id": "property-005",
+    "title": "دوبلكس الورود",
+    "type": "دوبلكس",
+    "price": 1450000,
+    "area": 220,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "city": "جدة",
+    "district": "السلامة",
+    "country": "السعودية",
+    "agent": "علي حسن القرشي",
+    "contact": {
+      "phone": "+966505678901",
+      "email": "ali.hassan@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-005-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-005-2.png"
+    ],
+    "description": "دوبلكس عائلي مريح بحديقة صغيرة وموقع هادئ",
+    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ كبير", "صالة واسعة"]
+  },
+  {
+    "id": "property-006",
+    "title": "شقة الأفق المميزة",
+    "type": "شقة",
+    "price": 780000,
+    "area": 145,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "city": "الخبر",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "نورا سعيد الغامدي",
+    "contact": {
+      "phone": "+966506789012",
+      "email": "nora.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-006-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-006-2.png"
+    ],
+    "description": "شقة حديثة بإطلالة على البحر في موقع مميز",
+    "features": ["إطلالة على البحر", "موقف سيارة", "مصعد", "شرفة"]
+  },
+  {
+    "id": "property-007",
+    "title": "فيلا السعادة الكبيرة",
+    "type": "فيلا",
+    "price": 3200000,
+    "area": 480,
+    "bedrooms": 7,
+    "bathrooms": 6,
+    "city": "المدينة المنورة",
+    "district": "القباء",
+    "country": "السعودية",
+    "agent": "محمود حسن القرشي",
+    "contact": {
+      "phone": "+966507890123",
+      "email": "mahmoud.hassan@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-007-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-007-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-007-3.png"
+    ],
+    "description": "فيلا كبيرة عائلية مع حديقة ومسبح ومساحات واسعة",
+    "features": ["مسبح كبير", "حديقة واسعة", "جراج أربع سيارات", "مكتب منزلي", "صالة طعام"]
+  },
+  {
+    "id": "property-008",
+    "title": "مكتب تجاري متوسط",
+    "type": "مكتب",
+    "price": 1250000,
+    "area": 180,
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "city": "الرياض",
+    "district": "الملز",
+    "country": "السعودية",
+    "agent": "يوسف محمد القحطاني",
+    "contact": {
+      "phone": "+966508901234",
+      "email": "youssef.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-008-1.png"
+    ],
+    "description": "مكتب تجاري حديث في مبنى تجاري جديد",
+    "features": ["موقف سيارات", "نظام أمن", "إنترنت", "مكيف مركزي"]
+  },
+  {
+    "id": "property-009",
+    "title": "شقة النور الجديدة",
+    "type": "شقة",
+    "price": 850000,
+    "area": 155,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "مكة المكرمة",
+    "district": "العزيزية",
+    "country": "السعودية",
+    "agent": "مريم عبدالرحمن الحربي",
+    "contact": {
+      "phone": "+966509012345",
+      "email": "maryam.abdulrahman@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-009-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-009-2.png"
+    ],
+    "description": "شقة جديدة في موقع مميز قريب من الحرم",
+    "features": ["موقف سيارة", "مصعد", "نظام أمن", "مطبخ مجهز"]
+  },
+  {
+    "id": "property-010",
+    "title": "فيلا الرياحين",
+    "type": "فيلا",
+    "price": 2600000,
+    "area": 420,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "الطائف",
+    "district": "الهدا",
+    "country": "السعودية",
+    "agent": "طارق علي الحربي",
+    "contact": {
+      "phone": "+966510123456",
+      "email": "tariq.ali@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-010-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-010-2.png"
+    ],
+    "description": "فيلا فاخرة في منطقة هادئة مع حديقة ومسبح ومساحات خضراء",
+    "features": ["مسبح", "حديقة واسعة", "جراج ثلاث سيارات", "مكتبة", "سطح"]
+  },
+  {
+    "id": "property-011",
+    "title": "دوبلكس الهدوء",
+    "type": "دوبلكس",
+    "price": 1350000,
+    "area": 200,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "city": "أبها",
+    "district": "المنسك",
+    "country": "السعودية",
+    "agent": "رانيا محمد العسيري",
+    "contact": {
+      "phone": "+966511234567",
+      "email": "rania.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-011-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-011-2.png"
+    ],
+    "description": "دوبلكس عائلي مريح في منطقة هادئة ومناسبة للعائلات",
+    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ مجهز", "صالة واسعة"]
+  },
+  {
+    "id": "property-012",
+    "title": "بنتهاوس الفخامة",
+    "type": "بنتهاوس",
+    "price": 3800000,
+    "area": 480,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "city": "جدة",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "ليلى خالد النجراني",
+    "contact": {
+      "phone": "+966512345678",
+      "email": "layla.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-012-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-012-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-012-3.png"
+    ],
+    "description": "بنتهاوس فاخر بإطلالة مباشرة على البحر مع تراس كبير",
+    "features": ["إطلالة على البحر", "تراس كبير", "مصعد خاص", "نظام أمن", "مسبح خاص"]
+  },
+  {
+    "id": "property-013",
+    "title": "شقة الأمل الحديثة",
+    "type": "شقة",
+    "price": 680000,
+    "area": 125,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "city": "الدمام",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "سعد محمد الدوسري",
+    "contact": {
+      "phone": "+966513456789",
+      "email": "saad.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-013-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-013-2.png"
+    ],
+    "description": "شقة حديثة صغيرة مناسبة للعزاب والأزواج الشباب",
+    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مفتوح"]
+  },
+  {
+    "id": "property-014",
+    "title": "فيلا الكوثر",
+    "type": "فيلا",
+    "price": 3400000,
+    "area": 500,
+    "bedrooms": 7,
+    "bathrooms": 6,
+    "city": "بريدة",
+    "district": "الريان",
+    "country": "السعودية",
+    "agent": "عمر سعيد القحطاني",
+    "contact": {
+      "phone": "+966514567890",
+      "email": "omar.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-014-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-014-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-014-3.png"
+    ],
+    "description": "فيلا كبيرة فاخرة مع جميع وسائل الراحة والترفيه",
+    "features": ["مسبح كبير", "حديقة واسعة", "ملعب أطفال", "جراج أربع سيارات", "قاعة سينما"]
+  },
+  {
+    "id": "property-015",
+    "title": "مكتب تجاري صغير",
+    "type": "مكتب",
+    "price": 950000,
+    "area": 140,
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "city": "جدة",
+    "district": "الروضة",
+    "country": "السعودية",
+    "agent": "دينا حسن الجهني",
+    "contact": {
+      "phone": "+966515678901",
+      "email": "dina.hassan@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-015-1.png"
+    ],
+    "description": "مكتب تجاري صغير مناسب للشركات الناشئة",
+    "features": ["موقف سيارات", "نظام أمن", "إنترنت", "مكيف"]
+  },
+  {
+    "id": "property-016",
+    "title": "شقة النخبة الفاخرة",
+    "type": "شقة",
+    "price": 1150000,
+    "area": 180,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "city": "الرياض",
+    "district": "العليا",
+    "country": "السعودية",
+    "agent": "هشام أحمد العلياني",
+    "contact": {
+      "phone": "+966516789012",
+      "email": "hesham.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-016-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-016-2.png"
+    ],
+    "description": "شقة فاخرة في مجمع راقي مع خدمات متكاملة",
+    "features": ["مصعد", "نظام أمن", "صالة رياضية", "مسبح مشترك", "موقف سيارات"]
+  },
+  {
+    "id": "property-017",
+    "title": "دوبلكس الربيع",
+    "type": "دوبلكس",
+    "price": 1550000,
+    "area": 240,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "تبوك",
+    "district": "الورود",
+    "country": "السعودية",
+    "agent": "مازن خالد الحويطي",
+    "contact": {
+      "phone": "+966517890123",
+      "email": "mazen.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-017-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-017-2.png"
+    ],
+    "description": "دوبلكس كبير عائلي مع حديقة ومساحات واسعة",
+    "features": ["حديقة", "جراج ثلاث سيارات", "مطبخ كبير", "صالة واسعة", "سطح"]
+  },
+  {
+    "id": "property-018",
+    "title": "فيلا الفردوس",
+    "type": "فيلا",
+    "price": 3000000,
+    "area": 460,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "حائل",
+    "district": "المطار",
+    "country": "السعودية",
+    "agent": "نبيل أحمد الشمري",
+    "contact": {
+      "phone": "+966518901234",
+      "email": "nabil.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-018-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-018-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-018-3.png"
+    ],
+    "description": "فيلا فاخرة مع جميع الخدمات والمرافق الحديثة",
+    "features": ["مسبح", "حديقة واسعة", "ملعب أطفال", "جراج ثلاث سيارات", "مكتب منزلي"]
+  },
+  {
+    "id": "property-019",
+    "title": "شقة الأفق الساحلية",
+    "type": "شقة",
+    "price": 980000,
+    "area": 170,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "الخبر",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "ريم سعيد الخليفي",
+    "contact": {
+      "phone": "+966519012345",
+      "email": "reem.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-019-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-019-2.png"
+    ],
+    "description": "شقة بإطلالة مميزة على البحر في موقع ساحلي هادئ",
+    "features": ["إطلالة على البحر", "موقف سيارة", "مصعد", "شرفة واسعة", "نظام أمن"]
+  },
+  {
+    "id": "property-020",
+    "title": "مكتب تجاري كبير",
+    "type": "مكتب",
+    "price": 2200000,
+    "area": 320,
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "city": "الرياض",
+    "district": "الملز",
+    "country": "السعودية",
+    "agent": "كريم محمد العلياني",
+    "contact": {
+      "phone": "+966520123456",
+      "email": "kareem.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-020-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-020-2.png"
+    ],
+    "description": "مكتب تجاري كبير مناسب للشركات الكبرى والمؤسسات",
+    "features": ["موقف سيارات كبير", "قاعات اجتماعات", "مكاتب متعددة", "نظام أمن متقدم", "إنترنت عالي السرعة"]
+  },
+  {
+    "id": "property-021",
+    "title": "بنتهاوس المدينة",
+    "type": "بنتهاوس",
+    "price": 3500000,
+    "area": 450,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "city": "الرياض",
+    "district": "العليا",
+    "country": "السعودية",
+    "agent": "ياسر علي القحطاني",
+    "contact": {
+      "phone": "+966521234567",
+      "email": "yasser.ali@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-021-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-021-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-021-3.png"
+    ],
+    "description": "بنتهاوس فاخر بإطلالة بانورامية على المدينة مع تراس خاص",
+    "features": ["إطلالة بانورامية", "تراس خاص", "مصعد خاص", "نظام أمن", "مطبخ فاخر"]
+  },
+  {
+    "id": "property-022",
+    "title": "شقة الهدوء الصغيرة",
+    "type": "شقة",
+    "price": 620000,
+    "area": 115,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "city": "الجبيل",
+    "district": "الدارين",
+    "country": "السعودية",
+    "agent": "هند خالد الزهراني",
+    "contact": {
+      "phone": "+966522345678",
+      "email": "hind.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-022-1.png"
+    ],
+    "description": "شقة صغيرة مناسبة للعزاب في منطقة هادئة",
+    "features": ["موقف سيارة", "مصعد", "شرفة صغيرة"]
+  },
+  {
+    "id": "property-023",
+    "title": "فيلا الجنة",
+    "type": "فيلا",
+    "price": 2900000,
+    "area": 440,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "ينبع",
+    "district": "الهيئة الملكية",
+    "country": "السعودية",
+    "agent": "فادي علي البقمي",
+    "contact": {
+      "phone": "+966523456789",
+      "email": "fadi.ali@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-023-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-023-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-023-3.png"
+    ],
+    "description": "فيلا فاخرة مع حديقة ومسبح وإطلالة مميزة",
+    "features": ["مسبح", "حديقة واسعة", "جراج ثلاث سيارات", "مطبخ كبير", "صالة طعام"]
+  },
+  {
+    "id": "property-024",
+    "title": "دوبلكس الأمان",
+    "type": "دوبلكس",
+    "price": 1420000,
+    "area": 215,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "city": "القطيف",
+    "district": "الشاطئ",
+    "country": "السعودية",
+    "agent": "عمرو خالد القطيفي",
+    "contact": {
+      "phone": "+966524567890",
+      "email": "amr.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-024-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-024-2.png"
+    ],
+    "description": "دوبلكس عائلي مريح في منطقة آمنة وهادئة",
+    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ مجهز", "صالة واسعة"]
+  },
+  {
+    "id": "property-025",
+    "title": "شقة الشاطئ",
+    "type": "شقة",
+    "price": 1080000,
+    "area": 175,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "جدة",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "بسام محمد الجهني",
+    "contact": {
+      "phone": "+966525678901",
+      "email": "bassam.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-025-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-025-2.png"
+    ],
+    "description": "شقة فاخرة بإطلالة مباشرة على البحر في موقع مميز",
+    "features": ["إطلالة على البحر", "موقف سيارة", "مصعد", "شرفة واسعة", "نظام أمن"]
+  },
+  {
+    "id": "property-026",
+    "title": "فيلا الفردوس الكبيرة",
+    "type": "فيلا",
+    "price": 3600000,
+    "area": 520,
+    "bedrooms": 8,
+    "bathrooms": 7,
+    "city": "الظهران",
+    "district": "الدوحة",
+    "country": "السعودية",
+    "agent": "ولاء سعيد الخليفي",
+    "contact": {
+      "phone": "+966526789012",
+      "email": "walaa.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-026-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-026-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-026-3.png"
+    ],
+    "description": "فيلا كبيرة جداً مع جميع المرافق والخدمات الفاخرة",
+    "features": ["مسبح كبير", "حديقة واسعة", "ملعب أطفال", "جراج خمس سيارات", "قاعة سينما", "مكتبة"]
+  },
+  {
+    "id": "property-027",
+    "title": "مكتب تجاري راقي",
+    "type": "مكتب",
+    "price": 1580000,
+    "area": 240,
+    "bedrooms": 0,
+    "bathrooms": 3,
+    "city": "الدمام",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "طارق خالد الدوسري",
+    "contact": {
+      "phone": "+966527890123",
+      "email": "tariq.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-027-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-027-2.png"
+    ],
+    "description": "مكتب تجاري راقي في مبنى حديث مع خدمات متكاملة",
+    "features": ["موقف سيارات", "قاعات اجتماعات", "نظام أمن", "إنترنت عالي السرعة", "مكيف مركزي"]
+  },
+  {
+    "id": "property-028",
+    "title": "بنتهاوس الكورنيش",
+    "type": "بنتهاوس",
+    "price": 4100000,
+    "area": 500,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "جدة",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "رامي محمد الجهني",
+    "contact": {
+      "phone": "+966528901234",
+      "email": "rami.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-028-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-028-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-028-3.png"
+    ],
+    "description": "بنتهاوس فاخر جداً بإطلالة مباشرة على البحر مع تراس كبير ومسبح خاص",
+    "features": ["إطلالة مباشرة على البحر", "تراس كبير", "مسبح خاص", "مصعد خاص", "نظام أمن متقدم"]
+  },
+  {
+    "id": "property-029",
+    "title": "شقة المستقبل",
+    "type": "شقة",
+    "price": 890000,
+    "area": 160,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "الرياض",
+    "district": "الملك فهد",
+    "country": "السعودية",
+    "agent": "نواف سعيد العلياني",
+    "contact": {
+      "phone": "+966529012345",
+      "email": "nawaf.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-029-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-029-2.png"
+    ],
+    "description": "شقة حديثة في مجمع جديد مع خدمات ومرافق متكاملة",
+    "features": ["موقف سيارة", "مصعد", "صالة رياضية", "مسبح مشترك", "نظام أمن"]
+  },
+  {
+    "id": "property-030",
+    "title": "فيلا النخيل المميزة",
+    "type": "فيلا",
+    "price": 2700000,
+    "area": 410,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "الطائف",
+    "district": "الشفا",
+    "country": "السعودية",
+    "agent": "شريف محمد الثقفي",
+    "contact": {
+      "phone": "+966530123456",
+      "email": "sherif.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-030-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-030-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-030-3.png"
+    ],
+    "description": "فيلا فاخرة في منطقة جبلية هادئة مع حديقة ومسبح وإطلالة خلابة",
+    "features": ["مسبح", "حديقة واسعة", "جراج ثلاث سيارات", "مكتب منزلي", "إطلالة جبلية"]
+  },
+  {
+    "id": "property-031",
+    "title": "شقة النور الساطعة",
+    "type": "شقة",
+    "price": 950000,
+    "area": 185,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "الرياض",
+    "district": "الملز",
+    "country": "السعودية",
+    "agent": "ماجد حسن السعيد",
+    "contact": {
+      "phone": "+966531234567",
+      "email": "majed.hassan@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-031-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-031-2.png"
+    ],
+    "description": "شقة مشرقة وواسعة في موقع مركزي مع خدمات متكاملة",
+    "features": ["موقف سيارة", "مصعد", "شرفة واسعة", "مطبخ مجهز", "نظام أمن"]
+  },
+  {
+    "id": "property-032",
+    "title": "فيلا الورد الفاخرة",
+    "type": "فيلا",
+    "price": 2550000,
+    "area": 395,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "جدة",
+    "district": "السلامة",
+    "country": "السعودية",
+    "agent": "وليد خالد الجهني",
+    "contact": {
+      "phone": "+966532345678",
+      "email": "waleed.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-032-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-032-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-032-3.png"
+    ],
+    "description": "فيلا فاخرة مع حديقة كبيرة مزروعة بالأزهار ومسبح خاص",
+    "features": ["مسبح خاص", "حديقة كبيرة", "جراج ثلاث سيارات", "مطبخ فاخر", "صالة استقبال"]
+  },
+  {
+    "id": "property-033",
+    "title": "مكتب تجاري عصري",
+    "type": "مكتب",
+    "price": 1350000,
+    "area": 200,
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "city": "الدمام",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "فادي محمد الدوسري",
+    "contact": {
+      "phone": "+966533456789",
+      "email": "fadi.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-033-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-033-2.png"
+    ],
+    "description": "مكتب تجاري حديث بتصميم عصري وخدمات متقدمة",
+    "features": ["موقف سيارات", "قاعة اجتماعات", "نظام أمن", "إنترنت عالي السرعة", "مكيف مركزي"]
+  },
+  {
+    "id": "property-034",
+    "title": "دوبلكس الرفاهية",
+    "type": "دوبلكس",
+    "price": 1650000,
+    "area": 260,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "المدينة المنورة",
+    "district": "القباء",
+    "country": "السعودية",
+    "agent": "عبدالله سعيد القرشي",
+    "contact": {
+      "phone": "+966534567890",
+      "email": "abdullah.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-034-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-034-2.png"
+    ],
+    "description": "دوبلكس فاخر مع حديقة ومساحات واسعة ومناسبة للعائلات الكبيرة",
+    "features": ["حديقة", "جراج ثلاث سيارات", "مطبخ كبير", "صالة واسعة", "مكتب منزلي"]
+  },
+  {
+    "id": "property-035",
+    "title": "شقة الكورنيش المميزة",
+    "type": "شقة",
+    "price": 1180000,
+    "area": 190,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "city": "الخبر",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "سمر حسن الخليفي",
+    "contact": {
+      "phone": "+966535678901",
+      "email": "samar.hassan@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-035-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-035-2.png"
+    ],
+    "description": "شقة فاخرة بإطلالة مباشرة على البحر والكورنيش",
+    "features": ["إطلالة على البحر", "موقف سيارة", "مصعد", "شرفة كبيرة", "نظام أمن"]
+  },
+  {
+    "id": "property-036",
+    "title": "بنتهاوس الإطلالة",
+    "type": "بنتهاوس",
+    "price": 3900000,
+    "area": 490,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "الرياض",
+    "district": "العليا",
+    "country": "السعودية",
+    "agent": "إيهاب علي العلياني",
+    "contact": {
+      "phone": "+966536789012",
+      "email": "ihab.ali@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-036-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-036-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-036-3.png"
+    ],
+    "description": "بنتهاوس فاخر بإطلالة خلابة على المدينة مع تراس خاص كبير",
+    "features": ["إطلالة خلابة", "تراس كبير", "مصعد خاص", "نظام أمن", "مسبح خاص"]
+  },
+  {
+    "id": "property-037",
+    "title": "فيلا الواحة",
+    "type": "فيلا",
+    "price": 2400000,
+    "area": 380,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "مكة المكرمة",
+    "district": "العزيزية",
+    "country": "السعودية",
+    "agent": "حسام محمد الحربي",
+    "contact": {
+      "phone": "+966537890123",
+      "email": "hossam.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-037-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-037-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-037-3.png"
+    ],
+    "description": "فيلا فاخرة مع حديقة واسعة تذكر بالواحة الخضراء ومسبح خاص",
+    "features": ["مسبح خاص", "حديقة واسعة", "جراج ثلاث سيارات", "مطبخ مفتوح", "صالة طعام"]
+  },
+  {
+    "id": "property-038",
+    "title": "شقة النخيل الحديثة",
+    "type": "شقة",
+    "price": 820000,
+    "area": 150,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "الطائف",
+    "district": "الهدا",
+    "country": "السعودية",
+    "agent": "هند أحمد الحربي",
+    "contact": {
+      "phone": "+966538901234",
+      "email": "hind.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-038-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-038-2.png"
+    ],
+    "description": "شقة حديثة في منطقة هادئة ومريحة قريب من الخدمات",
+    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مجهز", "نظام أمن"]
+  },
+  {
+    "id": "property-039",
+    "title": "مكتب تجاري فاخر",
+    "type": "مكتب",
+    "price": 1750000,
+    "area": 270,
+    "bedrooms": 0,
+    "bathrooms": 3,
+    "city": "جدة",
+    "district": "الروضة",
+    "country": "السعودية",
+    "agent": "رامي خالد الجهني",
+    "contact": {
+      "phone": "+966539012345",
+      "email": "rami.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-039-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-039-2.png"
+    ],
+    "description": "مكتب تجاري فاخر بتصميم عصري مناسب للشركات الكبرى",
+    "features": ["موقف سيارات كبير", "قاعات اجتماعات متعددة", "نظام أمن متقدم", "إنترنت عالي السرعة", "مكيف مركزي"]
+  },
+  {
+    "id": "property-040",
+    "title": "دوبلكس السعادة",
+    "type": "دوبلكس",
+    "price": 1480000,
+    "area": 230,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "city": "أبها",
+    "district": "المنسك",
+    "country": "السعودية",
+    "agent": "مروة محمد العسيري",
+    "contact": {
+      "phone": "+966540123456",
+      "email": "marwa.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-040-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-040-2.png"
+    ],
+    "description": "دوبلكس عائلي مريح مع حديقة صغيرة وموقع هادئ",
+    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ كبير", "صالة واسعة", "شرفة"]
+  },
+  {
+    "id": "property-041",
+    "title": "شقة الفردوس الصغيرة",
+    "type": "شقة",
+    "price": 650000,
+    "area": 120,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "city": "بريدة",
+    "district": "الريان",
+    "country": "السعودية",
+    "agent": "خليل أحمد القحطاني",
+    "contact": {
+      "phone": "+966541234567",
+      "email": "khalil.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-041-1.png"
+    ],
+    "description": "شقة صغيرة مناسبة للعزاب والأزواج في موقع مميز",
+    "features": ["موقف سيارة", "مصعد", "شرفة صغيرة", "مطبخ مفتوح"]
+  },
+  {
+    "id": "property-042",
+    "title": "فيلا البركة الكبيرة",
+    "type": "فيلا",
+    "price": 3300000,
+    "area": 490,
+    "bedrooms": 7,
+    "bathrooms": 6,
+    "city": "تبوك",
+    "district": "الورود",
+    "country": "السعودية",
+    "agent": "ماهر خالد الحويطي",
+    "contact": {
+      "phone": "+966542345678",
+      "email": "maher.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-042-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-042-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-042-3.png"
+    ],
+    "description": "فيلا كبيرة جداً مع جميع المرافق الفاخرة والمساحات الواسعة",
+    "features": ["مسبح كبير", "حديقة واسعة", "ملعب أطفال", "جراج أربع سيارات", "قاعة سينما", "مكتبة"]
+  },
+  {
+    "id": "property-043",
+    "title": "بنتهاوس النجوم",
+    "type": "بنتهاوس",
+    "price": 4400000,
+    "area": 540,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "جدة",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "ياسين علي الجهني",
+    "contact": {
+      "phone": "+966543456789",
+      "email": "yassin.ali@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-043-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-043-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-043-3.png"
+    ],
+    "description": "بنتهاوس فاخر جداً بإطلالة رائعة على البحر والسماء مع تراس كبير ومسبح خاص",
+    "features": ["إطلالة رائعة", "تراس كبير", "مسبح خاص", "مصعد خاص", "نظام أمن متقدم", "قاعة سينما"]
+  },
+  {
+    "id": "property-044",
+    "title": "شقة الأمان الفاخرة",
+    "type": "شقة",
+    "price": 1120000,
+    "area": 185,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "city": "حائل",
+    "district": "المطار",
+    "country": "السعودية",
+    "agent": "عبدالرحمن سعيد الشمري",
+    "contact": {
+      "phone": "+966544567890",
+      "email": "abdulrahman.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-044-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-044-2.png"
+    ],
+    "description": "شقة فاخرة في مجمع آمن مع خدمات ومرافق متكاملة",
+    "features": ["موقف سيارة", "مصعد", "صالة رياضية", "مسبح مشترك", "نظام أمن متقدم"]
+  },
+  {
+    "id": "property-045",
+    "title": "مكتب تجاري صغير",
+    "type": "مكتب",
+    "price": 1050000,
+    "area": 160,
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "city": "الرياض",
+    "district": "الملز",
+    "country": "السعودية",
+    "agent": "طارق أحمد العلياني",
+    "contact": {
+      "phone": "+966545678901",
+      "email": "tariq.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-045-1.png"
+    ],
+    "description": "مكتب تجاري صغير مناسب للشركات الصغيرة والناشئة",
+    "features": ["موقف سيارات", "نظام أمن", "إنترنت", "مكيف", "إضاءة ممتازة"]
+  },
+  {
+    "id": "property-046",
+    "title": "فيلا الراحة",
+    "type": "فيلا",
+    "price": 2650000,
+    "area": 430,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "جازان",
+    "district": "الصفا",
+    "country": "السعودية",
+    "agent": "سامر محمد الجازي",
+    "contact": {
+      "phone": "+966546789012",
+      "email": "samer.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-046-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-046-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-046-3.png"
+    ],
+    "description": "فيلا فاخرة توفر أقصى درجات الراحة مع حديقة ومسبح ومساحات واسعة",
+    "features": ["مسبح", "حديقة واسعة", "جراج ثلاث سيارات", "مطبخ فاخر", "صالة طعام", "مكتب منزلي"]
+  },
+  {
+    "id": "property-047",
+    "title": "دوبلكس الوفاء",
+    "type": "دوبلكس",
+    "price": 1520000,
+    "area": 250,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "city": "نجران",
+    "district": "الفيصلية",
+    "country": "السعودية",
+    "agent": "عمر خالد النجراني",
+    "contact": {
+      "phone": "+966547890123",
+      "email": "omar.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-047-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-047-2.png"
+    ],
+    "description": "دوبلكس كبير عائلي مع حديقة ومساحات واسعة ومناسبة للعائلات",
+    "features": ["حديقة", "جراج ثلاث سيارات", "مطبخ كبير", "صالة واسعة", "مكتب منزلي", "سطح"]
+  },
+  {
+    "id": "property-048",
+    "title": "شقة البهجة",
+    "type": "شقة",
+    "price": 880000,
+    "area": 155,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "city": "الباحة",
+    "district": "الروابي",
+    "country": "السعودية",
+    "agent": "ندى سعيد الزهراني",
+    "contact": {
+      "phone": "+966548901234",
+      "email": "nada.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-048-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-048-2.png"
+    ],
+    "description": "شقة جميلة في منطقة هادئة مع خدمات قريبة",
+    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مجهز", "نظام أمن"]
+  },
+  {
+    "id": "property-049",
+    "title": "فيلا النور",
+    "type": "فيلا",
+    "price": 3100000,
+    "area": 470,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "سكاكا",
+    "district": "الفيصلية",
+    "country": "السعودية",
+    "agent": "باسم محمد الجوف",
+    "contact": {
+      "phone": "+966549012345",
+      "email": "basem.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-049-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-049-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-049-3.png"
+    ],
+    "description": "فيلا فاخرة مشرقة مع حديقة ومسبح ومساحات واسعة ومشرقة",
+    "features": ["مسبح", "حديقة واسعة", "جراج ثلاث سيارات", "مطبخ فاخر", "صالة طعام", "مكتبة"]
+  },
+  {
+    "id": "property-050",
+    "title": "مكتب تجاري متوسط",
+    "type": "مكتب",
+    "price": 1280000,
+    "area": 195,
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "city": "عرعر",
+    "district": "المنصورية",
+    "country": "السعودية",
+    "agent": "مازن أحمد الشمري",
+    "contact": {
+      "phone": "+966550123456",
+      "email": "mazen.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-050-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-050-2.png"
+    ],
+    "description": "مكتب تجاري متوسط الحجم مناسب للشركات المتوسطة",
+    "features": ["موقف سيارات", "قاعة اجتماعات", "نظام أمن", "إنترنت", "مكيف مركزي"]
+  },
+  {
+    "id": "property-051",
+    "title": "شقة السعادة الكبيرة",
+    "type": "شقة",
+    "price": 1020000,
+    "area": 175,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "city": "الخبر",
+    "district": "الكورنيش",
+    "country": "السعودية",
+    "agent": "ريم حسن الخليفي",
+    "contact": {
+      "phone": "+966551234567",
+      "email": "reem.hassan@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-051-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-051-2.png"
+    ],
+    "description": "شقة كبيرة مريحة في موقع مميز مع إطلالة جميلة",
+    "features": ["موقف سيارة", "مصعد", "شرفة واسعة", "مطبخ كبير", "صالة استقبال", "نظام أمن"]
+  },
+  {
+    "id": "property-052",
+    "title": "بنتهاوس الفخامة المطلقة",
+    "type": "بنتهاوس",
+    "price": 4800000,
+    "area": 580,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "city": "الرياض",
+    "district": "العليا",
+    "country": "السعودية",
+    "agent": "وسام علي العلياني",
+    "contact": {
+      "phone": "+966552345678",
+      "email": "wissam.ali@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-052-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-052-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-052-3.png"
+    ],
+    "description": "بنتهاوس فاخر جداً بإطلالة رائعة مع جميع وسائل الرفاهية",
+    "features": ["إطلالة رائعة", "تراس ضخم", "مسبح خاص", "مصعد خاص", "قاعة سينما", "مكتبة", "نظام أمن متقدم"]
+  },
+  {
+    "id": "property-053",
+    "title": "فيلا الكوثر الكبيرة",
+    "type": "فيلا",
+    "price": 3500000,
+    "area": 510,
+    "bedrooms": 8,
+    "bathrooms": 7,
+    "city": "الجبيل",
+    "district": "الدارين",
+    "country": "السعودية",
+    "agent": "فادي خالد الزهراني",
+    "contact": {
+      "phone": "+966553456789",
+      "email": "fadi.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-053-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-053-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-053-3.png"
+    ],
+    "description": "فيلا كبيرة جداً مع جميع المرافق والخدمات الفاخرة",
+    "features": ["مسبح كبير", "حديقة واسعة", "ملعب أطفال", "جراج خمس سيارات", "قاعة سينما", "مكتبة", "مطبخ فاخر"]
+  },
+  {
+    "id": "property-054",
+    "title": "شقة الأنس الحديثة",
+    "type": "شقة",
+    "price": 720000,
+    "area": 135,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "city": "ينبع",
+    "district": "الهيئة الملكية",
+    "country": "السعودية",
+    "agent": "لمياء سعيد البقمي",
+    "contact": {
+      "phone": "+966554567890",
+      "email": "lamyaa.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-054-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-054-2.png"
+    ],
+    "description": "شقة حديثة صغيرة في موقع هادئ ومناسب",
+    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مفتوح", "نظام أمن"]
+  },
+  {
+    "id": "property-055",
+    "title": "دوبلكس الفرح",
+    "type": "دوبلكس",
+    "price": 1380000,
+    "area": 210,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "city": "القطيف",
+    "district": "الشاطئ",
+    "country": "السعودية",
+    "agent": "عبدالله خالد القطيفي",
+    "contact": {
+      "phone": "+966555678901",
+      "email": "abdullah.khaled@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-055-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-055-2.png"
+    ],
+    "description": "دوبلكس عائلي مريح مع حديقة وموقع هادئ",
+    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ مجهز", "صالة واسعة", "شرفة"]
+  },
+  {
+    "id": "property-056",
+    "title": "مكتب تجاري كبير",
+    "type": "مكتب",
+    "price": 2150000,
+    "area": 330,
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "city": "الظهران",
+    "district": "الدوحة",
+    "country": "السعودية",
+    "agent": "مروان محمد الخليفي",
+    "contact": {
+      "phone": "+966556789012",
+      "email": "marwan.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-056-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-056-2.png"
+    ],
+    "description": "مكتب تجاري كبير مناسب للشركات الكبرى والمؤسسات",
+    "features": ["موقف سيارات كبير", "قاعات اجتماعات متعددة", "مكاتب متعددة", "نظام أمن متقدم", "إنترنت عالي السرعة", "مكيف مركزي"]
+  },
+  {
+    "id": "property-057",
+    "title": "شقة النعيم الفاخرة",
+    "type": "شقة",
+    "price": 1250000,
+    "area": 195,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "city": "الطائف",
+    "district": "الشفا",
+    "country": "السعودية",
+    "agent": "هناء أحمد الثقفي",
+    "contact": {
+      "phone": "+966557890123",
+      "email": "hanaa.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-057-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-057-2.png"
+    ],
+    "description": "شقة فاخرة كبيرة في مجمع راقي مع خدمات ومرافق متكاملة",
+    "features": ["موقف سيارة", "مصعد", "صالة رياضية", "مسبح مشترك", "شرفة واسعة", "نظام أمن"]
+  },
+  {
+    "id": "property-058",
+    "title": "فيلا السلام الكبيرة",
+    "type": "فيلا",
+    "price": 3200000,
+    "area": 480,
+    "bedrooms": 7,
+    "bathrooms": 6,
+    "city": "مكة المكرمة",
+    "district": "الشوقية",
+    "country": "السعودية",
+    "agent": "يوسف سعيد الزهراني",
+    "contact": {
+      "phone": "+966558901234",
+      "email": "youssef.saeed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-058-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-058-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-058-3.png"
+    ],
+    "description": "فيلا كبيرة فاخرة مع حديقة ومسبح ومساحات واسعة وهادئة",
+    "features": ["مسبح كبير", "حديقة واسعة", "ملعب أطفال", "جراج أربع سيارات", "مكتب منزلي", "صالة طعام"]
+  },
+  {
+    "id": "property-059",
+    "title": "بنتهاوس الرفاهية",
+    "type": "بنتهاوس",
+    "price": 4300000,
+    "area": 530,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "city": "جدة",
+    "district": "الروضة",
+    "country": "السعودية",
+    "agent": "تامر محمد الجهني",
+    "contact": {
+      "phone": "+966559012345",
+      "email": "tamer.mohammed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-059-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-059-2.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-059-3.png"
+    ],
+    "description": "بنتهاوس فاخر جداً مع جميع وسائل الرفاهية والإطلالة الرائعة",
+    "features": ["إطلالة رائعة", "تراس كبير", "مسبح خاص", "مصعد خاص", "قاعة سينما", "نظام أمن متقدم"]
+  },
+  {
+    "id": "property-060",
+    "title": "شقة الرفاهية الصغيرة",
+    "type": "شقة",
+    "price": 680000,
+    "area": 130,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "city": "الرياض",
+    "district": "الملك فهد",
+    "country": "السعودية",
+    "agent": "كريم أحمد العلياني",
+    "contact": {
+      "phone": "+966560123456",
+      "email": "kareem.ahmed@realestate.com"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-060-1.png",
+      "https://raw.githubusercontent.com/username/arabicaapi/assets/properties/property-060-2.png"
+    ],
+    "description": "شقة صغيرة مريحة في موقع مركزي مع خدمات قريبة",
+    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مفتوح", "نظام أمن"]
+  }
+]

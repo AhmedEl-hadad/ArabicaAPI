@@ -1,162 +1,143 @@
 # ArabicaAPI
 
-A clean, organized collection of **static JSON datasets** designed for real projects, prototypes, and production-ready mockups.  
-Everything is pre-structured, human-reviewed, and ready to fetch directly from your client or server.
+A clean, organized collection of **static JSON datasets** designed for real projects, prototypes, and production-ready mockups.
+Everything is pre-structured, realistic, and ready to fetch directly from your client or server.
 
-This repo focuses on **realistic Arabic-friendly data** that helps developers build full apps without searching for datasets or using paid APIs.
+This repo focuses on **Arabic-friendly data** to help developers build apps quickly without searching for datasets or using paid APIs.
 
-![Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/assets/695e86e0-ea94-40e0-8da0-617baddbc44d.png?raw=true)
+![Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/assets/thumbnail.jpg?raw=true)
 
 ---
 
-🚀 What is ArabicaAPI?
+## 🚀 What is ArabicaAPI?
 
-ArabicaAPI is a fully static dataset library, built using clean and well-structured JSON files.
-You can use the data in two ways:
+ArabicaAPI is a **fully static, modular dataset library**.
+You can use it in two ways:
 
-Download it locally and import it straight into your project
-Or fetch it directly using the raw GitHub file URL, just like calling a real API
-This gives you realistic, ready-to-use data for:
+1. Download and import JSON files directly into your project.
+2. Fetch directly from GitHub raw URLs, just like a real API.
 
-ecommerce apps
+It provides ready-to-use data for:
 
-travel and tourism projects
+- Ecommerce platforms
+- Company and user management systems
+- Car dealerships or automotive apps
+- Real-estate platforms
+- Education and course apps
+- Events and recipe apps
+- Dashboards, mockups, and prototypes
+- UI testing and frontend development
 
-fitness apps
-
-educational platforms
-
-mockups and prototypes
-
-dashboards
-
-UI testing
-
-anything that needs real-looking data without external APIs
-You can also test any JSON file easily by copying its raw URL, pasting it into Hoppscotch, and checking the response instantly.
-There is a dedicated assets branch for images used across datasets.
+All datasets are curated for **realism, clarity, and modular use**. Developers can pick specific sections or use the full dataset.
 
 ---
 
 ## 📚 Table of Contents
 
 - [Features](#-features)
-- [Categories](#-categories)
+- [Sections](#-sections)
 - [Tech Stack](#-tech-stack)
 - [Repo Structure](#-repo-structure)
 - [Usage](#-usage)
-- [Notes](#-notes)
 - [Contributing](#-contributing)
 - [License](#-license)
 
 ---
 
-## 📘 Documentation
-
-- **Data Guidelines:**
-  
- > https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/DATA_GUIDELINES.md
-
----
-
 ## ✨ Features
 
-- ✅ 100% static JSON files  
-- ✅ Ready for client-side fetch  
-- ✅ Realistic, clean, hand-curated datasets  
-- ✅ Organized in clear categories  
-- ✅ Free to use for commercial or personal projects  
-- ✅ Easy to clone, fork, or extend  
+- ✅ Fully static JSON files
+- ✅ Modular sections for selective or full use
+- ✅ Realistic, Arabic-friendly data
+- ✅ Ready for client-side fetch or local import
+- ✅ Easy to extend with new categories
+- ✅ Free for commercial or personal use
 
 ---
 
-## 🧩 Categories (Version 1)
+## 🧩 Sections (Version 2)
 
-Each category contains its own folder and structured JSON files.
+The project is organized into **12 main sections**, each with modular JSON files:
 
 ### 1) **Ecommerce**
-- Up to 20 product categories  
-- Each category: 30 unique products  
-- One combined mega file: **600 total unique products**  
-Great for Amazon-style apps, cart systems, or dashboards.
 
-### 2) **Travel**
-- Data about 100 popular global tourist locations  
-- Useful for travel agencies, map projects, or trip planners
+- 12 categories: clothes, makeup, electronics, home, toys, books, sports, beauty, accessories, food, automotive, office
+- Each category: 30 products
+- Total: **360 unique products**
+- Each product: 12 fields (`id, title, description, price, categoryId, image, stock, rating, brand, SKU, color, tags`)
+- Ideal for full ecommerce apps or single-category projects
 
-### 3) **Food**
-- 100+ food items with macros  
-- Designed for fitness, nutrition, or recipe apps
+### 2) **Users**
 
-### 4) **Music (Halal Version)**
-- Clean, safe, music-free tracks  
-- No inappropriate content  
-- Perfect for Islamic apps, productivity tools, and background audio
+- 100-200 users
+- Fields: `id, name, age, email, username, stack[], github, linkedin, avatar, address, role, joinDate`
+- Suitable for social apps, dashboards, or authentication testing
 
-### 5) **Education**
-- Curated courses and subjects  
-- All from free sources like YouTube  
-- Structured for platforms like Udemy or Coursera clones
+### 3) **Companies**
 
-### 6) **Health Care**
-- Medicine data, mockups, and structured medical info  
-- Suitable for pharmacy apps or hospital systems
+- 50-100 companies and startups
+- Fields: `id, name, industry, employees, website, location, foundingDate, ceo, rating, logo, description, tags`
+- Useful for business directories or SaaS mockups
 
-### 7) **Books and Quotes**
-- Real book links  
-- 100+ unique quotes  
-- Great for library apps, blogs, and reading platforms
+### 4) **Cars**
 
-### 8) **Cars**
-- Data for 30 unique cars  
-- Good for dealerships, rental apps, or comparison tools
+- 100 unique cars
+- Fields: `id, brandId, model, year, price, type, engine, color, fuel, transmission, stock, image`
+- Great for dealerships, rental apps, or car comparison platforms
 
-### 9) **Restaurant / Cafe**
-- Dishes, drinks, categories (healthy, fast food, etc.)  
-- Designed for food ordering apps and menu builders
+### 5) **Orders**
 
-### 10) **Fashion and Beauty**
-- Clothes, perfumes, makeup, accessories  
-- Perfect for boutique and online shop mockups
+- 200 orders linking users → products
+- Includes `order-items.json` for detailed products per order
 
-### 11) **Pets and Animals**
-- Famous animals, facts, traits  
-- Suitable for zoo apps, pet stores, or wildlife projects
+### 6) **Reviews**
 
-### 12) **Home and Furniture**
-- Furniture data for IKEA-style projects  
-- Great for interior and home improvement apps
+- Product, company, and user reviews
+- 100+ fictional reviews with ratings and comments
+- Perfect for ecommerce, SaaS, or service apps
 
-### 13) **Arts and Design**
-- Art pieces, masterpieces, and historical artifacts  
-- Ideal for gallery apps, museums, and culture platforms
+### 7) **Real Estate**
 
-### 14) **History and Culture**
-- Historical events, wars, and major cultural milestones  
-- For learning platforms and educational apps
+- 50 properties, 20 agents, locations
+- Suitable for property listing apps
 
-### 15) **Avatars (People)**
-- Realistic fictional people  
-- Hobbies, personalities, images included  
-- Great for mockups and social apps
+### 8) **Jobs**
 
-### 16) **Avatars V2 (Reviews)**
-- 100+ real-looking comments and reviews  
-- Great for ecommerce, SaaS, and product pages
+- 50 job listings
+- Includes companies and job categories
+- Great for job boards or employment apps
 
-More categories will be added in future versions.
+### 9) **Education**
+
+- Schools, courses, teachers
+- Useful for course platforms or learning apps
+
+### 10) **Events**
+
+- Event data with venues
+- Ideal for event management apps or booking systems
+
+### 11) **Recipes**
+
+- Recipes and ingredients
+- Good for cooking, nutrition, or meal planner apps
+
+### 12) **Misc**
+
+- FAQ, tips, and other small datasets
+- Flexible use for dashboards, apps, or testing
 
 ---
 
 ## 🛠 Tech Stack
 
-| Component | Purpose |
-|----------|---------|
-| **Static JSON** | Core of the project |
-| **assets branch** | Stores all related images |
-| **Vercel/JSDelivr (optional)** | Easy CDN delivery |
+| Component          | Purpose                                         |
+| ------------------ | ----------------------------------------------- |
+| **Static JSON**    | Core dataset files                              |
+| **Images branch**  | Avatars, products, cars, and real-estate images |
+| **CDN (optional)** | Serve images or JSON files if needed            |
 
-The repo does not contain any backend.
+The repo **does not include a backend**. Fetch or import JSON directly.
 
 ---
 
@@ -165,56 +146,74 @@ The repo does not contain any backend.
 ```
 arabicaapi/
 ├── data/
-│ ├── ecommerce/
-│ ├── travel/
-│ ├── food/
-│ ├── music/
-│ ├── education/
-│ ├── healthcare/
-│ ├── books/
-│ ├── cars/
-│ ├── restaurant/
-│ ├── fashion/
-│ ├── animals/
-│ ├── home/
-│ ├── art/
-│ ├── history/
-│ ├── avatars/
-│ └── avatars-v2/
-├── README.md
+│   ├── ecommerce/
+│   │   ├── clothes.json
+│   │   ├── makeup.json
+│   │   ├── electronics.json
+│   │   └── all-products.json
+│   ├── users/
+│   ├── companies/
+│   ├── cars/
+│   ├── orders/
+│   ├── reviews/
+│   ├── real-estate/
+│   ├── jobs/
+│   ├── education/
+│   ├── events/
+│   ├── recipes/
+│   └── misc/
+├── images/
+│   ├── avatars/
+│   ├── products/
+│   ├── cars/
+│   └── real-estate/
+├── docs/
+│   ├── README.md
+│   ├── SCHEMA.md
+│   └── CONTRIBUTING.md
+├── api/ (optional)
 └── package.json
 ```
-
-Images will be stored in a separate branch:
-
-
 
 ---
 
 ## ⚙️ Usage
 
-Fetch any JSON file directly (JS):
+**Fetch remotely:**
 
+```js
+fetch(
+  "https://raw.githubusercontent.com/YOUR_USER/ArabicaAPI/main/data/ecommerce/all-products.json"
+)
+  .then((res) => res.json())
+  .then((data) => console.log(data));
 ```
-fetch("https://raw.githubusercontent.com/YOUR_USER/ArabicaAPI/main/data/ecommerce/all-products.json")
-  .then(res => res.json())
-  .then(data => console.log(data));
-```
-Or import locally:
 
-```
+**Import locally:**
+
+```js
 import products from "./data/ecommerce/all-products.json";
 ```
 
-All data is static only
+- All datasets are **static JSON**.
+- Avatars, reviews, and some fields are fictional.
+- Modular structure allows you to pick specific sections or use the full dataset.
 
-Some categories use semi-realistic info
+---
 
-Avatars and reviews are fictional
+## 🤝 Contributing
 
-The project will expand gradually with new datasets
+- Contributions welcome: add new datasets, improve existing ones, or create new categories.
+- Follow the **Cursor AI / JSON rules** defined in `DATA_GUIDELINES.md` for consistency.
 
-🤝 Contributing
+---
 
-Pull requests are welcome.
-Help by adding new datasets, categories, or improving current ones.
+## 📜 License
+
+MIT License – free to use, modify, or distribute.
+
+---
+
+If you want, I can **also rewrite the `DATA_GUIDELINES.md`** next with clear rules for Cursor/AI to generate the 360 products, users, and other sections. This will make your Day 2 fully plug-and-play.
+
+Do you want me to do that now?

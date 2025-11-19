@@ -1,422 +1,363 @@
 [
   {
-    "id": "product-001",
-    "title": "Wireless Headphones",
-    "category": "electronics",
-    "price": 50,
-    "rating": 3.5,
-    "brand": "TechSound",
-    "description": "High-quality wireless headphones from TechSound, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-001.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 1,
+    "name": "سماعات رأس لاسلكية بخاصية العزل",
+    "category": "إلكترونيات",
+    "price": 429.90,
+    "stock": 65,
+    "description": "سماعات بلوتوث بخاصية إلغاء الضوضاء النشطة ووقت تشغيل يصل إلى 30 ساعة مع شحن سريع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-001.png"
   },
   {
-    "id": "product-002",
-    "title": "Smartphone",
-    "category": "electronics",
-    "price": 51,
-    "rating": 3.6,
-    "brand": "PhoneX",
-    "description": "High-quality smartphone from PhoneX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-002.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 2,
+    "name": "هاتف ذكي بشاشة OLED 6.4 إنش",
+    "category": "إلكترونيات",
+    "price": 2399.00,
+    "stock": 40,
+    "description": "هاتف بمعالج ثماني النواة وذاكرة 128 جيجابايت وكاميرا ثلاثية بدقة 50 ميجابكسل.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-002.png"
   },
   {
-    "id": "product-003",
-    "title": "Laptop",
-    "category": "electronics",
-    "price": 52,
-    "rating": 3.7,
-    "brand": "CompuTech",
-    "description": "High-quality laptop from CompuTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-003.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 3,
+    "name": "حاسوب محمول للأعمال 14 إنش",
+    "category": "إلكترونيات",
+    "price": 3299.50,
+    "stock": 25,
+    "description": "لابتوب بمعالج Intel i7 من الجيل 12، ذاكرة 16 جيجابايت، وقرص SSD بسعة 512 جيجابايت مع بطارية تدوم 12 ساعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-003.png"
   },
   {
-    "id": "product-004",
-    "title": "Tablet",
-    "category": "electronics",
-    "price": 53,
-    "rating": 3.8,
-    "brand": "ScreenPro",
-    "description": "High-quality tablet from ScreenPro, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-004.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 4,
+    "name": "ساعة ذكية بمراقبة الصحة",
+    "category": "إلكترونيات",
+    "price": 765.75,
+    "stock": 70,
+    "description": "ساعة مقاومة للماء تتابع معدل ضربات القلب والنوم وتدعم إشعارات الهاتف مع بطارية لمدة أسبوع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-004.png"
   },
   {
-    "id": "product-005",
-    "title": "Smart Watch",
-    "category": "electronics",
-    "price": 54,
-    "rating": 3.9,
-    "brand": "AudioMax",
-    "description": "High-quality smart watch from AudioMax, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-005.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 5,
+    "name": "لوحي تعليمي 10.5 إنش",
+    "category": "إلكترونيات",
+    "price": 1495.00,
+    "stock": 55,
+    "description": "جهاز لوحي بخاصية القلم الذكي وواجهة أطفال مخصصة وذاكرة 64 جيجابايت قابلة للتوسيع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-005.png"
   },
   {
-    "id": "product-006",
-    "title": "Camera",
-    "category": "electronics",
-    "price": 55,
-    "rating": 4.0,
-    "brand": "VisionTech",
-    "description": "High-quality camera from VisionTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-006.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 6,
+    "name": "كاميرا أكشن مقاومة للماء 4K",
+    "category": "إلكترونيات",
+    "price": 980.60,
+    "stock": 45,
+    "description": "كاميرا صغيرة تصور بدقة 4K مع مثبت بصري وملحقات تثبيت للخوذة ولوحة التحكم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-006.png"
   },
   {
-    "id": "product-007",
-    "title": "Speaker",
-    "category": "electronics",
-    "price": 56,
-    "rating": 4.1,
-    "brand": "GameZone",
-    "description": "High-quality speaker from GameZone, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-007.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 7,
+    "name": "سماعة منزلية ذكية بصوت محيطي",
+    "category": "إلكترونيات",
+    "price": 650.40,
+    "stock": 80,
+    "description": "مكبر صوت يدعم المساعد الصوتي ويدمج بلوتوث وواي فاي ويقدم صوت 360 درجة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-007.png"
   },
   {
-    "id": "product-008",
-    "title": "Monitor",
-    "category": "electronics",
-    "price": 57,
-    "rating": 4.2,
-    "brand": "SmartHome",
-    "description": "High-quality monitor from SmartHome, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-008.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 8,
+    "name": "راوتر واي فاي مزدوج النطاق AX",
+    "category": "إلكترونيات",
+    "price": 399.95,
+    "stock": 90,
+    "description": "راوتر بسرعة قصوى 3000 ميجابت/ث يضم أربعة هوائيات وتقنيات حماية متقدمة للشبكة المنزلية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-008.png"
   },
   {
-    "id": "product-009",
-    "title": "Keyboard",
-    "category": "electronics",
-    "price": 58,
-    "rating": 4.3,
-    "brand": "FlyTech",
-    "description": "High-quality keyboard from FlyTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-009.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 9,
+    "name": "طابعة ليزر متعددة الوظائف",
+    "category": "إلكترونيات",
+    "price": 1120.80,
+    "stock": 50,
+    "description": "طابعة تطبع وتنسخ وتفحص بالأبيض والأسود مع اتصال لاسلكي ودعم للطباعة السحابية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-009.png"
   },
   {
-    "id": "product-010",
-    "title": "Mouse",
-    "category": "electronics",
-    "price": 59,
-    "rating": 4.4,
-    "brand": "ActionCam",
-    "description": "High-quality mouse from ActionCam, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-010.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 10,
+    "name": "شاشة ألعاب 27 إنش 165 هرتز",
+    "category": "إلكترونيات",
+    "price": 1899.00,
+    "stock": 35,
+    "description": "شاشة IPS بدقة QHD ومعدل تحديث 165 هرتز مع تقنية FreeSync ولوحة ألوان واسعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-010.png"
   },
   {
-    "id": "product-011",
-    "title": "Webcam",
-    "category": "electronics",
-    "price": 60,
-    "rating": 4.5,
-    "brand": "TechSound",
-    "description": "High-quality webcam from TechSound, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-011.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 11,
+    "name": "قرص تخزين خارجي 2 تيرابايت",
+    "category": "إلكترونيات",
+    "price": 355.20,
+    "stock": 120,
+    "description": "قرص صلب محمول بواجهة USB-C متوافق مع أنظمة ويندوز وماك ويتميز بغطاء مقاوم للصدمات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-011.png"
   },
   {
-    "id": "product-012",
-    "title": "Headset",
-    "category": "electronics",
-    "price": 61,
-    "rating": 4.6,
-    "brand": "PhoneX",
-    "description": "High-quality headset from PhoneX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-012.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 12,
+    "name": "لوحة مفاتيح ميكانيكية مضيئة",
+    "category": "إلكترونيات",
+    "price": 465.70,
+    "stock": 75,
+    "description": "لوحة مفاتيح بإضاءة RGB مخصصة ومفاتيح خطية هادئة مع إطار ألمنيوم قوي ودعم برمجة الماكرو.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-012.png"
   },
   {
-    "id": "product-013",
-    "title": "Charger",
-    "category": "electronics",
-    "price": 62,
-    "rating": 4.7,
-    "brand": "CompuTech",
-    "description": "High-quality charger from CompuTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-013.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 13,
+    "name": "ماوس الألعاب بدقة 26000 DPI",
+    "category": "إلكترونيات",
+    "price": 325.60,
+    "stock": 85,
+    "description": "فأرة ألعاب استشعار بصري عالي الدقة مع أزرار جانبية قابلة للبرمجة ووزن قابل للتعديل.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-013.png"
   },
   {
-    "id": "product-014",
-    "title": "Power Bank",
-    "category": "electronics",
-    "price": 63,
-    "rating": 4.8,
-    "brand": "ScreenPro",
-    "description": "High-quality power bank from ScreenPro, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-014.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 14,
+    "name": "محطة شحن متنقلة 20000 مللي أمبير",
+    "category": "إلكترونيات",
+    "price": 279.40,
+    "stock": 140,
+    "description": "باور بانك يدعم الشحن السريع PD وQC مع منفذي USB-C وشاشة لعرض مستوى الطاقة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-014.png"
   },
   {
-    "id": "product-015",
-    "title": "USB Drive",
-    "category": "electronics",
-    "price": 64,
-    "rating": 4.9,
-    "brand": "AudioMax",
-    "description": "High-quality usb drive from AudioMax, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-015.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 15,
+    "name": "ميكروفون بودكاست USB احترافي",
+    "category": "إلكترونيات",
+    "price": 560.10,
+    "stock": 45,
+    "description": "ميكروفون مكثّف بفلتر بوب وحامل متين يقدم تسجيلًا نقيًا للبث المباشر والبودكاست.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-015.png"
   },
   {
-    "id": "product-016",
-    "title": "SSD Drive",
-    "category": "electronics",
-    "price": 65,
-    "rating": 3.5,
-    "brand": "VisionTech",
-    "description": "High-quality ssd drive from VisionTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-016.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 16,
+    "name": "مكبر صوت محمول مقاوم للماء",
+    "category": "إلكترونيات",
+    "price": 485.90,
+    "stock": 60,
+    "description": "سبيكر بلوتوث بقدرة 40 واط وتصنيف IP67 مع إضاءة تفاعلية ومدة تشغيل 18 ساعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-016.png"
   },
   {
-    "id": "product-017",
-    "title": "Router",
-    "category": "electronics",
-    "price": 66,
-    "rating": 3.6,
-    "brand": "GameZone",
-    "description": "High-quality router from GameZone, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-017.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 17,
+    "name": "محول USB-C متعدد المنافذ",
+    "category": "إلكترونيات",
+    "price": 310.40,
+    "stock": 85,
+    "description": "محور بسبعة منافذ يتضمن HDMI 4K وقارئ بطاقات وشحن 100 واط لأجهزة اللابتوب الحديثة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-017.png"
   },
   {
-    "id": "product-018",
-    "title": "Modem",
-    "category": "electronics",
-    "price": 67,
-    "rating": 3.7,
-    "brand": "SmartHome",
-    "description": "High-quality modem from SmartHome, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-018.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 18,
+    "name": "جهاز بث وسائط 4K HDR",
+    "category": "إلكترونيات",
+    "price": 620.75,
+    "stock": 50,
+    "description": "مشغل بث يدعم Dolby Vision ويدمج مساعداً صوتياً مع وحدة تحكم عن بعد بإضاءة خلفية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-018.png"
   },
   {
-    "id": "product-019",
-    "title": "Printer",
-    "category": "electronics",
-    "price": 68,
-    "rating": 3.8,
-    "brand": "FlyTech",
-    "description": "High-quality printer from FlyTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-019.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 19,
+    "name": "ميزان ذكي لتحليل الجسم",
+    "category": "إلكترونيات",
+    "price": 235.80,
+    "stock": 90,
+    "description": "ميزان يتصل بالتطبيق عبر البلوتوث لقياس الوزن والدهون العضلية ومتابعة المؤشرات الحيوية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-019.png"
   },
   {
-    "id": "product-020",
-    "title": "Scanner",
-    "category": "electronics",
-    "price": 69,
-    "rating": 3.9,
-    "brand": "ActionCam",
-    "description": "High-quality scanner from ActionCam, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-020.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 20,
+    "name": "منظف هواء منزلي مع مرشح HEPA",
+    "category": "إلكترونيات",
+    "price": 975.20,
+    "stock": 42,
+    "description": "منقي هواء يغطي حتى 60 متر مربع بثلاث طبقات ترشيح ووضع نوم هادئ بلمسة واحدة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-020.png"
   },
   {
-    "id": "product-021",
-    "title": "Projector",
-    "category": "electronics",
-    "price": 70,
-    "rating": 4.0,
-    "brand": "TechSound",
-    "description": "High-quality projector from TechSound, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-021.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 21,
+    "name": "جهاز عرض محمول بسطوع 600 لومن",
+    "category": "إلكترونيات",
+    "price": 1890.00,
+    "stock": 28,
+    "description": "بروجكتور صغير يدعم تصوير Full HD مع مكبر مدمج وبطارية تكفي لعرض فيلمين متتاليين.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-021.png"
   },
   {
-    "id": "product-022",
-    "title": "VR Headset",
-    "category": "electronics",
-    "price": 71,
-    "rating": 4.1,
-    "brand": "PhoneX",
-    "description": "High-quality vr headset from PhoneX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-022.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 22,
+    "name": "لوح رسم رقمي للمصممين",
+    "category": "إلكترونيات",
+    "price": 1420.50,
+    "stock": 35,
+    "description": "لوح بمساحة 13 إنش وقلم حساس لـ8192 مستوى ضغط مع أزرار اختصار قابلة للبرمجة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-022.png"
   },
   {
-    "id": "product-023",
-    "title": "Gaming Console",
-    "category": "electronics",
-    "price": 72,
-    "rating": 4.2,
-    "brand": "CompuTech",
-    "description": "High-quality gaming console from CompuTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-023.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 23,
+    "name": "كاميرا مراقبة منزلية دوارة",
+    "category": "إلكترونيات",
+    "price": 360.60,
+    "stock": 75,
+    "description": "كاميرا بدقة 2K تدور 360 درجة مع رؤية ليلية ملوّنة وتخزين سحابي مشفر.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-023.png"
   },
   {
-    "id": "product-024",
-    "title": "Smart TV",
-    "category": "electronics",
-    "price": 73,
-    "rating": 4.3,
-    "brand": "ScreenPro",
-    "description": "High-quality smart tv from ScreenPro, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-024.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 24,
+    "name": "لوحة شحن لاسلكية ثلاثية",
+    "category": "إلكترونيات",
+    "price": 285.30,
+    "stock": 110,
+    "description": "لوحة تشحن الهاتف والساعة والسماعات في آن واحد مع نظام حماية حراري.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-024.png"
   },
   {
-    "id": "product-025",
-    "title": "Bluetooth Earbuds",
-    "category": "electronics",
-    "price": 74,
-    "rating": 4.4,
-    "brand": "AudioMax",
-    "description": "High-quality bluetooth earbuds from AudioMax, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-025.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 25,
+    "name": "ملحق تبريد لجهاز الألعاب المحمول",
+    "category": "إلكترونيات",
+    "price": 215.90,
+    "stock": 95,
+    "description": "مبرد مغناطيسي بمروحة صامتة وإضاءة RGB يحافظ على درجة حرارة الهاتف أثناء اللعب المكثف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-025.png"
   },
   {
-    "id": "product-026",
-    "title": "Fitness Tracker",
-    "category": "electronics",
-    "price": 75,
-    "rating": 4.5,
-    "brand": "VisionTech",
-    "description": "High-quality fitness tracker from VisionTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-026.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 26,
+    "name": "حامل شاشة مزدوج هيدروليكي",
+    "category": "إلكترونيات",
+    "price": 540.40,
+    "stock": 38,
+    "description": "ذراع مكتب يدعم شاشتين حتى 32 إنش بآلية هيدروليكية لتعديل الارتفاع والميل بسهولة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-026.png"
   },
   {
-    "id": "product-027",
-    "title": "Smart Thermostat",
-    "category": "electronics",
-    "price": 76,
-    "rating": 4.6,
-    "brand": "GameZone",
-    "description": "High-quality smart thermostat from GameZone, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-027.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 27,
+    "name": "لوحة تحكم صوتي للبودكاست",
+    "category": "إلكترونيات",
+    "price": 1680.00,
+    "stock": 20,
+    "description": "واجهة صوتية تجمع قنوات ميكروفون وتأثيرات فورية وبث مباشر عبر USB-C.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-027.png"
   },
   {
-    "id": "product-028",
-    "title": "Security Camera",
-    "category": "electronics",
-    "price": 77,
-    "rating": 4.7,
-    "brand": "SmartHome",
-    "description": "High-quality security camera from SmartHome, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-028.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 28,
+    "name": "جهاز تتبع موقع بالعوامل المتعددة",
+    "category": "إلكترونيات",
+    "price": 155.75,
+    "stock": 150,
+    "description": "جهاز صغير يعمل بالبلوتوث والـGPS لتتبع الحقائب والمفاتيح مع تنبيهات ذكية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-028.png"
   },
   {
-    "id": "product-029",
-    "title": "Drone",
-    "category": "electronics",
-    "price": 78,
-    "rating": 4.8,
-    "brand": "FlyTech",
-    "description": "High-quality drone from FlyTech, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-029.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 29,
+    "name": "مستشعر ذكي لفتح الأبواب",
+    "category": "إلكترونيات",
+    "price": 225.10,
+    "stock": 80,
+    "description": "مستشعر يرسل إشعارات إلى الهاتف عند فتح الأبواب أو النوافذ ويتكامل مع أنظمة المنازل الذكية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-029.png"
   },
   {
-    "id": "product-030",
-    "title": "Action Camera",
-    "category": "electronics",
-    "price": 79,
-    "rating": 4.9,
-    "brand": "ActionCam",
-    "description": "High-quality action camera from ActionCam, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/electronics/product-030.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 30,
+    "name": "سماعة أذن رياضية بخ hooks",
+    "category": "إلكترونيات",
+    "price": 360.80,
+    "stock": 70,
+    "description": "سماعات أذن مقاومة للعرق بخطافات أذن ثابتة وبطارية 10 ساعات مع شحن سريع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-030.png"
+  },
+  {
+    "id": 31,
+    "name": "محطة إرساء للابتوب بمنفذ واحد",
+    "category": "إلكترونيات",
+    "price": 890.30,
+    "stock": 32,
+    "description": "محطة إرساء توفر منافذ DisplayPort وشبكة سلكية وUSB-A عبر اتصال USB-C واحد.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-031.png"
+  },
+  {
+    "id": 32,
+    "name": "قارئ كتب إلكتروني بإضاءة مدمجة",
+    "category": "إلكترونيات",
+    "price": 620.00,
+    "stock": 58,
+    "description": "قارئ بشاشة حبر إلكتروني 7 إنش مع إضاءة قابلة للتعديل وسعة تخزين 32 جيجابايت.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-032.png"
+  },
+  {
+    "id": 33,
+    "name": "جهاز تحكم للألعاب السحابية",
+    "category": "إلكترونيات",
+    "price": 345.60,
+    "stock": 88,
+    "description": "يد تحكم متوافقة مع أندرويد وiOS تدعم البلوتوث والاتصال السلكي مع أزرار قابلة للبرمجة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-033.png"
+  },
+  {
+    "id": 34,
+    "name": "كاميرا ويب بدقة 2K مع غطاء خصوصية",
+    "category": "إلكترونيات",
+    "price": 295.40,
+    "stock": 120,
+    "description": "كاميرا ويب تدعم HDR وميكروفون مزدوج وتأتي مع غطاء منزلق لحماية الخصوصية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-034.png"
+  },
+  {
+    "id": 35,
+    "name": "قارئ بطاقات صوتية محمول",
+    "category": "إلكترونيات",
+    "price": 210.15,
+    "stock": 140,
+    "description": "قارئ USB-C لبطاقات الصوت الاحترافية يتيح نقل التسجيلات من الأجهزة المحمولة بسرعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-035.png"
+  },
+  {
+    "id": 36,
+    "name": "شاحن سيارة لاسلكي مع تثبيت تلقائي",
+    "category": "إلكترونيات",
+    "price": 275.80,
+    "stock": 105,
+    "description": "شاحن Qi للسيارة يفتح ويغلق تلقائياً ويشحن بسرعة 15 واط مع ذراع قابل للتدوير.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-036.png"
+  },
+  {
+    "id": 37,
+    "name": "وحدة تحكم ذكية للإضاءة",
+    "category": "إلكترونيات",
+    "price": 182.90,
+    "stock": 115,
+    "description": "جهاز صغير يربط الأضواء العادية بالواي فاي للتحكم بها عبر التطبيق أو الأوامر الصوتية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-037.png"
+  },
+  {
+    "id": 38,
+    "name": "مكبر صوت مكتبي بقاعدة شحن",
+    "category": "إلكترونيات",
+    "price": 415.70,
+    "stock": 68,
+    "description": "مكبر صوت صغير بصوت استريو وقاعدة شحن لاسلكية مدمجة للهواتف المتوافقة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-038.png"
+  },
+  {
+    "id": 39,
+    "name": "نظارة واقع افتراضي مستقلة",
+    "category": "إلكترونيات",
+    "price": 2299.50,
+    "stock": 22,
+    "description": "سماعة VR مستقلة بمعالج مدمج وشاشات 120 هرتز ومستشعرات تتبع يدوي متقدمة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-039.png"
+  },
+  {
+    "id": 40,
+    "name": "روبوت منزلي لتنظيف الأرضيات",
+    "category": "إلكترونيات",
+    "price": 1780.00,
+    "stock": 30,
+    "description": "روبوت مكنسة ومسح بالليزر يرسم خريطة المنزل ويدعم الجدولة عبر التطبيق والتحكم الصوتي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-040.png"
   }
 ]
+

@@ -1,44 +1,66 @@
+---
 # DATA Guidelines
 
-These rules keep all datasets in ArabicaAPI clean, consistent, and easy to use across any project.  
-Follow them when adding or updating JSON files.
-
+These rules keep all datasets in **ArabicaAPI** clean, consistent, and modular for any project.
+Follow them when adding, updating, or generating JSON files.
 ---
 
-## ✅ 1. File Structure
+## ✅ 1. Project & Folder Structure
 
-- Each main category has its own folder inside `data/`.
-- Sub-categories (if any) must also live inside their own folders.
-- One JSON file per dataset unless a combined version is needed (ecommerce mega file, avatars bundle, etc.).
+- **Main sections (12):**
 
-Example:
+  1. Ecommerce
+  2. Users
+  3. Companies
+  4. Cars
+  5. Orders
+  6. Reviews
+  7. Real Estate
+  8. Jobs
+  9. Education
+  10. Events
+  11. Recipes
+  12. Misc
+
+- Each section has its own folder inside `/data/`.
+
+- Subcategories or modular JSON files live in separate files (e.g., `/ecommerce/clothes.json`).
+
+- Each main section also has a combined JSON file if needed (e.g., `all-products.json`).
+
+**Example structure:**
+
 ```
 data/
-ecommerce/
-electronics.json
-fashion.json
-all-products.json
-travel/
-places.json
-...
+  ecommerce/
+    clothes.json
+    makeup.json
+    electronics.json
+    all-products.json
+  users/
+    users.json
+  companies/
+    companies.json
+  cars/
+    cars.json
+  orders/
+    orders.json
+    order-items.json
+  ...
 ```
 
 ---
 
-## ✅ 2. Naming Conventions
+## ✅ 2. File Naming Conventions
 
-- **File names:** `lowercase-with-hyphens.json`
-- **Keys inside JSON:** `camelCase`
-- **IDs:** short, consistent, and never duplicated.
+- **Files:** lowercase-with-hyphens.json
 
-Examples:
-```
-"id": "product-001"
-"id": "car-12"
-"id": "place-87"
+  - Example: `clothes.json`, `all-products.json`
 
-```
+- **JSON keys:** camelCase
+- **IDs:** short, consistent, predictable, and unique
 
+  - Examples: `product-001`, `user-050`, `car-020`
 
 ---
 
@@ -46,154 +68,209 @@ Examples:
 
 - Always use **arrays of objects**, never objects with random keys.
 - Every object must follow the same structure within the same dataset.
-- Keep descriptions short but useful.
-- Never include empty fields. If something doesn’t apply, remove it.
+- Remove empty or unused fields.
+- Keep descriptions short but meaningful.
+- Keep titles concise: 3–6 words max.
 
-✅ Valid:
+**Valid Example:**
+
 ```json
 [
   {
     "id": "product-001",
     "title": "Wireless Headphones",
-    "price": 49.99
+    "price": 49.99,
+    "categoryId": "electronics",
+    "brand": "AudioMax",
+    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/images/products/1.png",
+    "stock": 100,
+    "rating": 4.5,
+    "SKU": "WH-001",
+    "color": "Black",
+    "tags": ["audio", "wireless"],
+    "description": "High-quality wireless headphones."
   }
 ]
 ```
 
-❌ Invalid:
+---
+
+## ✅ 4. IDs
+
+- Must be **unique across each file**.
+- Use predictable patterns per category:
+
+  - Ecommerce: `product-001`
+  - Users: `user-001`
+  - Companies: `company-001`
+  - Cars: `car-001`
+  - Orders: `order-001`
+
+- Avoid UUIDs or random characters.
+
+---
+
+## ✅ 5. Images
+
+- All images must live in the **assets branch**.
+- JSON must include **full raw URLs** pointing to the assets branch.
+- Example:
 
 ```
-{
-  "product-001": { "title": "Wireless Headphones" }
-}
+"https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/images/products/1.png"
 ```
-## ✅ 4. IDs (Very Important)
 
-IDs must be unique across the file.
+- Do not store images in the main branch.
 
-Use a simple predictable pattern:
+---
 
-product-001
+## ✅ 6. Templates by Section
 
-place-010
+### Ecommerce (12 categories × 30 products = 360 products)
 
-course-043
-
-Avoid UUIDs or random characters.
-
-## ✅ 5. Text Rules
-
-No emoji inside data unless a category explicitly needs it.
-
-No unnecessary punctuation.
-
-Keep descriptions in English for global compatibility.
-
-Keep titles short (3–6 words max).
-
-Avoid duplicate names.
-
-## ✅ 6. Images
-
-All images must be stored in the assets branch.
-
-Inside JSON, use the full raw link:
-
-Example:
-```
-"https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/path/to/image.jpg"
-```
-Do NOT store images in the main branch.
-
-## ✅ 7. Category Templates
-
-Each category should follow a consistent template.
-
-Ecommerce
-```
+```json
 {
   "id": "product-001",
   "title": "",
-  "category": "",
+  "categoryId": "",
   "price": 0,
   "rating": 0,
   "brand": "",
   "description": "",
   "image": "",
-  "specs": {}
+  "stock": 0,
+  "SKU": "",
+  "color": "",
+  "tags": []
 }
 ```
 
-Travel
-```
+### Users
+
+```json
 {
-  "id": "place-001",
+  "id": "user-001",
   "name": "",
-  "country": "",
-  "image": "",
+  "age": 0,
+  "email": "",
+  "username": "",
+  "stack": [],
+  "github": "",
+  "linkedin": "",
+  "avatar": "",
+  "address": {
+    "city": "",
+    "country": "",
+    "street": ""
+  },
+  "role": "",
+  "joinDate": ""
+}
+```
+
+### Companies
+
+```json
+{
+  "id": "company-001",
+  "name": "",
+  "industry": "",
+  "employees": 0,
+  "website": "",
+  "location": "",
+  "foundingDate": "",
+  "ceo": "",
+  "rating": 0,
+  "logo": "",
   "description": "",
-  "bestTimeToVisit": "",
-  "activities": []
+  "tags": []
 }
 ```
 
-Food
-```
+### Cars
+
+```json
 {
-  "id": "food-001",
-  "name": "",
-  "protein": 0,
-  "carbs": 0,
-  "fat": 0,
-  "calories": 0,
+  "id": "car-001",
+  "brandId": "",
+  "model": "",
+  "year": 0,
+  "price": 0,
+  "type": "",
+  "engine": "",
+  "color": "",
+  "fuel": "",
+  "transmission": "",
+  "stock": 0,
   "image": ""
 }
 ```
 
-(Repeat the same style for all other categories.)
+### Orders
 
-## ✅ 8. Validation Before Commit
+```json
+{
+  "id": "order-001",
+  "userId": "",
+  "products": [
+    {
+      "productId": "",
+      "quantity": 0,
+      "price": 0
+    }
+  ],
+  "totalPrice": 0,
+  "orderDate": ""
+}
+```
 
-Always check the following before pushing:
+### Reviews
 
-JSON syntax is valid
+```json
+{
+  "id": "review-001",
+  "type": "product|company|user",
+  "itemId": "",
+  "userId": "",
+  "rating": 0,
+  "comment": ""
+}
+```
 
-No duplicate IDs
+**(Similar templates for Real Estate, Jobs, Education, Events, Recipes, Misc)**
 
-File name matches the category
+---
 
-No unused fields
+## ✅ 7. Validation Before Commit
 
-No missing commas or structural issues
+- JSON syntax valid
+- No duplicate IDs
+- File names match the category
+- No unused fields
+- Raw image URLs load correctly
 
-Raw link loads correctly in Hoppscotch
+---
 
-## ✅ 9. Testing Your Dataset
+## ✅ 8. Testing Datasets
 
-You can test any dataset instantly:
+- Open raw GitHub URL to confirm JSON loads
+- Fetch from JS or Postman to verify usability
 
-Open the raw file URL in GitHub
+---
 
-Copy the raw link
+## ✅ 9. Keep It Realistic
 
-Paste it into Hoppscotch
+- Prices, ages, quantities, and other numbers should make sense
+- Descriptions should feel genuine
+- Images must match the item
+- Avoid placeholders like “Lorem ipsum”
 
-Confirm that the JSON response loads correctly
+---
 
-Fetch it from your code to confirm it's usable
+## ✅ 10. Modular & Scalable
 
-## ✅ 10. Keep It Realistic
-
-Numbers should make sense
-
-Prices should be believable
-
-Descriptions should not be generic
-
-Images must match the item
-
-Avoid placeholders like “Lorem ipsum”
-
-The goal is to make the data feel real, even though it’s completely static.
+- Developers can use **single sections** or the **full dataset**
+- Adding new categories or items should follow **same templates and naming rules**
+- Merge small JSON files into `all-*.json` for full-section usage
 
 ---

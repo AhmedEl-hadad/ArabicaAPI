@@ -1,422 +1,363 @@
 [
   {
-    "id": "product-211",
-    "title": "Product 1",
-    "category": "automotive",
-    "price": 50,
-    "rating": 3.5,
-    "brand": "BrandX",
-    "description": "High-quality product 1 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-211.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 1,
+    "name": "زيت محرك صناعي 5W-30",
+    "category": "سيارات",
+    "price": 98.50,
+    "stock": 120,
+    "description": "زيت محرك صناعي متطور يحافظ على أداء المحركات الحديثة ويقلل الاحتكاك في درجات الحرارة العالية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-001.png"
   },
   {
-    "id": "product-212",
-    "title": "Product 2",
-    "category": "automotive",
-    "price": 51,
-    "rating": 3.6,
-    "brand": "BrandY",
-    "description": "High-quality product 2 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-212.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 2,
+    "name": "بطارية سيارة 70 أمبير",
+    "category": "سيارات",
+    "price": 420.00,
+    "stock": 45,
+    "description": "بطارية حمضية عالية الاعتمادية مزودة بتقنية مقاومة للاهتزاز تناسب معظم السيارات المتوسطة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-002.png"
   },
   {
-    "id": "product-213",
-    "title": "Product 3",
-    "category": "automotive",
-    "price": 52,
-    "rating": 3.7,
-    "brand": "BrandZ",
-    "description": "High-quality product 3 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-213.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 3,
+    "name": "شمع تلميع خارجي لامع",
+    "category": "سيارات",
+    "price": 75.25,
+    "stock": 80,
+    "description": "شمع حماية يوفر طبقة لامعة مقاومة للأوساخ ويمنع بهتان الطلاء لمدة تصل إلى شهرين.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-003.png"
   },
   {
-    "id": "product-214",
-    "title": "Product 4",
-    "category": "automotive",
-    "price": 53,
-    "rating": 3.8,
-    "brand": "BrandX",
-    "description": "High-quality product 4 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-214.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 4,
+    "name": "منفاخ إطارات رقمي محمول",
+    "category": "سيارات",
+    "price": 185.90,
+    "stock": 50,
+    "description": "منفاخ كهربائي صغير بشاشة رقمية يتيح ضبط ضغط الإطارات بدقة مع إيقاف تلقائي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-004.png"
   },
   {
-    "id": "product-215",
-    "title": "Product 5",
-    "category": "automotive",
-    "price": 54,
-    "rating": 3.9,
-    "brand": "BrandY",
-    "description": "High-quality product 5 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-215.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 5,
+    "name": "حامل هاتف مغناطيسي للسيارة",
+    "category": "سيارات",
+    "price": 59.80,
+    "stock": 150,
+    "description": "حامل مغناطيسي قوي يثبت على شبك التهوية مع دوران 360 درجة لسهولة رؤية الشاشة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-005.png"
   },
   {
-    "id": "product-216",
-    "title": "Product 6",
-    "category": "automotive",
-    "price": 55,
-    "rating": 4.0,
-    "brand": "BrandZ",
-    "description": "High-quality product 6 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-216.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 6,
+    "name": "كاميرا قيادة أمامية بدقة 2K",
+    "category": "سيارات",
+    "price": 360.75,
+    "stock": 35,
+    "description": "كاميرا أمامية مع تسجيل حلقي ومستشعر صدمة مدمج لحماية إضافية أثناء القيادة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-006.png"
   },
   {
-    "id": "product-217",
-    "title": "Product 7",
-    "category": "automotive",
-    "price": 56,
-    "rating": 4.1,
-    "brand": "BrandX",
-    "description": "High-quality product 7 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-217.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 7,
+    "name": "فرش أرضية مطاطية مقاومة للماء",
+    "category": "سيارات",
+    "price": 132.40,
+    "stock": 65,
+    "description": "مجموعة من أربع قطع مصنوعة من المطاط الثقيل لحماية أرضية السيارة من الأوساخ والرطوبة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-007.png"
   },
   {
-    "id": "product-218",
-    "title": "Product 8",
-    "category": "automotive",
-    "price": 57,
-    "rating": 4.2,
-    "brand": "BrandY",
-    "description": "High-quality product 8 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-218.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 8,
+    "name": "منظف مقاعد بخلاصة الليمون",
+    "category": "سيارات",
+    "price": 64.30,
+    "stock": 95,
+    "description": "منظف رغوي لطيف يزيل بقع المقاعد القماشية ويترك رائحة حمضية منعشة بدون آثار لزجة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-008.png"
   },
   {
-    "id": "product-219",
-    "title": "Product 9",
-    "category": "automotive",
-    "price": 58,
-    "rating": 4.3,
-    "brand": "BrandZ",
-    "description": "High-quality product 9 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-219.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 9,
+    "name": "غطاء مقعد مبرد شبكي",
+    "category": "سيارات",
+    "price": 155.60,
+    "stock": 40,
+    "description": "غطاء مقعد بخامة شبكية تسمح بمرور الهواء لتقليل حرارة الظهر في الرحلات الطويلة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-009.png"
   },
   {
-    "id": "product-220",
-    "title": "Product 10",
-    "category": "automotive",
-    "price": 59,
-    "rating": 4.4,
-    "brand": "BrandX",
-    "description": "High-quality product 10 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-220.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 10,
+    "name": "شاحن سيارة USB-C بقوة 45 واط",
+    "category": "سيارات",
+    "price": 88.90,
+    "stock": 110,
+    "description": "شاحن سريع يدعم الشحن الفائق بمنفذ USB-C ومنفذ USB-A لتغذية جهازين simultانيًا.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-010.png"
   },
   {
-    "id": "product-221",
-    "title": "Product 11",
-    "category": "automotive",
-    "price": 60,
-    "rating": 4.5,
-    "brand": "BrandY",
-    "description": "High-quality product 11 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-221.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 11,
+    "name": "مجموعة أدوات طوارئ 12 قطعة",
+    "category": "سيارات",
+    "price": 240.00,
+    "stock": 30,
+    "description": "حقيبة طوارئ تضم كابلات شحن، مثلث تحذير، قفازات، ومصباح يدوي للحوادث المفاجئة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-011.png"
   },
   {
-    "id": "product-222",
-    "title": "Product 12",
-    "category": "automotive",
-    "price": 61,
-    "rating": 4.6,
-    "brand": "BrandZ",
-    "description": "High-quality product 12 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-222.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 12,
+    "name": "مساحات زجاج أمامي سيليكون",
+    "category": "سيارات",
+    "price": 112.45,
+    "stock": 75,
+    "description": "مساحات مطورة بطبقة سيليكون تدوم أطول وتضمن رؤية واضحة أثناء الأمطار الغزيرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-012.png"
   },
   {
-    "id": "product-223",
-    "title": "Product 13",
-    "category": "automotive",
-    "price": 62,
-    "rating": 4.7,
-    "brand": "BrandX",
-    "description": "High-quality product 13 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-223.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 13,
+    "name": "فلتر هواء عالي الأداء",
+    "category": "سيارات",
+    "price": 134.80,
+    "stock": 55,
+    "description": "فلتر هواء قابل لإعادة الاستخدام يزيد تدفق الهواء إلى المحرك ويحسن استهلاك الوقود.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-013.png"
   },
   {
-    "id": "product-224",
-    "title": "Product 14",
-    "category": "automotive",
-    "price": 63,
-    "rating": 4.8,
-    "brand": "BrandY",
-    "description": "High-quality product 14 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-224.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 14,
+    "name": "مزيل خدوش صغير",
+    "category": "سيارات",
+    "price": 52.90,
+    "stock": 140,
+    "description": "قلم مزيل خدوش سهل الاستخدام يعيد اللون الأصلي للطلاء ويغطي الخدوش السطحية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-014.png"
   },
   {
-    "id": "product-225",
-    "title": "Product 15",
-    "category": "automotive",
-    "price": 64,
-    "rating": 4.9,
-    "brand": "BrandZ",
-    "description": "High-quality product 15 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-225.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 15,
+    "name": "مروحة تبريد محرك احتياطية",
+    "category": "سيارات",
+    "price": 265.35,
+    "stock": 25,
+    "description": "مروحة تبريد كهربائية بقطر 12 بوصة مزودة بمحرك قوي لتحسين تدفق الهواء في حجرة المحرك.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-015.png"
   },
   {
-    "id": "product-226",
-    "title": "Product 16",
-    "category": "automotive",
-    "price": 65,
-    "rating": 3.5,
-    "brand": "BrandX",
-    "description": "High-quality product 16 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-226.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 16,
+    "name": "كشاف LED مغناطيسي للورش",
+    "category": "سيارات",
+    "price": 149.90,
+    "stock": 60,
+    "description": "مصباح عمل قابل للشحن مع قاعدة مغناطيسية ورأس قابل للدوران لإضاءة دقيقة داخل السيارة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-016.png"
   },
   {
-    "id": "product-227",
-    "title": "Product 17",
-    "category": "automotive",
-    "price": 66,
-    "rating": 3.6,
-    "brand": "BrandY",
-    "description": "High-quality product 17 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-227.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 17,
+    "name": "منظم صندوق خلفي متعدد الجيوب",
+    "category": "سيارات",
+    "price": 118.40,
+    "stock": 85,
+    "description": "منظم قابل للطي بثلاث حجرات مع أحزمة تثبيت للحفاظ على الأدوات والمواد الغذائية مرتبة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-017.png"
   },
   {
-    "id": "product-228",
-    "title": "Product 18",
-    "category": "automotive",
-    "price": 67,
-    "rating": 3.7,
-    "brand": "BrandZ",
-    "description": "High-quality product 18 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-228.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 18,
+    "name": "مظلة شمسية أمامية عاكسة",
+    "category": "سيارات",
+    "price": 66.75,
+    "stock": 150,
+    "description": "مظلة قابلة للطي بطبقة عاكسة تحافظ على برودة المقصورة وتحمي لوحة القيادة من التشقق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-018.png"
   },
   {
-    "id": "product-229",
-    "title": "Product 19",
-    "category": "automotive",
-    "price": 68,
-    "rating": 3.8,
-    "brand": "BrandX",
-    "description": "High-quality product 19 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-229.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 19,
+    "name": "مستشعر ضغط إطارات لاسلكي",
+    "category": "سيارات",
+    "price": 420.80,
+    "stock": 32,
+    "description": "مجموعة مستشعرات لاسلكية تعرض ضغط الإطارات وحرارتها في الوقت الفعلي على شاشة صغيرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-019.png"
   },
   {
-    "id": "product-230",
-    "title": "Product 20",
-    "category": "automotive",
-    "price": 69,
-    "rating": 3.9,
-    "brand": "BrandY",
-    "description": "High-quality product 20 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-230.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 20,
+    "name": "أغطية دواسات ألومنيوم رياضية",
+    "category": "سيارات",
+    "price": 102.30,
+    "stock": 70,
+    "description": "مجموعة دواسات من الألومنيوم مع سطح مضاد للانزلاق لإطلالة رياضية وتحكم محسّن.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-020.png"
   },
   {
-    "id": "product-231",
-    "title": "Product 21",
-    "category": "automotive",
-    "price": 70,
-    "rating": 4.0,
-    "brand": "BrandZ",
-    "description": "High-quality product 21 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-231.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 21,
+    "name": "شاحن بطارية ذكي تلقائي",
+    "category": "سيارات",
+    "price": 310.50,
+    "stock": 28,
+    "description": "شاحن متعدد المراحل يشخص حالة البطارية ويكمل عملية الشحن بأمان للبطاريات 12 فولت.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-021.png"
   },
   {
-    "id": "product-232",
-    "title": "Product 22",
-    "category": "automotive",
-    "price": 71,
-    "rating": 4.1,
-    "brand": "BrandX",
-    "description": "High-quality product 22 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-232.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 22,
+    "name": "غطاء سيارة خارجي مقاوم للمطر",
+    "category": "سيارات",
+    "price": 275.20,
+    "stock": 38,
+    "description": "غطاء ثقيل مقاوم للأشعة فوق البنفسجية مع أشرطة تثبيت وجيوب للمرايا يحمي السيارة في الهواء الطلق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-022.png"
   },
   {
-    "id": "product-233",
-    "title": "Product 23",
-    "category": "automotive",
-    "price": 72,
-    "rating": 4.2,
-    "brand": "BrandY",
-    "description": "High-quality product 23 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-233.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 23,
+    "name": "منظف جنوط قوي خالي من الأحماض",
+    "category": "سيارات",
+    "price": 82.60,
+    "stock": 90,
+    "description": "محلول رغوي يزيل الغبار الحديدي عن الجنوط دون إتلاف الطلاء أو الإطارات المطاطية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-023.png"
   },
   {
-    "id": "product-234",
-    "title": "Product 24",
-    "category": "automotive",
-    "price": 73,
-    "rating": 4.3,
-    "brand": "BrandZ",
-    "description": "High-quality product 24 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-234.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 24,
+    "name": "حقيبة أدوات إصلاح سريعة",
+    "category": "سيارات",
+    "price": 210.00,
+    "stock": 44,
+    "description": "مجموعة أدوات يدوية مكونة من مفاتيح ومفكات وقطعة لقفل العجلات مخصصة للطوارئ على الطريق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-024.png"
   },
   {
-    "id": "product-235",
-    "title": "Product 25",
-    "category": "automotive",
-    "price": 74,
-    "rating": 4.4,
-    "brand": "BrandX",
-    "description": "High-quality product 25 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-235.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 25,
+    "name": "مرايا جانبية إضافية للسحب",
+    "category": "سيارات",
+    "price": 188.90,
+    "stock": 26,
+    "description": "مرايا قابلة للتثبيت فوق المرايا الأصلية لتوسيع زاوية الرؤية أثناء سحب المقطورات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-025.png"
   },
   {
-    "id": "product-236",
-    "title": "Product 26",
-    "category": "automotive",
-    "price": 75,
-    "rating": 4.5,
-    "brand": "BrandY",
-    "description": "High-quality product 26 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-236.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 26,
+    "name": "منظم أسلاك داخل المقصورة",
+    "category": "سيارات",
+    "price": 34.45,
+    "stock": 180,
+    "description": "مجموعة مشابك سيليكون لتمرير كابلات الشحن وسماعات الرأس بطريقة مرتبة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-026.png"
   },
   {
-    "id": "product-237",
-    "title": "Product 27",
-    "category": "automotive",
-    "price": 76,
-    "rating": 4.6,
-    "brand": "BrandZ",
-    "description": "High-quality product 27 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-237.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 27,
+    "name": "مزيل روائح كهربائي للسيارة",
+    "category": "سيارات",
+    "price": 155.15,
+    "stock": 52,
+    "description": "جهاز صغير يعمل بالمنافذ الكهربائية يطلق أيونات لتنقية الهواء من الروائح والدخان.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-027.png"
   },
   {
-    "id": "product-238",
-    "title": "Product 28",
-    "category": "automotive",
-    "price": 77,
-    "rating": 4.7,
-    "brand": "BrandX",
-    "description": "High-quality product 28 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-238.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 28,
+    "name": "جلد مقود مبطن بخياطة حمراء",
+    "category": "سيارات",
+    "price": 99.70,
+    "stock": 73,
+    "description": "غطاء مقود مصنوع من الجلد الصناعي المبطن يمنح قبضة مريحة ويضيف لمسة رياضية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-028.png"
   },
   {
-    "id": "product-239",
-    "title": "Product 29",
-    "category": "automotive",
-    "price": 78,
-    "rating": 4.8,
-    "brand": "BrandY",
-    "description": "High-quality product 29 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-239.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 29,
+    "name": "مساند رأس ميموري فوم",
+    "category": "سيارات",
+    "price": 142.30,
+    "stock": 48,
+    "description": "مساند رأس بتقنية الميموري فوم توفر دعمًا للرقبة وتقلل الإجهاد في الرحلات الطويلة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-029.png"
   },
   {
-    "id": "product-240",
-    "title": "Product 30",
-    "category": "automotive",
-    "price": 79,
-    "rating": 4.9,
-    "brand": "BrandZ",
-    "description": "High-quality product 30 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/automotive/product-240.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 30,
+    "name": "أغطية أحزمة أمان مبطنة",
+    "category": "سيارات",
+    "price": 44.90,
+    "stock": 130,
+    "description": "زوج من الأغطية المخملية التي تمنع احتكاك حزام الأمان بالكتف وتضيف لمسة فاخرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-030.png"
+  },
+  {
+    "id": 31,
+    "name": "موزع شحن USB خلفي",
+    "category": "سيارات",
+    "price": 122.60,
+    "stock": 67,
+    "description": "موزع شحن يثبت خلف مسند الذراع مع أربعة منافذ USB لتغذية أجهزة الركاب الخلفيين.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-031.png"
+  },
+  {
+    "id": 32,
+    "name": "مجموعة أغطية صواميل الإطارات",
+    "category": "سيارات",
+    "price": 51.30,
+    "stock": 140,
+    "description": "أغطية بلاستيكية مقاومة للصدأ تحمي صواميل الإطارات وتمنحها مظهراً موحداً أنيقاً.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-032.png"
+  },
+  {
+    "id": 33,
+    "name": "كابلات شحن معززة 600 أمبير",
+    "category": "سيارات",
+    "price": 165.85,
+    "stock": 58,
+    "description": "كابلات نحاسية سميكة بطول 3 أمتار مع ملقط معزول لإعادة تشغيل البطاريات الفارغة بأمان.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-033.png"
+  },
+  {
+    "id": 34,
+    "name": "حامل لوحة ترخيص بإطار كروم",
+    "category": "سيارات",
+    "price": 72.40,
+    "stock": 120,
+    "description": "إطار لامع من الكروم المقاوم للصدأ مع فتحات قياسية لتثبيت لوحات الترخيص بسهولة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-034.png"
+  },
+  {
+    "id": 35,
+    "name": "ممسحة تلميع داخلية من الألياف الدقيقة",
+    "category": "سيارات",
+    "price": 28.65,
+    "stock": 210,
+    "description": "ممسحة مسطحة بوسادة من الألياف الدقيقة تنظف الزجاج الأمامي من الداخل بدون خطوط.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-035.png"
+  },
+  {
+    "id": 36,
+    "name": "نظام تعليق هاتف خلفي للمقاعد",
+    "category": "سيارات",
+    "price": 64.55,
+    "stock": 98,
+    "description": "حامل يثبت على مساند الرأس لتمكين الركاب من تعليق الأجهزة اللوحية أو الأكياس بسهولة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-036.png"
+  },
+  {
+    "id": 37,
+    "name": "مظلة جانبية للأبواب",
+    "category": "سيارات",
+    "price": 89.10,
+    "stock": 76,
+    "description": "مظلة صغيرة تُثبت على النافذة الجانبية لحماية الأطفال من الشمس وتقليل الوهج.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-037.png"
+  },
+  {
+    "id": 38,
+    "name": "مجموعة براغي عجلات مضادة للسرقة",
+    "category": "سيارات",
+    "price": 214.20,
+    "stock": 31,
+    "description": "مجموعة من البراغي الخاصة بمفتاح فريد تمنع فك العجلات بدون الأداة الأصلية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-038.png"
+  },
+  {
+    "id": 39,
+    "name": "حامل دراجات للسطح الخلفي",
+    "category": "سيارات",
+    "price": 480.60,
+    "stock": 18,
+    "description": "حامل معدني قابل للطي يتسع لثلاث دراجات ويثبت على غطاء الصندوق مع أحزمة أمان.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-039.png"
+  },
+  {
+    "id": 40,
+    "name": "طاقم تنظيف جلد فاخر",
+    "category": "سيارات",
+    "price": 156.95,
+    "stock": 54,
+    "description": "مجموعة تتضمن منظفاً رغوياً وبلسم حماية وإسفنجة لتغذية المقاعد الجلدية وإعادة لمعانها.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/automotive/automotive-040.png"
   }
 ]
+

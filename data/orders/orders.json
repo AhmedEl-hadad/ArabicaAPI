@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "userId": 12,
+    "totalAmount": 249.99,
+    "status": "paid",
+    "createdAt": "2024-01-05"
+  },
+  {
+    "id": 2,
+    "userId": 8,
+    "totalAmount": 520.5,
+    "status": "pending",
+    "createdAt": "2024-01-12"
+  },
+  {
+    "id": 3,
+    "userId": 30,
+    "totalAmount": 1199,
+    "status": "paid",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": 4,
+    "userId": 55,
+    "totalAmount": 349.75,
+    "status": "canceled",
+    "createdAt": "2024-01-28"
+  },
+  {
+    "id": 5,
+    "userId": 19,
+    "totalAmount": 89.5,
+    "status": "paid",
+    "createdAt": "2024-02-06"
+  },
+  {
+    "id": 6,
+    "userId": 72,
+    "totalAmount": 640.2,
+    "status": "paid",
+    "createdAt": "2024-02-14"
+  },
+  {
+    "id": 7,
+    "userId": 4,
+    "totalAmount": 410,
+    "status": "pending",
+    "createdAt": "2024-02-22"
+  },
+  {
+    "id": 8,
+    "userId": 63,
+    "totalAmount": 154.9,
+    "status": "paid",
+    "createdAt": "2024-03-03"
+  },
+  {
+    "id": 9,
+    "userId": 21,
+    "totalAmount": 980.4,
+    "status": "paid",
+    "createdAt": "2024-03-11"
+  },
+  {
+    "id": 10,
+    "userId": 46,
+    "totalAmount": 75.25,
+    "status": "canceled",
+    "createdAt": "2024-03-19"
+  },
+  {
+    "id": 11,
+    "userId": 2,
+    "totalAmount": 1320,
+    "status": "paid",
+    "createdAt": "2024-03-28"
+  },
+  {
+    "id": 12,
+    "userId": 37,
+    "totalAmount": 215.6,
+    "status": "pending",
+    "createdAt": "2024-04-06"
+  },
+  {
+    "id": 13,
+    "userId": 88,
+    "totalAmount": 455.9,
+    "status": "paid",
+    "createdAt": "2024-04-15"
+  },
+  {
+    "id": 14,
+    "userId": 10,
+    "totalAmount": 699,
+    "status": "paid",
+    "createdAt": "2024-04-24"
+  },
+  {
+    "id": 15,
+    "userId": 59,
+    "totalAmount": 102.3,
+    "status": "pending",
+    "createdAt": "2024-05-02"
+  }
+]
+

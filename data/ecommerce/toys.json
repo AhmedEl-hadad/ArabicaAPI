@@ -1,422 +1,363 @@
 [
   {
-    "id": "product-151",
-    "title": "Product 1",
-    "category": "toys",
-    "price": 15,
-    "rating": 3.5,
-    "brand": "BrandX",
-    "description": "High-quality product 1 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-151.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 1,
+    "name": "مجموعة مكعبات بناء مدينة صغيرة",
+    "category": "ألعاب",
+    "price": 165.90,
+    "stock": 80,
+    "description": "مجموعة تحتوي على أكثر من 300 قطعة لبناء منازل ومتاجر مع شخصيات صغيرة لتحفيز الخيال.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-001.png"
   },
   {
-    "id": "product-152",
-    "title": "Product 2",
-    "category": "toys",
-    "price": 16,
-    "rating": 3.6,
-    "brand": "BrandY",
-    "description": "High-quality product 2 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-152.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 2,
+    "name": "قطار خشبي تعليمي ملون",
+    "category": "ألعاب",
+    "price": 98.50,
+    "stock": 90,
+    "description": "قطار خشبي بثلاث عربات وأشكال هندسية يمكن تركيبها لتعزيز مهارات العد والتنسيق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-002.png"
   },
   {
-    "id": "product-153",
-    "title": "Product 3",
-    "category": "toys",
-    "price": 17,
-    "rating": 3.7,
-    "brand": "BrandZ",
-    "description": "High-quality product 3 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-153.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 3,
+    "name": "روبوت تفاعلي للتعلم البرمجي",
+    "category": "ألعاب",
+    "price": 375.20,
+    "stock": 45,
+    "description": "روبوت ذكي يتفاعل مع الأطفال عبر تطبيق مخصص لتعليم خطوات البرمجة الأساسية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-003.png"
   },
   {
-    "id": "product-154",
-    "title": "Product 4",
-    "category": "toys",
-    "price": 18,
-    "rating": 3.8,
-    "brand": "BrandX",
-    "description": "High-quality product 4 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-154.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 4,
+    "name": "ألغاز صور ثلاثية الأبعاد 500 قطعة",
+    "category": "ألعاب",
+    "price": 120.75,
+    "stock": 70,
+    "description": "لغز ثلاثي الأبعاد يصوّر معلمًا عالميًا ويأتي مع قاعدة عرض لنتيجة فنية جميلة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-004.png"
   },
   {
-    "id": "product-155",
-    "title": "Product 5",
-    "category": "toys",
-    "price": 19,
-    "rating": 3.9,
-    "brand": "BrandY",
-    "description": "High-quality product 5 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-155.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 5,
+    "name": "لوحة رسم رقمية للأطفال",
+    "category": "ألعاب",
+    "price": 140.30,
+    "stock": 85,
+    "description": "لوحة إلكترونية تتيح الرسم والكتابة بالقلم الضوئي مع زر لمسح الشاشة بالكامل.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-005.png"
   },
   {
-    "id": "product-156",
-    "title": "Product 6",
-    "category": "toys",
-    "price": 20,
-    "rating": 4.0,
-    "brand": "BrandZ",
-    "description": "High-quality product 6 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-156.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 6,
+    "name": "دمية قطنية بملابس تقليدية",
+    "category": "ألعاب",
+    "price": 112.40,
+    "stock": 60,
+    "description": "دمية ناعمة بملابس عربية تقليدية قابلة للإزالة مع تفاصيل مطرزة يدوياً.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-006.png"
   },
   {
-    "id": "product-157",
-    "title": "Product 7",
-    "category": "toys",
-    "price": 21,
-    "rating": 4.1,
-    "brand": "BrandX",
-    "description": "High-quality product 7 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-157.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 7,
+    "name": "سيارة سباق تحكم عن بعد",
+    "category": "ألعاب",
+    "price": 210.00,
+    "stock": 50,
+    "description": "سيارة كهربائية بسرعة عالية مع جهاز تحكم بتردد 2.4 جيجاهرتز ومسافة تحكم تصل إلى 50 مترًا.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-007.png"
   },
   {
-    "id": "product-158",
-    "title": "Product 8",
-    "category": "toys",
-    "price": 22,
-    "rating": 4.2,
-    "brand": "BrandY",
-    "description": "High-quality product 8 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-158.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 8,
+    "name": "مستشفى حيوانات بلاستيكي",
+    "category": "ألعاب",
+    "price": 155.60,
+    "stock": 65,
+    "description": "مجموعة لعب تحتوي على شخصيات حيوانات وأدوات طبية صغيرة لتشجيع اللعب التخيلي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-008.png"
   },
   {
-    "id": "product-159",
-    "title": "Product 9",
-    "category": "toys",
-    "price": 23,
-    "rating": 4.3,
-    "brand": "BrandZ",
-    "description": "High-quality product 9 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-159.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 9,
+    "name": "طائرة ورقية خفيفة مع ذيل طويل",
+    "category": "ألعاب",
+    "price": 74.80,
+    "stock": 120,
+    "description": "طائرة ورقية من قماش نايلون بألوان زاهية وذيل طويل للاستقرار أثناء الطيران.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-009.png"
   },
   {
-    "id": "product-160",
-    "title": "Product 10",
-    "category": "toys",
-    "price": 24,
-    "rating": 4.4,
-    "brand": "BrandX",
-    "description": "High-quality product 10 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-160.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 10,
+    "name": "مجموعة علوم تجارب بركانية",
+    "category": "ألعاب",
+    "price": 133.40,
+    "stock": 75,
+    "description": "مجموعة علمية تحتوي على مواد آمنة لتجربة انفجار بركاني صغيرة مع تعليمات مصورة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-010.png"
   },
   {
-    "id": "product-161",
-    "title": "Product 11",
-    "category": "toys",
-    "price": 25,
-    "rating": 4.5,
-    "brand": "BrandY",
-    "description": "High-quality product 11 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-161.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 11,
+    "name": "مكعبات لينة للرضع بأحرف عربية",
+    "category": "ألعاب",
+    "price": 98.20,
+    "stock": 95,
+    "description": "مكعبات إسفنجية مغطاة بالقماش تحمل أحرفًا عربية ورسومات لتعليم المبكر بشكل آمن.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-011.png"
   },
   {
-    "id": "product-162",
-    "title": "Product 12",
-    "category": "toys",
-    "price": 26,
-    "rating": 4.6,
-    "brand": "BrandZ",
-    "description": "High-quality product 12 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-162.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 12,
+    "name": "طقم أدوات مطبخ للأطفال",
+    "category": "ألعاب",
+    "price": 125.55,
+    "stock": 70,
+    "description": "مجموعة من أواني المطبخ البلاستيكية وأطعمة وهمية لتقليد الطهي بطريقة آمنة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-012.png"
   },
   {
-    "id": "product-163",
-    "title": "Product 13",
-    "category": "toys",
-    "price": 27,
-    "rating": 4.7,
-    "brand": "BrandX",
-    "description": "High-quality product 13 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-163.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 13,
+    "name": "لعبة ألواح التوازن الخشبية",
+    "category": "ألعاب",
+    "price": 185.75,
+    "stock": 55,
+    "description": "لوح خشبي منحني يستخدم للتوازن والتمارين الحركية ويشجع الأطفال على الحركة الإبداعية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-013.png"
   },
   {
-    "id": "product-164",
-    "title": "Product 14",
-    "category": "toys",
-    "price": 28,
-    "rating": 4.8,
-    "brand": "BrandY",
-    "description": "High-quality product 14 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-164.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 14,
+    "name": "مجموعة بطاقات تعلم الأرقام",
+    "category": "ألعاب",
+    "price": 67.90,
+    "stock": 140,
+    "description": "بطاقات ملونة مزدوجة الوجه تعرض الأرقام باللغتين العربية والإنجليزية مع رسومات توضيحية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-014.png"
   },
   {
-    "id": "product-165",
-    "title": "Product 15",
-    "category": "toys",
-    "price": 29,
-    "rating": 4.9,
-    "brand": "BrandZ",
-    "description": "High-quality product 15 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-165.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 15,
+    "name": "لعبة تركيب مسار الرخام",
+    "category": "ألعاب",
+    "price": 198.60,
+    "stock": 60,
+    "description": "مجموعة مسارات قابلة للتجميع مع كرات رخامية لتطوير مهارات المنطق والتجربة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-015.png"
   },
   {
-    "id": "product-166",
-    "title": "Product 16",
-    "category": "toys",
-    "price": 30,
-    "rating": 3.5,
-    "brand": "BrandX",
-    "description": "High-quality product 16 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-166.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 16,
+    "name": "عربة دمى قابلة للطي",
+    "category": "ألعاب",
+    "price": 155.40,
+    "stock": 70,
+    "description": "عربة دمى خفيفة الوزن قابلة للطي مع حزام أمان صغير ومظلة قماشية ملونة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-016.png"
   },
   {
-    "id": "product-167",
-    "title": "Product 17",
-    "category": "toys",
-    "price": 31,
-    "rating": 3.6,
-    "brand": "BrandY",
-    "description": "High-quality product 17 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-167.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 17,
+    "name": "مجموعة تجارب كيمياء الألوان",
+    "category": "ألعاب",
+    "price": 165.80,
+    "stock": 65,
+    "description": "عدة تعليمية لإجراء تجارب آمنة حول خلط الألوان وتغييرها مع دليل مصور بالعربية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-017.png"
   },
   {
-    "id": "product-168",
-    "title": "Product 18",
-    "category": "toys",
-    "price": 32,
-    "rating": 3.7,
-    "brand": "BrandZ",
-    "description": "High-quality product 18 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-168.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 18,
+    "name": "دمى أصابع حيوانات الغابة",
+    "category": "ألعاب",
+    "price": 84.60,
+    "stock": 120,
+    "description": "مجموعة من خمس دمى أصابع قماشية تمثل حيوانات الغابة لتشجيع سرد القصص.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-018.png"
   },
   {
-    "id": "product-169",
-    "title": "Product 19",
-    "category": "toys",
-    "price": 33,
-    "rating": 3.8,
-    "brand": "BrandX",
-    "description": "High-quality product 19 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-169.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 19,
+    "name": "سيارة إطفاء بصوت وإضاءة",
+    "category": "ألعاب",
+    "price": 178.50,
+    "stock": 80,
+    "description": "سيارة إطفاء بلاستيكية مع أزرار لإطلاق أصوات الصفارة وأضواء LED قابلة للإيقاف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-019.png"
   },
   {
-    "id": "product-170",
-    "title": "Product 20",
-    "category": "toys",
-    "price": 34,
-    "rating": 3.9,
-    "brand": "BrandY",
-    "description": "High-quality product 20 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-170.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 20,
+    "name": "لعبة تركيب مجسم القمر",
+    "category": "ألعاب",
+    "price": 149.20,
+    "stock": 75,
+    "description": "مجموعة تبني مجسم قمر مضيء مع طبقات شفافة تظهر مراحل القمر المختلفة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-020.png"
   },
   {
-    "id": "product-171",
-    "title": "Product 21",
-    "category": "toys",
-    "price": 35,
-    "rating": 4.0,
-    "brand": "BrandZ",
-    "description": "High-quality product 21 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-171.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 21,
+    "name": "بيت دمى خشبي بثلاثة طوابق",
+    "category": "ألعاب",
+    "price": 420.90,
+    "stock": 30,
+    "description": "بيت دمى مزود بأثاث مصغر قابل للتحريك وسلالم داخلية لتشجيع اللعب التخيلي الجماعي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-021.png"
   },
   {
-    "id": "product-172",
-    "title": "Product 22",
-    "category": "toys",
-    "price": 36,
-    "rating": 4.1,
-    "brand": "BrandX",
-    "description": "High-quality product 22 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-172.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 22,
+    "name": "مجموعة معدات طبيب صغيرة",
+    "category": "ألعاب",
+    "price": 128.70,
+    "stock": 95,
+    "description": "عدة طبيب بلاستيكية تشمل سماعة وحقنة حرارية وميزان حرارة لتقمص دور الطبيب.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-022.png"
   },
   {
-    "id": "product-173",
-    "title": "Product 23",
-    "category": "toys",
-    "price": 37,
-    "rating": 4.2,
-    "brand": "BrandY",
-    "description": "High-quality product 23 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-173.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 23,
+    "name": "لعبة توازن بطابع الباندا",
+    "category": "ألعاب",
+    "price": 102.30,
+    "stock": 110,
+    "description": "لعبة توازن خشبية يضع فيها الأطفال أقراصاً على ظهر الباندا دون إسقاطها لتمرين التركيز.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-023.png"
   },
   {
-    "id": "product-174",
-    "title": "Product 24",
-    "category": "toys",
-    "price": 38,
-    "rating": 4.3,
-    "brand": "BrandZ",
-    "description": "High-quality product 24 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-174.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 24,
+    "name": "طقم طائرات ورقية ذاتية البناء",
+    "category": "ألعاب",
+    "price": 92.40,
+    "stock": 130,
+    "description": "مجموعة لصنع ثلاث طائرات ورقية مختلفة الشكل مع تعليمات وخيوط قوية للطيران.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-024.png"
   },
   {
-    "id": "product-175",
-    "title": "Product 25",
-    "category": "toys",
-    "price": 39,
-    "rating": 4.4,
-    "brand": "BrandX",
-    "description": "High-quality product 25 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-175.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 25,
+    "name": "لوح مغناطيسي لتعلم الحروف",
+    "category": "ألعاب",
+    "price": 138.95,
+    "stock": 85,
+    "description": "لوح مغناطيسي مزدوج الوجه يحتوي على أحرف عربية وإنجليزية مغناطيسية وطباشير.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-025.png"
   },
   {
-    "id": "product-176",
-    "title": "Product 26",
-    "category": "toys",
-    "price": 40,
-    "rating": 4.5,
-    "brand": "BrandY",
-    "description": "High-quality product 26 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-176.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 26,
+    "name": "مجموعة عرائس مسرح ظل",
+    "category": "ألعاب",
+    "price": 115.50,
+    "stock": 70,
+    "description": "عرائس ورقية مع عصي خشبية وخلفية قماشية لابتكار عروض مسرح ظل منزلية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-026.png"
   },
   {
-    "id": "product-177",
-    "title": "Product 27",
-    "category": "toys",
-    "price": 41,
-    "rating": 4.6,
-    "brand": "BrandZ",
-    "description": "High-quality product 27 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-177.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 27,
+    "name": "سيارة سباق قابلة لتركيب المحرك",
+    "category": "ألعاب",
+    "price": 210.75,
+    "stock": 55,
+    "description": "سيارة بلاستيكية تأتي مع براغي وأدوات يدوية ليقوم الطفل بتركيب أجزاء المحرك بنفسه.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-027.png"
   },
   {
-    "id": "product-178",
-    "title": "Product 28",
-    "category": "toys",
-    "price": 42,
-    "rating": 4.7,
-    "brand": "BrandX",
-    "description": "High-quality product 28 from BrandX, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-178.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 28,
+    "name": "مجموعة صلصال طبيعي مع قوالب",
+    "category": "ألعاب",
+    "price": 88.40,
+    "stock": 140,
+    "description": "صلصال طبيعي بألوان زاهية وخمس قوالب مختلفة الأشكال لتنمية الإبداع اليدوي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-028.png"
   },
   {
-    "id": "product-179",
-    "title": "Product 29",
-    "category": "toys",
-    "price": 43,
-    "rating": 4.8,
-    "brand": "BrandY",
-    "description": "High-quality product 29 from BrandY, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-179.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 29,
+    "name": "لعبة تحدي المتاهة المغناطيسية",
+    "category": "ألعاب",
+    "price": 124.90,
+    "stock": 90,
+    "description": "لوح متاهة خشبي مع قلم مغناطيسي يحرك الكرات الملونة عبر المسارات المختلفة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-029.png"
   },
   {
-    "id": "product-180",
-    "title": "Product 30",
-    "category": "toys",
-    "price": 44,
-    "rating": 4.9,
-    "brand": "BrandZ",
-    "description": "High-quality product 30 from BrandZ, perfect for your needs",
-    "image": "https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/ecommerce/toys/product-180.jpg",
-    "specs": {
-      "material": "Premium Quality",
-      "warranty": "1 Year"
-    }
+    "id": 30,
+    "name": "طقم سباق سيارات خشبية",
+    "category": "ألعاب",
+    "price": 172.30,
+    "stock": 60,
+    "description": "مجموعة سيارات خشبية مع مسار متدرج يتيح للأطفال مشاهدة السيارات وهي تتسابق بسرعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-030.png"
+  },
+  {
+    "id": 31,
+    "name": "مجموعة ألعاب الرمل الداخلية",
+    "category": "ألعاب",
+    "price": 142.60,
+    "stock": 75,
+    "description": "رمل حركي ومجموعة قوالب صغيرة تتيح اللعب بالرمل داخل المنزل دون فوضى.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-031.png"
+  },
+  {
+    "id": 32,
+    "name": "لعبة سباق الطاولة بالهواء",
+    "category": "ألعاب",
+    "price": 235.80,
+    "stock": 50,
+    "description": "طاولة سباق صغيرة تعمل بالهواء مع مضربتين وأقراص خفيفة لوقت ممتع في المنزل.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-032.png"
+  },
+  {
+    "id": 33,
+    "name": "أحجية خرز وتركيب أساور",
+    "category": "ألعاب",
+    "price": 98.60,
+    "stock": 115,
+    "description": "مجموعة خرز ملون وخيطان مرنة لتصميم أساور وقلادات شخصية بسهولة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-033.png"
+  },
+  {
+    "id": 34,
+    "name": "لعبة رمي الحلقات الملونة",
+    "category": "ألعاب",
+    "price": 76.30,
+    "stock": 150,
+    "description": "مجموعة هرم خشبي مع حلقات ملونة يرميها الأطفال لالتقاط النقاط وتنمية التنسيق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-034.png"
+  },
+  {
+    "id": 35,
+    "name": "مجموعة روبوتات تركيب مغناطيسية",
+    "category": "ألعاب",
+    "price": 220.40,
+    "stock": 45,
+    "description": "قطع مغناطيسية بأشكال مختلفة يمكن تركيبها لتكوين روبوتات وشخصيات مبتكرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-035.png"
+  },
+  {
+    "id": 36,
+    "name": "لعبة صيد الأسماك الخشبية",
+    "category": "ألعاب",
+    "price": 112.80,
+    "stock": 100,
+    "description": "لوح خشبي مع أسماك مغناطيسية وعود صيد يساعد على تطوير المهارات الحركية الدقيقة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-036.png"
+  },
+  {
+    "id": 37,
+    "name": "مجموعة سباق الطائرات الورقية الكهربائية",
+    "category": "ألعاب",
+    "price": 255.90,
+    "stock": 40,
+    "description": "طائرتان كهربائيتان مزودتان بمحركات صغيرة وجهاز تحكم مبسط للسباقات القصيرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-037.png"
+  },
+  {
+    "id": 38,
+    "name": "لعبة تحدي الأسئلة العائلية",
+    "category": "ألعاب",
+    "price": 165.30,
+    "stock": 85,
+    "description": "لعبة جماعية تضم بطاقات أسئلة ثقافية ومنوعة مع لوحة نقاط لتنافس عائلي ممتع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-038.png"
+  },
+  {
+    "id": 39,
+    "name": "مجموعة فنان صغير للرسم المائي",
+    "category": "ألعاب",
+    "price": 152.40,
+    "stock": 70,
+    "description": "مجموعة رسم مائية تحتوي على فراشي، ألوان مائية، ولوحات صغيرة لتشجيع الإبداع الفني.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-039.png"
+  },
+  {
+    "id": 40,
+    "name": "لعبة صوتية لتعلم الآلات الموسيقية",
+    "category": "ألعاب",
+    "price": 188.50,
+    "stock": 65,
+    "description": "لعبة إلكترونية تعرض صور الآلات الموسيقية وتصدر أصواتها مع أسئلة تفاعلية للتعلم الممتع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/toys/toy-040.png"
   }
 ]
+
