@@ -1,0 +1,819 @@
+[
+  {
+    "id": 1,
+    "name": "كبسة دجاج",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 12, "quantity": "1 كغ"},
+      {"ingredientId": 2, "quantity": "500 غرام"},
+      {"ingredientId": 3, "quantity": "2 حبة"},
+      {"ingredientId": 5, "quantity": "5 فصوص"},
+      {"ingredientId": 6, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 10, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 41, "quantity": "3 حبات"},
+      {"ingredientId": 46, "quantity": "3 أكواب"}
+    ],
+    "instructions": [
+      "نظف الدجاج وقطعه إلى قطع متوسطة",
+      "في قدر كبير، حمّر البصل المفروم في زيت الزيتون حتى يذبل",
+      "أضف الثوم المفروم والبهارات (كمون، كركم، هيل) وقلب لمدة دقيقة",
+      "أضف قطع الدجاج وقلب حتى يتغير لونه",
+      "أضف الأرز المغسول والماء والملح",
+      "اتركه يغلي ثم خفف النار واطبخ لمدة 30 دقيقة حتى ينضج الأرز"
+    ],
+    "prepTime": "20 دقيقة",
+    "cookTime": "45 دقيقة",
+    "servings": 6,
+    "tags": ["كبسة", "دجاج", "أرز", "أطباق رئيسية"]
+  },
+  {
+    "id": 2,
+    "name": "منسف",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 11, "quantity": "1 كغ"},
+      {"ingredientId": 31, "quantity": "2 كوب"},
+      {"ingredientId": 16, "quantity": "2 كوب"},
+      {"ingredientId": 3, "quantity": "حبة كبيرة"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 19, "quantity": "3 ملاعق كبيرة"}
+    ],
+    "instructions": [
+      "انقع البرغل في الماء لمدة 30 دقيقة ثم صفّيه",
+      "اطبخ اللحم المفروم مع البصل والبهارات حتى ينضج",
+      "أضف البرغل المنقوع إلى اللحم وقلب جيداً",
+      "أضف اللبن والملح واتركه يغلي",
+      "قلب المنسف حتى يتجانس ويصبح قوامه مناسباً",
+      "قدمه ساخناً مع السمن المذاب"
+    ],
+    "prepTime": "30 دقيقة",
+    "cookTime": "40 دقيقة",
+    "servings": 6,
+    "tags": ["منسف", "لحم", "برغل", "لبن"]
+  },
+  {
+    "id": 3,
+    "name": "محشي كوسا",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 28, "quantity": "1 كغ"},
+      {"ingredientId": 11, "quantity": "500 غرام"},
+      {"ingredientId": 2, "quantity": "كوب"},
+      {"ingredientId": 3, "quantity": "حبة"},
+      {"ingredientId": 5, "quantity": "3 فصوص"},
+      {"ingredientId": 4, "quantity": "3 حبات"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 25, "quantity": "ملعقة كبيرة"}
+    ],
+    "instructions": [
+      "نظف الكوسا وافتحها من الداخل باستخدام أداة خاصة",
+      "اطبخ الأرز مع قليل من الماء حتى ينضج نصف نضج",
+      "اخلط اللحم المفروم مع البصل والثوم المفرومين",
+      "أضف الأرز والبهارات والملح إلى خليط اللحم",
+      "احشي الكوسا بخليط اللحم والأرز",
+      "رتب الكوسا في قدر وأضف الطماطم المقطعة والطماطم المعجون والماء",
+      "اطبخ على نار هادئة لمدة 45 دقيقة حتى ينضج"
+    ],
+    "prepTime": "40 دقيقة",
+    "cookTime": "60 دقيقة",
+    "servings": 6,
+    "tags": ["محشي", "كوسا", "لحم", "أطباق رئيسية"]
+  },
+  {
+    "id": 4,
+    "name": "كفتة",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 11, "quantity": "500 غرام"},
+      {"ingredientId": 3, "quantity": "حبة صغيرة"},
+      {"ingredientId": 5, "quantity": "4 فصوص"},
+      {"ingredientId": 20, "quantity": "نصف كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 6, "quantity": "ملعقتان كبيرتان"}
+    ],
+    "instructions": [
+      "اخلط اللحم المفروم مع البصل والثوم المفرومين",
+      "أضف البقدونس المفروم والبهارات والملح",
+      "اعجن المزيج جيداً حتى يتجانس",
+      "شكّل الكفتة على شكل أصابع أو كرات",
+      "اقلي الكفتة في زيت الزيتون حتى تنضج وتتحمر من جميع الجهات",
+      "قدمها ساخنة مع الأرز أو الخبز"
+    ],
+    "prepTime": "25 دقيقة",
+    "cookTime": "20 دقيقة",
+    "servings": 4,
+    "tags": ["كفتة", "لحم", "مشوي", "أطباق رئيسية"]
+  },
+  {
+    "id": 5,
+    "name": "شوربة عدس",
+    "category": "شوربات",
+    "ingredients": [
+      {"ingredientId": 13, "quantity": "كوب"},
+      {"ingredientId": 3, "quantity": "حبة"},
+      {"ingredientId": 5, "quantity": "3 فصوص"},
+      {"ingredientId": 6, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "ربع ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 46, "quantity": "4 أكواب"},
+      {"ingredientId": 24, "quantity": "ملعقة كبيرة"}
+    ],
+    "instructions": [
+      "اغسل العدس جيداً",
+      "في قدر، حمّر البصل المفروم في زيت الزيتون",
+      "أضف الثوم المفروم والبهارات وقلب لمدة دقيقة",
+      "أضف العدس والماء واتركه يغلي",
+      "خفف النار واطبخ لمدة 30 دقيقة حتى ينضج العدس",
+      "اخلط الشوربة في الخلاط حتى تصبح ناعمة",
+      "أضف عصير الليمون والملح حسب الرغبة"
+    ],
+    "prepTime": "10 دقيقة",
+    "cookTime": "35 دقيقة",
+    "servings": 4,
+    "tags": ["شوربة", "عدس", "صحي", "شوربات"]
+  },
+  {
+    "id": 6,
+    "name": "فتوش",
+    "category": "سلطات",
+    "ingredients": [
+      {"ingredientId": 4, "quantity": "3 حبات"},
+      {"ingredientId": 50, "quantity": "2 حبة"},
+      {"ingredientId": 3, "quantity": "حبة صغيرة"},
+      {"ingredientId": 20, "quantity": "كوب"},
+      {"ingredientId": 22, "quantity": "نصف كوب"},
+      {"ingredientId": 6, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 24, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 7, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 36, "quantity": "ملعقة كبيرة"}
+    ],
+    "instructions": [
+      "قطّع الخضار (طماطم، خيار، بصل) إلى قطع صغيرة",
+      "اخلط الخضار مع البقدونس والنعناع المفرومين",
+      "في وعاء منفصل، اخلط زيت الزيتون وعصير الليمون والملح والزعتر",
+      "أضف الصلصة إلى السلطة وقلب جيداً",
+      "قدمها فوراً مع الخبز المحمص"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "0 دقيقة",
+    "servings": 4,
+    "tags": ["سلطة", "فتوش", "خضار", "صحي"]
+  },
+  {
+    "id": 7,
+    "name": "تبولة",
+    "category": "سلطات",
+    "ingredients": [
+      {"ingredientId": 31, "quantity": "كوب"},
+      {"ingredientId": 20, "quantity": "كوبان"},
+      {"ingredientId": 22, "quantity": "نصف كوب"},
+      {"ingredientId": 3, "quantity": "حبة صغيرة"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 24, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 7, "quantity": "نصف ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "انقع البرغل في الماء لمدة 30 دقيقة ثم صفّيه جيداً",
+      "فرم البقدونس والنعناع فرم ناعم",
+      "اخلط البرغل مع البقدونس والنعناع والبصل المفروم",
+      "أضف زيت الزيتون وعصير الليمون والملح",
+      "قلب المزيج جيداً واتركه في الثلاجة لمدة ساعة قبل التقديم"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "0 دقيقة",
+    "servings": 4,
+    "tags": ["سلطة", "تبولة", "برغل", "صحي"]
+  },
+  {
+    "id": 8,
+    "name": "حمص",
+    "category": "مقبلات",
+    "ingredients": [
+      {"ingredientId": 15, "quantity": "كوب"},
+      {"ingredientId": 38, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 24, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 5, "quantity": "3 فصوص"},
+      {"ingredientId": 7, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 44, "quantity": "ملعقة كبيرة"}
+    ],
+    "instructions": [
+      "انقع الحمص في الماء طوال الليل",
+      "اطبخ الحمص حتى ينضج تماماً",
+      "اخلط الحمص المطبوخ مع الطحينة والثوم في الخلاط",
+      "أضف عصير الليمون والملح وزيت الزيتون",
+      "اخلط حتى يصبح المزيج ناعماً ومتجانساً",
+      "زينه بزيت الزيتون والصنوبر"
+    ],
+    "prepTime": "10 دقيقة",
+    "cookTime": "60 دقيقة",
+    "servings": 6,
+    "tags": ["حمص", "مقبلات", "طحينة", "صحي"]
+  },
+  {
+    "id": 9,
+    "name": "بابا غنوج",
+    "category": "مقبلات",
+    "ingredients": [
+      {"ingredientId": 27, "quantity": "2 حبة كبيرة"},
+      {"ingredientId": 38, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 24, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 5, "quantity": "3 فصوص"},
+      {"ingredientId": 6, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 7, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 20, "quantity": "ملعقتان كبيرتان"}
+    ],
+    "instructions": [
+      "اشوي الباذنجان على النار المباشرة حتى ينضج",
+      "انزع القشرة عن الباذنجان المشوي",
+      "اهرس الباذنجان بالشوكة",
+      "اخلط الباذنجان مع الطحينة والثوم المفروم",
+      "أضف عصير الليمون والملح وزيت الزيتون",
+      "زينه بالبقدونس المفروم"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "20 دقيقة",
+    "servings": 4,
+    "tags": ["بابا غنوج", "باذنجان", "مقبلات", "صحي"]
+  },
+  {
+    "id": 10,
+    "name": "فول",
+    "category": "مقبلات",
+    "ingredients": [
+      {"ingredientId": 14, "quantity": "كوب"},
+      {"ingredientId": 5, "quantity": "4 فصوص"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 24, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 20, "quantity": "كوب"}
+    ],
+    "instructions": [
+      "انقع الفول في الماء طوال الليل",
+      "اطبخ الفول حتى ينضج تماماً",
+      "في مقلاة، حمّر الثوم في زيت الزيتون",
+      "أضف الفول المطبوخ والبهارات",
+      "اهرس الفول قليلاً باستخدام ملعقة",
+      "أضف عصير الليمون والملح",
+      "زينه بالبقدونس المفروم وزيت الزيتون"
+    ],
+    "prepTime": "10 دقيقة",
+    "cookTime": "90 دقيقة",
+    "servings": 4,
+    "tags": ["فول", "مقبلات", "صحي", "فطور"]
+  },
+  {
+    "id": 11,
+    "name": "مسقعة",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 27, "quantity": "1 كغ"},
+      {"ingredientId": 4, "quantity": "4 حبات"},
+      {"ingredientId": 3, "quantity": "حبتان"},
+      {"ingredientId": 5, "quantity": "5 فصوص"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 25, "quantity": "ملعقتان كبيرتان"}
+    ],
+    "instructions": [
+      "اقلي الباذنجان المقطع في زيت الزيتون حتى يتحمر",
+      "في قدر، حمّر البصل المفروم ثم أضف الثوم",
+      "أضف الطماطم المقطعة والطماطم المعجون",
+      "أضف البهارات والملح واتركه يغلي",
+      "رتب الباذنجان المقلي في صينية",
+      "اسكب خليط الطماطم على الباذنجان",
+      "اطبخ في الفرن على 180 درجة لمدة 30 دقيقة"
+    ],
+    "prepTime": "30 دقيقة",
+    "cookTime": "45 دقيقة",
+    "servings": 6,
+    "tags": ["مسقعة", "باذنجان", "خضار", "أطباق رئيسية"]
+  },
+  {
+    "id": 12,
+    "name": "محشي باذنجان",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 27, "quantity": "1 كغ"},
+      {"ingredientId": 11, "quantity": "500 غرام"},
+      {"ingredientId": 2, "quantity": "كوب"},
+      {"ingredientId": 3, "quantity": "حبة"},
+      {"ingredientId": 4, "quantity": "3 حبات"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 25, "quantity": "ملعقة كبيرة"}
+    ],
+    "instructions": [
+      "اقطع الباذنجان طولياً وافتحه من الداخل",
+      "اقلي الباذنجان قليلاً في زيت الزيتون",
+      "اطبخ الأرز نصف نضج",
+      "اخلط اللحم المفروم مع البصل والبهارات",
+      "أضف الأرز إلى خليط اللحم",
+      "احشي الباذنجان بخليط اللحم والأرز",
+      "رتب الباذنجان في قدر وأضف الطماطم والماء",
+      "اطبخ على نار هادئة لمدة 45 دقيقة"
+    ],
+    "prepTime": "40 دقيقة",
+    "cookTime": "60 دقيقة",
+    "servings": 6,
+    "tags": ["محشي", "باذنجان", "لحم", "أطباق رئيسية"]
+  },
+  {
+    "id": 13,
+    "name": "كباب",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 11, "quantity": "1 كغ"},
+      {"ingredientId": 3, "quantity": "حبة كبيرة"},
+      {"ingredientId": 5, "quantity": "6 فصوص"},
+      {"ingredientId": 20, "quantity": "كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 10, "quantity": "نصف ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "اخلط اللحم المفروم مع البصل والثوم المفرومين",
+      "أضف البقدونس المفروم والبهارات والملح",
+      "اعجن المزيج جيداً حتى يتجانس",
+      "شكّل الكباب على شكل أصابع أو كرات",
+      "شوّي الكباب على الفحم أو في الفرن حتى ينضج",
+      "قدمه ساخناً مع الأرز أو الخبز"
+    ],
+    "prepTime": "30 دقيقة",
+    "cookTime": "25 دقيقة",
+    "servings": 6,
+    "tags": ["كباب", "لحم", "مشوي", "أطباق رئيسية"]
+  },
+  {
+    "id": 14,
+    "name": "شيش طاووق",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 12, "quantity": "1 كغ"},
+      {"ingredientId": 24, "quantity": "ربع كوب"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 5, "quantity": "6 فصوص"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 10, "quantity": "ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "قطّع الدجاج إلى قطع متوسطة",
+      "اخلط عصير الليمون مع زيت الزيتون والثوم المفروم",
+      "أضف البهارات والملح إلى المزيج",
+      "نكّه الدجاج بالخليط واتركه في الثلاجة لمدة ساعتين",
+      "شوّي الدجاج على الفحم أو في الفرن حتى ينضج",
+      "قدمه ساخناً مع الأرز أو الخبز"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "30 دقيقة",
+    "servings": 6,
+    "tags": ["شيش طاووق", "دجاج", "مشوي", "أطباق رئيسية"]
+  },
+  {
+    "id": 15,
+    "name": "مقلوبة",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 12, "quantity": "1 كغ"},
+      {"ingredientId": 2, "quantity": "500 غرام"},
+      {"ingredientId": 27, "quantity": "2 حبة"},
+      {"ingredientId": 29, "quantity": "3 حبات"},
+      {"ingredientId": 3, "quantity": "حبتان"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 10, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 41, "quantity": "3 حبات"}
+    ],
+    "instructions": [
+      "اقلي الباذنجان والبطاطس المقطعة حتى تتحمر",
+      "في قدر، حمّر البصل المفروم ثم أضف الدجاج",
+      "أضف البهارات والملح واترك الدجاج ينضج",
+      "أضف الأرز المغسول والماء",
+      "رتب الباذنجان والبطاطس فوق الأرز",
+      "اطبخ على نار هادئة لمدة 30 دقيقة",
+      "اقلب الصينية عند التقديم"
+    ],
+    "prepTime": "30 دقيقة",
+    "cookTime": "50 دقيقة",
+    "servings": 6,
+    "tags": ["مقلوبة", "دجاج", "أرز", "أطباق رئيسية"]
+  },
+  {
+    "id": 16,
+    "name": "شوربة خضار",
+    "category": "شوربات",
+    "ingredients": [
+      {"ingredientId": 29, "quantity": "2 حبة"},
+      {"ingredientId": 30, "quantity": "2 حبة"},
+      {"ingredientId": 28, "quantity": "2 حبة"},
+      {"ingredientId": 3, "quantity": "حبة"},
+      {"ingredientId": 4, "quantity": "2 حبة"},
+      {"ingredientId": 6, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "ربع ملعقة صغيرة"},
+      {"ingredientId": 46, "quantity": "4 أكواب"},
+      {"ingredientId": 47, "quantity": "كوب"}
+    ],
+    "instructions": [
+      "قطّع جميع الخضار إلى قطع متوسطة",
+      "في قدر، حمّر البصل في زيت الزيتون",
+      "أضف جميع الخضار وقلب لمدة 5 دقائق",
+      "أضف الماء ومرق الدجاج واتركه يغلي",
+      "خفف النار واطبخ لمدة 25 دقيقة حتى تنضج الخضار",
+      "اخلط الشوربة في الخلاط حتى تصبح ناعمة",
+      "أضف الملح والفلفل حسب الرغبة"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "30 دقيقة",
+    "servings": 4,
+    "tags": ["شوربة", "خضار", "صحي", "شوربات"]
+  },
+  {
+    "id": 17,
+    "name": "سلطة خضار",
+    "category": "سلطات",
+    "ingredients": [
+      {"ingredientId": 4, "quantity": "3 حبات"},
+      {"ingredientId": 50, "quantity": "2 حبة"},
+      {"ingredientId": 30, "quantity": "2 حبة"},
+      {"ingredientId": 3, "quantity": "حبة صغيرة"},
+      {"ingredientId": 20, "quantity": "نصف كوب"},
+      {"ingredientId": 6, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 24, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 7, "quantity": "نصف ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "قطّع جميع الخضار إلى قطع صغيرة ومتساوية",
+      "اخلط الخضار مع البقدونس المفروم",
+      "في وعاء منفصل، اخلط زيت الزيتون وعصير الليمون والملح",
+      "أضف الصلصة إلى السلطة وقلب جيداً",
+      "قدمها فوراً"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "0 دقيقة",
+    "servings": 4,
+    "tags": ["سلطة", "خضار", "صحي", "مقبلات"]
+  },
+  {
+    "id": 18,
+    "name": "معمول",
+    "category": "حلويات",
+    "ingredients": [
+      {"ingredientId": 1, "quantity": "500 غرام"},
+      {"ingredientId": 48, "quantity": "كوب"},
+      {"ingredientId": 33, "quantity": "نصف كوب"},
+      {"ingredientId": 35, "quantity": "كوب"},
+      {"ingredientId": 43, "quantity": "نصف كوب"},
+      {"ingredientId": 40, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 41, "quantity": "نصف ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "اخلط الطحين مع الزبدة والسكر حتى يتجانس",
+      "أضف القرفة والهيل واعجن حتى يصبح عجيناً",
+      "اطبخ التمر مع اللوز المفروم حتى يصبح معجوناً",
+      "شكّل العجين على شكل كرات",
+      "احشي كل كرة بمعجون التمر",
+      "استخدم قالب المعمول لتشكيله",
+      "اخبز في الفرن على 180 درجة لمدة 20 دقيقة"
+    ],
+    "prepTime": "45 دقيقة",
+    "cookTime": "20 دقيقة",
+    "servings": 20,
+    "tags": ["معمول", "حلويات", "تمر", "عيد"]
+  },
+  {
+    "id": 19,
+    "name": "كنافة",
+    "category": "حلويات",
+    "ingredients": [
+      {"ingredientId": 48, "quantity": "200 غرام"},
+      {"ingredientId": 17, "quantity": "500 غرام"},
+      {"ingredientId": 33, "quantity": "كوب"},
+      {"ingredientId": 34, "quantity": "ملعقة كبيرة"},
+      {"ingredientId": 43, "quantity": "ربع كوب"}
+    ],
+    "instructions": [
+      "ذوّب الزبدة واخلطها مع عجينة الكنافة",
+      "افرد نصف الكنافة في صينية",
+      "أضف الجبنة البيضاء على الكنافة",
+      "غطّي بالكنافة المتبقية",
+      "اخبز في الفرن على 200 درجة لمدة 30 دقيقة",
+      "أضف شراب السكر والعسل عند التقديم",
+      "زينه باللوز المفروم"
+    ],
+    "prepTime": "20 دقيقة",
+    "cookTime": "30 دقيقة",
+    "servings": 8,
+    "tags": ["كنافة", "حلويات", "جبنة", "حلو"]
+  },
+  {
+    "id": 20,
+    "name": "بقلاوة",
+    "category": "حلويات",
+    "ingredients": [
+      {"ingredientId": 48, "quantity": "200 غرام"},
+      {"ingredientId": 43, "quantity": "كوب"},
+      {"ingredientId": 33, "quantity": "كوب"},
+      {"ingredientId": 46, "quantity": "كوب"},
+      {"ingredientId": 34, "quantity": "ملعقة كبيرة"},
+      {"ingredientId": 40, "quantity": "ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "ذوّب الزبدة",
+      "افرد طبقة من عجينة البقلاوة في صينية",
+      "رش اللوز المفروم على العجينة",
+      "كرر الطبقات حتى تنتهي العجينة",
+      "اقطع البقلاوة إلى مربعات أو معينات",
+      "اخبز في الفرن على 180 درجة لمدة 35 دقيقة",
+      "أضف شراب السكر والعسل والقرفة عند التقديم"
+    ],
+    "prepTime": "30 دقيقة",
+    "cookTime": "35 دقيقة",
+    "servings": 12,
+    "tags": ["بقلاوة", "حلويات", "لوز", "حلو"]
+  },
+  {
+    "id": 21,
+    "name": "أم علي",
+    "category": "حلويات",
+    "ingredients": [
+      {"ingredientId": 32, "quantity": "200 غرام"},
+      {"ingredientId": 16, "quantity": "كوبان"},
+      {"ingredientId": 33, "quantity": "نصف كوب"},
+      {"ingredientId": 43, "quantity": "ربع كوب"},
+      {"ingredientId": 45, "quantity": "ربع كوب"},
+      {"ingredientId": 40, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 34, "quantity": "ملعقة كبيرة"}
+    ],
+    "instructions": [
+      "حمّص المعكرونة في الفرن حتى تتحمر",
+      "في قدر، اخلط اللبن مع السكر والقرفة",
+      "اتركه يغلي ثم خفف النار",
+      "أضف المعكرونة المحمصة واللوز والزبيب",
+      "اطبخ لمدة 10 دقائق حتى يتكثف",
+      "قدمه ساخناً مع العسل"
+    ],
+    "prepTime": "10 دقيقة",
+    "cookTime": "20 دقيقة",
+    "servings": 4,
+    "tags": ["أم علي", "حلويات", "لبن", "حلو"]
+  },
+  {
+    "id": 22,
+    "name": "كعك",
+    "category": "حلويات",
+    "ingredients": [
+      {"ingredientId": 1, "quantity": "500 غرام"},
+      {"ingredientId": 48, "quantity": "200 غرام"},
+      {"ingredientId": 33, "quantity": "كوب"},
+      {"ingredientId": 18, "quantity": "2 قطعة"},
+      {"ingredientId": 40, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 41, "quantity": "نصف ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "اخلط الطحين مع الزبدة حتى يتجانس",
+      "أضف السكر والبيض والبهارات",
+      "اعجن حتى يصبح عجيناً متماسكاً",
+      "شكّل العجين على شكل كعك",
+      "اخبز في الفرن على 180 درجة لمدة 15 دقيقة",
+      "اتركه يبرد قبل التقديم"
+    ],
+    "prepTime": "30 دقيقة",
+    "cookTime": "15 دقيقة",
+    "servings": 30,
+    "tags": ["كعك", "حلويات", "مخبوزات", "حلو"]
+  },
+  {
+    "id": 23,
+    "name": "لقيمات",
+    "category": "حلويات",
+    "ingredients": [
+      {"ingredientId": 1, "quantity": "كوب"},
+      {"ingredientId": 16, "quantity": "كوب"},
+      {"ingredientId": 18, "quantity": "قطعة"},
+      {"ingredientId": 33, "quantity": "ملعقة كبيرة"},
+      {"ingredientId": 46, "quantity": "نصف كوب"},
+      {"ingredientId": 6, "quantity": "كوب"}
+    ],
+    "instructions": [
+      "اخلط الطحين مع اللبن والبيض والسكر",
+      "أضف الماء تدريجياً حتى يصبح القوام مناسباً",
+      "اترك العجين يتخمر لمدة ساعة",
+      "اقلي اللقيمات في زيت ساخن حتى تتحمر",
+      "انزعها من الزيت واتركها تبرد قليلاً",
+      "اغمسها في شراب السكر أو العسل"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "20 دقيقة",
+    "servings": 20,
+    "tags": ["لقيمات", "حلويات", "مقلي", "حلو"]
+  },
+  {
+    "id": 24,
+    "name": "شوربة دجاج",
+    "category": "شوربات",
+    "ingredients": [
+      {"ingredientId": 12, "quantity": "500 غرام"},
+      {"ingredientId": 2, "quantity": "كوب"},
+      {"ingredientId": 3, "quantity": "حبة"},
+      {"ingredientId": 30, "quantity": "2 حبة"},
+      {"ingredientId": 29, "quantity": "2 حبة"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "ربع ملعقة صغيرة"},
+      {"ingredientId": 46, "quantity": "6 أكواب"}
+    ],
+    "instructions": [
+      "اطبخ الدجاج في الماء حتى ينضج",
+      "انزع الدجاج من المرق واحتفظ بالمرق",
+      "قطّع الدجاج إلى قطع صغيرة",
+      "في قدر، اطبخ الأرز في مرق الدجاج",
+      "أضف الخضار المقطعة (جزر، بطاطس)",
+      "أضف قطع الدجاج والملح والفلفل",
+      "اطبخ لمدة 20 دقيقة حتى ينضج الأرز"
+    ],
+    "prepTime": "15 دقيقة",
+    "cookTime": "45 دقيقة",
+    "servings": 6,
+    "tags": ["شوربة", "دجاج", "أرز", "شوربات"]
+  },
+  {
+    "id": 25,
+    "name": "فتة",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 12, "quantity": "1 كغ"},
+      {"ingredientId": 2, "quantity": "كوبان"},
+      {"ingredientId": 15, "quantity": "كوب"},
+      {"ingredientId": 38, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 24, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 5, "quantity": "3 فصوص"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 47, "quantity": "كوبان"}
+    ],
+    "instructions": [
+      "اطبخ الأرز في مرق الدجاج حتى ينضج",
+      "اطبخ الحمص حتى ينضج",
+      "اخلط الطحينة مع عصير الليمون والثوم",
+      "اطبخ الدجاج حتى ينضج ثم قطّعه",
+      "في صحن التقديم، رتب الخبز المحمص",
+      "أضف الأرز ثم الحمص ثم الدجاج",
+      "اسكب الطحينة ومرق الدجاج الساخن"
+    ],
+    "prepTime": "20 دقيقة",
+    "cookTime": "60 دقيقة",
+    "servings": 6,
+    "tags": ["فتة", "دجاج", "حمص", "أطباق رئيسية"]
+  },
+  {
+    "id": 26,
+    "name": "محشي ورق عنب",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 11, "quantity": "500 غرام"},
+      {"ingredientId": 2, "quantity": "كوب"},
+      {"ingredientId": 3, "quantity": "حبة"},
+      {"ingredientId": 4, "quantity": "3 حبات"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 25, "quantity": "ملعقة كبيرة"},
+      {"ingredientId": 46, "quantity": "كوبان"}
+    ],
+    "instructions": [
+      "نظف ورق العنب واغسله جيداً",
+      "اطبخ الأرز نصف نضج",
+      "اخلط اللحم المفروم مع البصل والبهارات",
+      "أضف الأرز إلى خليط اللحم",
+      "احشي ورق العنب بخليط اللحم والأرز",
+      "رتب المحشي في قدر وأضف الطماطم والماء",
+      "اطبخ على نار هادئة لمدة 45 دقيقة"
+    ],
+    "prepTime": "50 دقيقة",
+    "cookTime": "60 دقيقة",
+    "servings": 6,
+    "tags": ["محشي", "ورق عنب", "لحم", "أطباق رئيسية"]
+  },
+  {
+    "id": 27,
+    "name": "شاورما دجاج",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 12, "quantity": "1 كغ"},
+      {"ingredientId": 24, "quantity": "ربع كوب"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 5, "quantity": "6 فصوص"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 8, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 10, "quantity": "ملعقة صغيرة"}
+    ],
+    "instructions": [
+      "قطّع الدجاج إلى شرائح رفيعة",
+      "اخلط عصير الليمون مع زيت الزيتون والثوم",
+      "أضف البهارات والملح إلى المزيج",
+      "نكّه الدجاج بالخليط واتركه في الثلاجة لمدة 4 ساعات",
+      "اقلي الدجاج في مقلاة حتى ينضج",
+      "قدمه في خبز مع طحينة وخضار"
+    ],
+    "prepTime": "20 دقيقة",
+    "cookTime": "15 دقيقة",
+    "servings": 6,
+    "tags": ["شاورما", "دجاج", "ساندويتش", "أطباق رئيسية"]
+  },
+  {
+    "id": 28,
+    "name": "سلطة طحينة",
+    "category": "سلطات",
+    "ingredients": [
+      {"ingredientId": 38, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 24, "quantity": "3 ملاعق كبيرة"},
+      {"ingredientId": 5, "quantity": "فصان"},
+      {"ingredientId": 6, "quantity": "ملعقتان كبيرتان"},
+      {"ingredientId": 7, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 46, "quantity": "ربع كوب"}
+    ],
+    "instructions": [
+      "اخلط الطحينة مع عصير الليمون",
+      "أضف الثوم المفروم والملح",
+      "أضف الماء تدريجياً حتى يصبح القوام مناسباً",
+      "أضف زيت الزيتون وقلب جيداً",
+      "قدمها مع السلطة أو كصلصة"
+    ],
+    "prepTime": "5 دقائق",
+    "cookTime": "0 دقيقة",
+    "servings": 4,
+    "tags": ["سلطة", "طحينة", "صلصة", "مقبلات"]
+  },
+  {
+    "id": 29,
+    "name": "رز باللبن",
+    "category": "حلويات",
+    "ingredients": [
+      {"ingredientId": 2, "quantity": "كوب"},
+      {"ingredientId": 16, "quantity": "كوبان"},
+      {"ingredientId": 33, "quantity": "نصف كوب"},
+      {"ingredientId": 40, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 41, "quantity": "نصف ملعقة صغيرة"},
+      {"ingredientId": 43, "quantity": "ربع كوب"}
+    ],
+    "instructions": [
+      "اطبخ الأرز في الماء حتى ينضج نصف نضج",
+      "أضف اللبن إلى الأرز واتركه يغلي",
+      "أضف السكر والقرفة والهيل",
+      "اطبخ على نار هادئة لمدة 20 دقيقة حتى يتكثف",
+      "زينه باللوز المفروم",
+      "قدمه ساخناً أو بارداً"
+    ],
+    "prepTime": "10 دقيقة",
+    "cookTime": "30 دقيقة",
+    "servings": 4,
+    "tags": ["رز باللبن", "حلويات", "لبن", "حلو"]
+  },
+  {
+    "id": 30,
+    "name": "مشكل خضار",
+    "category": "أطباق رئيسية",
+    "ingredients": [
+      {"ingredientId": 27, "quantity": "2 حبة"},
+      {"ingredientId": 28, "quantity": "3 حبة"},
+      {"ingredientId": 29, "quantity": "3 حبات"},
+      {"ingredientId": 30, "quantity": "2 حبة"},
+      {"ingredientId": 4, "quantity": "3 حبات"},
+      {"ingredientId": 3, "quantity": "حبة"},
+      {"ingredientId": 5, "quantity": "4 فصوص"},
+      {"ingredientId": 6, "quantity": "ربع كوب"},
+      {"ingredientId": 7, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 9, "quantity": "ملعقة صغيرة"},
+      {"ingredientId": 25, "quantity": "ملعقتان كبيرتان"}
+    ],
+    "instructions": [
+      "قطّع جميع الخضار إلى قطع متوسطة",
+      "في قدر كبير، حمّر البصل في زيت الزيتون",
+      "أضف الثوم المفروم وقلب لمدة دقيقة",
+      "أضف جميع الخضار وقلب لمدة 5 دقائق",
+      "أضف الطماطم المعجون والبهارات والملح",
+      "أضف قليل من الماء واتركه يغلي",
+      "خفف النار واطبخ لمدة 30 دقيقة حتى تنضج الخضار"
+    ],
+    "prepTime": "20 دقيقة",
+    "cookTime": "35 دقيقة",
+    "servings": 6,
+    "tags": ["مشكل خضار", "خضار", "صحي", "أطباق رئيسية"]
+  }
+]

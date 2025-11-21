@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "name": "قميص كتان بأكمام طويلة",
+    "category": "ملابس",
+    "price": 159.90,
+    "stock": 70,
+    "description": "قميص رجالي من قماش الكتان الخفيف بقصة مريحة وأزرار خشبية مناسب للأجواء الدافئة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-001.png"
+  },
+  {
+    "id": 2,
+    "name": "فستان صيفي مطبوع بالزهور",
+    "category": "ملابس",
+    "price": 245.50,
+    "stock": 45,
+    "description": "فستان خفيف بأشرطة رفيعة وحزام خصر مطاطي مع طبعات أزهار ملونة لطلّة نهارية منعشة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-002.png"
+  },
+  {
+    "id": 3,
+    "name": "بنطال جينز بقصة ضيقة",
+    "category": "ملابس",
+    "price": 189.75,
+    "stock": 80,
+    "description": "بنطال جينز مرن بدرجة لون أزرق داكن وغسيل باهت خفيف مع خصر متوسط وراحة طوال اليوم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-003.png"
+  },
+  {
+    "id": 4,
+    "name": "عباءة سوداء مزخرفة بالدانتيل",
+    "category": "ملابس",
+    "price": 320.00,
+    "stock": 30,
+    "description": "عباءة كلاسيكية بلمسات دانتيل على الأكمام والحافة الأمامية مع حزام قابل للإزالة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-004.png"
+  },
+  {
+    "id": 5,
+    "name": "سترة صوفية بنقشة هندسية",
+    "category": "ملابس",
+    "price": 210.60,
+    "stock": 55,
+    "description": "سترة دافئة برقبة مستديرة ونقوش هندسية ملونة ومقاسات مريحة للشتاء.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-005.png"
+  },
+  {
+    "id": 6,
+    "name": "تيشيرت قطن أساسي",
+    "category": "ملابس",
+    "price": 79.90,
+    "stock": 150,
+    "description": "تيشيرت بأكمام قصيرة من القطن العضوي مع ياقة مستديرة وتفاصيل خياطة نظيفة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-006.png"
+  },
+  {
+    "id": 7,
+    "name": "تنورة بليسيه ميدي",
+    "category": "ملابس",
+    "price": 198.40,
+    "stock": 50,
+    "description": "تنورة بليسيه بطبقات خفيفة وخصر مطاطي تضفي حركة أنثوية أنيقة عند المشي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-007.png"
+  },
+  {
+    "id": 8,
+    "name": "بدلة رسمية رمادية للرجال",
+    "category": "ملابس",
+    "price": 585.00,
+    "stock": 25,
+    "description": "بدلة من قطعتين بقصة عصرية تشمل سترة بجيوب أمامية وبنطال مستقيم للإطلالات العملية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-008.png"
+  },
+  {
+    "id": 9,
+    "name": "جاكيت دنيم مبطن بالفرو",
+    "category": "ملابس",
+    "price": 275.30,
+    "stock": 40,
+    "description": "جاكيت دنيم أزرق ببطانة فرو صناعي على الياقة والداخل لتوفير الدفء والأناقة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-009.png"
+  },
+  {
+    "id": 10,
+    "name": "بيجامة قطنية بطبعة نجوم",
+    "category": "ملابس",
+    "price": 139.20,
+    "stock": 65,
+    "description": "طقم نوم مكون من قميص بأزرار وبنطال سهل الارتداء مع طبعة نجوم ليلية ناعمة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-010.png"
+  },
+  {
+    "id": 11,
+    "name": "معطف ترنش بلون كريمي",
+    "category": "ملابس",
+    "price": 449.90,
+    "stock": 35,
+    "description": "معطف ترنش بطول متوسط مع حزام خصر وأزرار مزدوجة يناسب الإطلالات الخريفية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-011.png"
+  },
+  {
+    "id": 12,
+    "name": "سروال رياضي بخطوط جانبية",
+    "category": "ملابس",
+    "price": 115.80,
+    "stock": 90,
+    "description": "سروال رياضي من قماش قطني مرن بخطين متباينين على الجانبين وكاحل مطاطي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-012.png"
+  },
+  {
+    "id": 13,
+    "name": "قميص نوم ساتان بأزرار أمامية",
+    "category": "ملابس",
+    "price": 165.45,
+    "stock": 60,
+    "description": "قميص نوم حريري بقصة مستقيمة وحافة مقوسة يوفر ملمسًا ناعمًا ومظهرًا أنيقًا.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-013.png"
+  },
+  {
+    "id": 14,
+    "name": "شورت بحري بنقشة مخططة",
+    "category": "ملابس",
+    "price": 98.60,
+    "stock": 85,
+    "description": "شورت قطني خفيف مع حزام خصر مطاطي ورباط داخلي يناسب الشاطئ والأنشطة الصيفية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-014.png"
+  },
+  {
+    "id": 15,
+    "name": "هودي بقبعة داخلية مبطنة",
+    "category": "ملابس",
+    "price": 225.10,
+    "stock": 50,
+    "description": "هودي ثقيل ببطانة صوفية في الداخل وجيب أمامي واسع يحافظ على الدفء في الشتاء.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-015.png"
+  },
+  {
+    "id": 16,
+    "name": "قميص بولو بخيوط متباينة",
+    "category": "ملابس",
+    "price": 145.80,
+    "stock": 75,
+    "description": "قميص بولو بياقة مزدوجة وخطوط ملونة على الأكمام يناسب الإطلالات الذكية الكاجوال.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-016.png"
+  },
+  {
+    "id": 17,
+    "name": "فستان سهرة ساتان مكشكش",
+    "category": "ملابس",
+    "price": 520.40,
+    "stock": 22,
+    "description": "فستان طويل من الساتان اللامع مع فتحة جانبية وتفاصيل كشكش على الكتف لإطلالة فاخرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-017.png"
+  },
+  {
+    "id": 18,
+    "name": "جاكيت بومبر مبطن خفيف",
+    "category": "ملابس",
+    "price": 265.60,
+    "stock": 40,
+    "description": "جاكيت بومبر من النايلون المقاوم للرياح مع سحاب كامل وجيوب جانبية بسحاب مخفي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-018.png"
+  },
+  {
+    "id": 19,
+    "name": "تنورة قلم بقماش مطاطي",
+    "category": "ملابس",
+    "price": 175.30,
+    "stock": 48,
+    "description": "تنورة بقصة مستقيمة من قماش مطاطي مزدوج مع شق خلفي صغير تناسب العمل والمناسبات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-019.png"
+  },
+  {
+    "id": 20,
+    "name": "سروال كارغو بجيوب إضافية",
+    "category": "ملابس",
+    "price": 205.75,
+    "stock": 55,
+    "description": "سروال كارغو من القطن الثقيل مع جيوب جانبية كبيرة وأطراف قابلة للضبط بواسطة سحاب.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-020.png"
+  },
+  {
+    "id": 21,
+    "name": "بلوزة ساتان برقبة على شكل V",
+    "category": "ملابس",
+    "price": 162.40,
+    "stock": 65,
+    "description": "بلوزة خفيفة بلمعة ساتان مع أكمام قصيرة واسعة ومشبك خلفي لإطلالة مسائية بسيطة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-021.png"
+  },
+  {
+    "id": 22,
+    "name": "تيشيرت أطفال برسمة فضائية",
+    "category": "ملابس",
+    "price": 69.90,
+    "stock": 120,
+    "description": "تيشيرت قطن للأطفال مع رسمة مستوحاة من الكواكب وأكتاف مريحة للعب اليومي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-022.png"
+  },
+  {
+    "id": 23,
+    "name": "عباية صيفية بلون رملي",
+    "category": "ملابس",
+    "price": 295.80,
+    "stock": 34,
+    "description": "عباية خفيفة بنسيج شيفون مبطن بأكمام واسعة وحافة مخيطة بتطريز ناعم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-023.png"
+  },
+  {
+    "id": 24,
+    "name": "شورت دراجة عالي الخصر",
+    "category": "ملابس",
+    "price": 92.10,
+    "stock": 85,
+    "description": "شورت رياضي من قماش مطاطي مضغوط يدعم العضلات ويمنع الاحتكاك أثناء التمرين.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-024.png"
+  },
+  {
+    "id": 25,
+    "name": "قميص بجيب مزدوج مخطط",
+    "category": "ملابس",
+    "price": 175.10,
+    "stock": 62,
+    "description": "قميص قطن بجيبين على الصدر ونمط خطوط عمودية رفيعة لأسلوب كلاسيكي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-025.png"
+  },
+  {
+    "id": 26,
+    "name": "بدلة رياضية بلون موحد",
+    "category": "ملابس",
+    "price": 310.20,
+    "stock": 40,
+    "description": "طقم رياضي مكون من جاكيت بسحاب وسروال مطابق مع خامة قطيفة ناعمة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-026.png"
+  },
+  {
+    "id": 27,
+    "name": "قميص حرير بأكمام منفوخة",
+    "category": "ملابس",
+    "price": 238.70,
+    "stock": 36,
+    "description": "قميص حرير طبيعي مع أكمام منفوخة وأزرار مغطاة تضيف فخامة للمظهر.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-027.png"
+  },
+  {
+    "id": 28,
+    "name": "جاكيت جلد صناعي بسحابين",
+    "category": "ملابس",
+    "price": 355.90,
+    "stock": 28,
+    "description": "جاكيت من الجلد الصناعي ببطانة شبكية واثنين من السحابات الأمامية لمظهر درامي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-028.png"
+  },
+  {
+    "id": 29,
+    "name": "طقم أطفال رسمي بنقشة مربعات",
+    "category": "ملابس",
+    "price": 265.40,
+    "stock": 30,
+    "description": "طقم مكون من سترة قصيرة وبنطال بقطع مربعات دقيقة مع قميص أبيض خفيف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-029.png"
+  },
+  {
+    "id": 30,
+    "name": "أوفرول دنيم واسع الأرجل",
+    "category": "ملابس",
+    "price": 210.80,
+    "stock": 44,
+    "description": "أوفرول دنيم خفيف مع أزرار على الكتف وجيوب أمامية واسعة لأسلوب عملي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-030.png"
+  },
+  {
+    "id": 31,
+    "name": "قميص بعارضة مائلة مطرز",
+    "category": "ملابس",
+    "price": 188.90,
+    "stock": 52,
+    "description": "قميص رسمي بعارضة مائلة وتطريز يدوي خفيف على الياقة لإضافة لمسة شرقية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-031.png"
+  },
+  {
+    "id": 32,
+    "name": "كارديغان محبوك بأزرار خشبية",
+    "category": "ملابس",
+    "price": 215.60,
+    "stock": 47,
+    "description": "كارديغان محبوك بخيوط سميكة وأزرار خشبية كبيرة يوفر دفئاً ناعماً للأمسيات الباردة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-032.png"
+  },
+  {
+    "id": 33,
+    "name": "فستان حامل بخصر مرتفع",
+    "category": "ملابس",
+    "price": 228.30,
+    "stock": 38,
+    "description": "فستان ميدي بخصر إمبراطوري وأكمام قصيرة منسدلة يمنح راحة للأمهات الحوامل.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-033.png"
+  },
+  {
+    "id": 34,
+    "name": "سروال قصير مائل الكاحل",
+    "category": "ملابس",
+    "price": 155.25,
+    "stock": 70,
+    "description": "سروال بقصة مائلة عند الكاحل مع ثنيات أمامية وخياطة دقيقة يناسب الأحذية الرياضية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-034.png"
+  },
+  {
+    "id": 35,
+    "name": "عباءة رسمية مطرزة بخيوط ذهبية",
+    "category": "ملابس",
+    "price": 540.00,
+    "stock": 18,
+    "description": "عباءة فاخرة مطرزة بخيوط ذهبية على الحواف والأكمام مع بطانة ساتان داخلية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-035.png"
+  },
+  {
+    "id": 36,
+    "name": "تيشيرت قطن بجيوب صغيرة",
+    "category": "ملابس",
+    "price": 88.40,
+    "stock": 140,
+    "description": "تيشيرت أساسي بجيب صغير على الصدر وخياطة مزدوجة تعزز المتانة للاستخدام اليومي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-036.png"
+  },
+  {
+    "id": 37,
+    "name": "بلوزة رياضية بفتحات تهوية",
+    "category": "ملابس",
+    "price": 129.90,
+    "stock": 95,
+    "description": "بلوزة خفيفة بفتحات ليزر على الظهر وأكمام طويلة مرنة لممارسة الجري واليوغا.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-037.png"
+  },
+  {
+    "id": 38,
+    "name": "فستان قطن للأطفال بطبعة قلوب",
+    "category": "ملابس",
+    "price": 118.70,
+    "stock": 80,
+    "description": "فستان أطفال بكتف مكشوف وطبعة قلوب لونية مع حزام قماشي رفيع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-038.png"
+  },
+  {
+    "id": 39,
+    "name": "حذاء رياضي منسوج للرجال",
+    "category": "ملابس",
+    "price": 310.50,
+    "stock": 42,
+    "description": "حذاء رياضي خفيف الوزن بنعل مطاطي مرن ووجه منسوج يسمح بمرور الهواء.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-039.png"
+  },
+  {
+    "id": 40,
+    "name": "شال صوفي برسوم تراثية",
+    "category": "ملابس",
+    "price": 185.20,
+    "stock": 53,
+    "description": "شال كبير من الصوف الناعم مزين برسوم تراثية مستوحاة من النقوش العربية التقليدية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/clothes/clothes-040.png"
+  }
+]
+

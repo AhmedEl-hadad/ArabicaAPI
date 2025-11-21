@@ -1,0 +1,9 @@
+﻿Dataset: data/ecommerce/automotive.json
+Approximate images needed: ~40 product shots
+Naming pattern: automotive-001.png - automotive-040.png
+Notes:
+- Single PNG per automotive item.
+- Number matches dataset order/id.
+- Use transparent background when possible.
+
+

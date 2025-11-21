@@ -1,0 +1,9 @@
+﻿Dataset: data/users/users.json
+Approximate images needed: ~100 avatar portraits (1 per user)
+Naming pattern: user-001.png - user-100.png
+Notes:
+- Square avatars, minimum 512x512 for responsive use.
+- Align numbering with each `id` (user-###).
+- Used anywhere profiles display an `avatar`.
+
+

@@ -1,0 +1,9 @@
+﻿Dataset: data/ecommerce/clothes.json
+Approximate images needed: ~40 apparel shots
+Naming pattern: clothes-001.png - clothes-040.png
+Notes:
+- Flat-lay or mannequin shots on neutral background.
+- Filename suffix tracks dataset position.
+- Used for both listing + all-products views.
+
+
