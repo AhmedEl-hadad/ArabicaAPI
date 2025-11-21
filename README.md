@@ -8,12 +8,13 @@ Reusable, Arabic-friendly mock datasets for UI prototyping, API simulations, and
 
 1. [Project Overview](#project-overview)
 2. [Dataset & Folder Overview](#dataset--folder-overview)
-3. [Domain Use Cases](#domain-use-cases)
-4. [API-Style Data Examples](#api-style-data-examples)
-5. [Data Rules & Conventions](#data-rules--conventions)
-6. [How to Use the Data](#how-to-use-the-data)
-7. [Contribution Guidelines](#contribution-guidelines)
-8. [Future Extensions](#future-extensions)
+3. [Assets Structure](#assets-structure)
+4. [Domain Use Cases](#domain-use-cases)
+5. [API-Style Data Examples](#api-style-data-examples)
+6. [Data Rules & Conventions](#data-rules--conventions)
+7. [How to Use the Data](#how-to-use-the-data)
+8. [Contribution Guidelines](#contribution-guidelines)
+9. [Future Extensions](#future-extensions)
 
 ---
 
@@ -65,6 +66,50 @@ arabicaapi/
 | `data/misc` | 2 | 60 | FAQs and quick tips for filler sections. |
 
 > Total: **36 JSON files / 1,660 records**. Each file is stand-alone, so you can import only what you need.
+
+---
+
+## Assets Structure
+
+```
+assets/
+├── cars/
+├── companies/
+├── ecommerce/
+│   ├── accessories/
+│   ├── all-products/
+│   ├── automotive/
+│   ├── beauty/
+│   ├── books/
+│   ├── clothes/
+│   ├── electronics/
+│   ├── food/
+│   ├── home/
+│   ├── makeup/
+│   ├── office/
+│   ├── sports/
+│   └── toys/
+├── real-estate/
+│   ├── agents/
+│   └── properties/
+└── users/
+```
+
+Each folder stores PNG assets plus an `images-guide.txt` describing required counts, naming patterns, and art-direction notes. JSON files reference these assets via relative paths such as `assets/cars/car-012.png`. Shared items (e.g., ecommerce categories aggregated into `all-products`) point to the same canonical file so there is a single source of truth.
+
+Example record referencing an asset:
+
+```json
+{
+  "id": "car-012",
+  "make": "Lexus",
+  "model": "RX 350h",
+  "price": 229900,
+  "image": "assets/cars/car-012.png"
+}
+```
+
+See `IMAGES_GUIDELINES.md` for detailed naming conventions, expected counts per dataset, and contributor workflows.
 
 ---
 
