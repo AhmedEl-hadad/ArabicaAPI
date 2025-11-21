@@ -2,7 +2,7 @@
 
 Reusable, Arabic-friendly mock datasets for UI prototyping, API simulations, and frontend testing. The repository ships 36 JSON files (1,660 total records) that cover commerce, jobs, real estate, education, events, recipes, reviews, and more—ready to import or fetch as-is.
 
-![Design Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/assets/thumbnail.jpg?raw=true)
+![Design Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/JSON-datasets/thumbnail.jpg?raw=true)
 
 ---
 
@@ -52,20 +52,20 @@ arabicaapi/
 └── README.md
 ```
 
-| Directory | Files | Records | Summary |
-| --- | --- | --- | --- |
-| `data/ecommerce` | 13 | 960 | 12 category files × 40 items + `all-products.json` (480-item aggregate). |
-| `data/users` | 1 | 100 | User profiles with avatars, roles, addresses, and join dates. |
-| `data/companies` | 1 | 50 | Regional companies with industries, headcounts, and social links. |
-| `data/cars` | 1 | 30 | Dealership-ready inventory with specs and photos. |
-| `data/orders` | 2 | 45 | Orders plus line items for checkout/cart flows. |
-| `data/reviews` | 3 | 45 | Product, company, and user review feeds. |
-| `data/real-estate` | 3 | 95 | Properties, agents, and location metadata. |
-| `data/jobs` | 3 | 80 | Job listings, hiring companies, and job categories. |
-| `data/education` | 3 | 70 | Schools, teachers, and courses. |
-| `data/events` | 2 | 45 | Events linked to venues. |
-| `data/recipes` | 2 | 80 | Recipes plus ingredient catalogues. |
-| `data/misc` | 2 | 60 | FAQs and quick tips for filler sections. |
+| Directory          | Files | Records | Summary                                                                  |
+| ------------------ | ----- | ------- | ------------------------------------------------------------------------ |
+| `data/ecommerce`   | 13    | 960     | 12 category files × 40 items + `all-products.json` (480-item aggregate). |
+| `data/users`       | 1     | 100     | User profiles with avatars, roles, addresses, and join dates.            |
+| `data/companies`   | 1     | 50      | Regional companies with industries, headcounts, and social links.        |
+| `data/cars`        | 1     | 30      | Dealership-ready inventory with specs and photos.                        |
+| `data/orders`      | 2     | 45      | Orders plus line items for checkout/cart flows.                          |
+| `data/reviews`     | 3     | 45      | Product, company, and user review feeds.                                 |
+| `data/real-estate` | 3     | 95      | Properties, agents, and location metadata.                               |
+| `data/jobs`        | 3     | 80      | Job listings, hiring companies, and job categories.                      |
+| `data/education`   | 3     | 70      | Schools, teachers, and courses.                                          |
+| `data/events`      | 2     | 45      | Events linked to venues.                                                 |
+| `data/recipes`     | 2     | 80      | Recipes plus ingredient catalogues.                                      |
+| `data/misc`        | 2     | 60      | FAQs and quick tips for filler sections.                                 |
 
 > Total: **36 JSON files / 1,660 records**. Each file is stand-alone, so you can import only what you need.
 
