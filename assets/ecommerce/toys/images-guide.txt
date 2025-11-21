@@ -1,0 +1,9 @@
+﻿Dataset: data/ecommerce/toys.json
+Approximate images needed: ~40 toy photos
+Naming pattern: toys-001.png - toys-040.png
+Notes:
+- Bright, playful lighting preferred.
+- Filenames tie directly to dataset order.
+- Images reused in the all-products catalog.
+
+

@@ -1,0 +1,9 @@
+﻿Dataset: data/ecommerce/home.json
+Approximate images needed: ~40 dÃ©cor/product shots
+Naming pattern: home-001.png - home-040.png
+Notes:
+- Lifestyle or catalog shots per item.
+- Use consistent lighting to mix/match.
+- IDs map directly to filenames.
+
+

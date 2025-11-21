@@ -110,17 +110,14 @@ data/
 
 ---
 
-## ✅ 5. Images
+## ✅ 5. Media & Image Rules
 
-- All images must live in the **assets branch**.
-- JSON must include **full raw URLs** pointing to the assets branch.
-- Example:
-
-```
-"https://raw.githubusercontent.com/USERNAME/ArabicaAPI/assets/images/products/1.png"
-```
-
-- Do not store images in the main branch.
+- Store every PNG/JPG under `/assets/<domain>/<dataset>/` alongside its `images-guide.txt`.
+- Reference images from JSON using repo-relative paths such as `assets/cars/car-012.png` or `assets/real-estate/properties/property-010-2.png`.
+- Follow the naming pattern defined per dataset (prefix + zero-padded number, optional gallery suffix like `-1`, `-2`, `-3`).
+- Aggregated files (e.g., `data/ecommerce/all-products.json`) must reuse the exact same file paths as their source category so there is a single canonical asset.
+- **Validation:** before committing, ensure every `image`, `logo`, `avatar`, or gallery entry matches `^assets/` and that the file exists in the matching folder.
+- See `IMAGES_GUIDELINES.md` for the full dataset-to-folder matrix, expected counts, and contributor workflow.
 
 ---
 

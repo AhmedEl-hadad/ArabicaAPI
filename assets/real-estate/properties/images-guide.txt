@@ -1,0 +1,9 @@
+﻿Dataset: data/real-estate/properties.json
+Approximate images needed: ~120-180 property photos (2-3 per listing across 60 records)
+Naming pattern: property-001-1.png ... property-060-3.png
+Notes:
+- Each listing needs a small gallery (interior + exterior).
+- Suffix `-1`, `-2`, `-3` follows the display order in the `images` array.
+- Use consistent resolutions so carousels stay aligned.
+
+

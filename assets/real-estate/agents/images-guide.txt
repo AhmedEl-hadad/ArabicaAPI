@@ -1,0 +1,9 @@
+﻿Dataset: data/real-estate/agents.json
+Approximate images needed: ~20 agent headshots (1 per agent)
+Naming pattern: agent-001.png - agent-020.png
+Notes:
+- Professional portrait framing with transparent or neutral background.
+- Referenced by the `image` field for each agent profile.
+- Keep filenames synchronized with numeric `id` values.
+
+

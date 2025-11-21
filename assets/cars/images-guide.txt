@@ -1,0 +1,9 @@
+﻿Dataset: data/cars/cars.json
+Approximate images needed: ~30 hero shots (1 per car record)
+Naming pattern: car-001.png - car-030.png
+Notes:
+- Single PNG image per car entry.
+- Keep numbering aligned with the `id` field (car-###).
+- Use consistent background/lighting across the fleet.
+
+

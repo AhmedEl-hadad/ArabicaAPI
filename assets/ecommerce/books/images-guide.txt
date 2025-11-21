@@ -1,0 +1,9 @@
+﻿Dataset: data/ecommerce/books.json
+Approximate images needed: ~40 cover renders
+Naming pattern: book-001.png - book-040.png
+Notes:
+- Front-cover artwork only.
+- Match numbering to the dataset order.
+- Same files power the `all-products` feed.
+
+
