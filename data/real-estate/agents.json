@@ -4,7 +4,7 @@
     "name": "أحمد سالم القحطاني",
     "phone": "+966501112233",
     "email": "ahmad.q@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-001.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-001.png?raw=true",
     "rating": 4.8,
     "totalListings": 18
   },
@@ -13,7 +13,7 @@
     "name": "فاطمة نايف الشهري",
     "phone": "+966502223344",
     "email": "fatimah.s@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-002.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-002.png?raw=true",
     "rating": 4.6,
     "totalListings": 15
   },
@@ -22,7 +22,7 @@
     "name": "سعود إبراهيم العتيبي",
     "phone": "+966503334455",
     "email": "saud.a@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-003.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-003.png?raw=true",
     "rating": 4.4,
     "totalListings": 12
   },
@@ -31,7 +31,7 @@
     "name": "مها خالد الزهراني",
     "phone": "+966504445566",
     "email": "maha.z@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-004.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-004.png?raw=true",
     "rating": 4.7,
     "totalListings": 17
   },
@@ -40,7 +40,7 @@
     "name": "عبدالله ياسر الحربي",
     "phone": "+966505556677",
     "email": "abdullah.h@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-005.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-005.png?raw=true",
     "rating": 4.3,
     "totalListings": 10
   },
@@ -49,7 +49,7 @@
     "name": "ليلى محمد البلوي",
     "phone": "+966506667788",
     "email": "layla.b@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-006.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-006.png?raw=true",
     "rating": 4.5,
     "totalListings": 13
   },
@@ -58,7 +58,7 @@
     "name": "إبراهيم فهد المطيري",
     "phone": "+966507778899",
     "email": "ibrahim.m@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-007.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-007.png?raw=true",
     "rating": 4.2,
     "totalListings": 11
   },
@@ -67,7 +67,7 @@
     "name": "غادة حسن العبدلي",
     "phone": "+966508889900",
     "email": "ghadah.a@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-008.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-008.png?raw=true",
     "rating": 4.9,
     "totalListings": 20
   },
@@ -76,7 +76,7 @@
     "name": "تركي مازن الدوسري",
     "phone": "+966509990011",
     "email": "turki.d@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-009.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-009.png?raw=true",
     "rating": 4.1,
     "totalListings": 9
   },
@@ -85,7 +85,7 @@
     "name": "نورة راشد الغامدي",
     "phone": "+966500110022",
     "email": "noura.g@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-010.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-010.png?raw=true",
     "rating": 4.6,
     "totalListings": 16
   },
@@ -94,7 +94,7 @@
     "name": "علي حسين النجدي",
     "phone": "+966500220033",
     "email": "ali.n@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-011.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-011.png?raw=true",
     "rating": 4.3,
     "totalListings": 8
   },
@@ -103,7 +103,7 @@
     "name": "ريم صالح البقمي",
     "phone": "+966500330044",
     "email": "reem.b@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-012.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-012.png?raw=true",
     "rating": 4.7,
     "totalListings": 14
   },
@@ -112,7 +112,7 @@
     "name": "ياسر ناصر السبيعي",
     "phone": "+966500440055",
     "email": "yasser.s@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-013.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-013.png?raw=true",
     "rating": 4.0,
     "totalListings": 7
   },
@@ -121,7 +121,7 @@
     "name": "جمانة طلال العُمري",
     "phone": "+966500550066",
     "email": "jumana.o@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-014.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-014.png?raw=true",
     "rating": 4.5,
     "totalListings": 13
   },
@@ -130,7 +130,7 @@
     "name": "سلمان تركي العبدالله",
     "phone": "+966500660077",
     "email": "salman.a@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-015.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-015.png?raw=true",
     "rating": 4.2,
     "totalListings": 9
   },
@@ -139,7 +139,7 @@
     "name": "هدى مازن العسيري",
     "phone": "+966500770088",
     "email": "huda.a@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-016.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-016.png?raw=true",
     "rating": 4.8,
     "totalListings": 19
   },
@@ -148,7 +148,7 @@
     "name": "زياد عبدالله الخالدي",
     "phone": "+966500880099",
     "email": "ziad.k@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-017.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-017.png?raw=true",
     "rating": 4.1,
     "totalListings": 6
   },
@@ -157,7 +157,7 @@
     "name": "ملاك سعد الجهني",
     "phone": "+966500990011",
     "email": "malak.j@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-018.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-018.png?raw=true",
     "rating": 4.6,
     "totalListings": 15
   },
@@ -166,7 +166,7 @@
     "name": "بندر يوسف الرشيدي",
     "phone": "+966500110133",
     "email": "bandar.r@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-019.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-019.png?raw=true",
     "rating": 3.9,
     "totalListings": 5
   },
@@ -175,7 +175,7 @@
     "name": "رغد عادل السلمي",
     "phone": "+966500120144",
     "email": "raghad.s@realestate.com",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/agents/agent-020.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/agents/agent-020.png?raw=true",
     "rating": 4.4,
     "totalListings": 11
   }

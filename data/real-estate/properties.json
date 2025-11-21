@@ -16,9 +16,9 @@
       "email": "ahmed.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-001-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-001-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-001-3.png?raw=true"
     ],
     "description": "فيلا فاخرة في حي راقي مع حديقة واسعة ومسبح خاص وجراج لثلاث سيارات",
     "features": [
@@ -46,12 +46,17 @@
       "email": "fatima.ali@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-002-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-002-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-002-3.png?raw=true"
     ],
     "description": "شقة حديثة مكتملة التشطيب في موقع ممتاز قريب من الشاطئ والمدارس",
-    "features": ["موقف سيارة", "مصعد", "نظام أمن", "شرفة واسعة"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "نظام أمن",
+      "شرفة واسعة"
+    ]
   },
   {
     "id": "property-003",
@@ -70,9 +75,9 @@
       "email": "khaled.abdullah@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-003-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-003-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-003-3.png?raw=true"
     ],
     "description": "مكتب تجاري فاخر في موقع استراتيجي مناسب للشركات والمؤسسات",
     "features": [
@@ -99,9 +104,9 @@
       "email": "sara.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-004-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-004-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-004-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر في أعلى الطابق مع إطلالة بانورامية على المدينة وتراس خاص",
     "features": [
@@ -129,11 +134,16 @@
       "email": "ali.hassan@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-005-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-005-2.png?raw=true"
     ],
     "description": "دوبلكس عائلي مريح بحديقة صغيرة وموقع هادئ",
-    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ كبير", "صالة واسعة"]
+    "features": [
+      "حديقة صغيرة",
+      "جراج لسيارتين",
+      "مطبخ كبير",
+      "صالة واسعة"
+    ]
   },
   {
     "id": "property-006",
@@ -152,12 +162,17 @@
       "email": "nora.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1579895117575-57114c2f208a?q=80&w=1164&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1675279200694-8529c73b1fd0?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1665249934445-1de680641f50?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-006-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-006-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-006-3.png?raw=true"
     ],
     "description": "شقة حديثة بإطلالة على البحر في موقع مميز",
-    "features": ["إطلالة على البحر", "موقف سيارة", "مصعد", "شرفة"]
+    "features": [
+      "إطلالة على البحر",
+      "موقف سيارة",
+      "مصعد",
+      "شرفة"
+    ]
   },
   {
     "id": "property-007",
@@ -176,9 +191,9 @@
       "email": "mahmoud.hassan@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1688653802629-5360086bf632?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1613553483056-c8cb4c5d2a7b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1621626802138-544f167e2c7f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-007-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-007-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-007-3.png?raw=true"
     ],
     "description": "فيلا كبيرة عائلية مع حديقة ومسبح ومساحات واسعة",
     "features": [
@@ -206,12 +221,17 @@
       "email": "youssef.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-008-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-008-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-008-3.png?raw=true"
     ],
     "description": "مكتب تجاري حديث في مبنى تجاري جديد",
-    "features": ["موقف سيارات", "نظام أمن", "إنترنت", "مكيف مركزي"]
+    "features": [
+      "موقف سيارات",
+      "نظام أمن",
+      "إنترنت",
+      "مكيف مركزي"
+    ]
   },
   {
     "id": "property-009",
@@ -230,12 +250,17 @@
       "email": "maryam.abdulrahman@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-009-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-009-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-009-3.png?raw=true"
     ],
     "description": "شقة جديدة في موقع مميز قريب من الحرم",
-    "features": ["موقف سيارة", "مصعد", "نظام أمن", "مطبخ مجهز"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "نظام أمن",
+      "مطبخ مجهز"
+    ]
   },
   {
     "id": "property-010",
@@ -254,12 +279,18 @@
       "email": "tariq.ali@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-010-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-010-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-010-3.png?raw=true"
     ],
     "description": "فيلا فاخرة في منطقة هادئة مع حديقة ومسبح ومساحات خضراء",
-    "features": ["مسبح", "حديقة واسعة", "جراج ثلاث سيارات", "مكتبة", "سطح"]
+    "features": [
+      "مسبح",
+      "حديقة واسعة",
+      "جراج ثلاث سيارات",
+      "مكتبة",
+      "سطح"
+    ]
   },
   {
     "id": "property-011",
@@ -278,11 +309,16 @@
       "email": "rania.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-011-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-011-2.png?raw=true"
     ],
     "description": "دوبلكس عائلي مريح في منطقة هادئة ومناسبة للعائلات",
-    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ مجهز", "صالة واسعة"]
+    "features": [
+      "حديقة صغيرة",
+      "جراج لسيارتين",
+      "مطبخ مجهز",
+      "صالة واسعة"
+    ]
   },
   {
     "id": "property-012",
@@ -301,9 +337,9 @@
       "email": "layla.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-012-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-012-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-012-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر بإطلالة مباشرة على البحر مع تراس كبير",
     "features": [
@@ -331,11 +367,16 @@
       "email": "saad.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-013-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-013-2.png?raw=true"
     ],
     "description": "شقة حديثة صغيرة مناسبة للعزاب والأزواج الشباب",
-    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مفتوح"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة",
+      "مطبخ مفتوح"
+    ]
   },
   {
     "id": "property-014",
@@ -354,9 +395,9 @@
       "email": "omar.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-014-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-014-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-014-3.png?raw=true"
     ],
     "description": "فيلا كبيرة فاخرة مع جميع وسائل الراحة والترفيه",
     "features": [
@@ -384,10 +425,15 @@
       "email": "dina.hassan@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-015-1.png?raw=true"
     ],
     "description": "مكتب تجاري صغير مناسب للشركات الناشئة",
-    "features": ["موقف سيارات", "نظام أمن", "إنترنت", "مكيف"]
+    "features": [
+      "موقف سيارات",
+      "نظام أمن",
+      "إنترنت",
+      "مكيف"
+    ]
   },
   {
     "id": "property-016",
@@ -406,11 +452,17 @@
       "email": "hesham.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-016-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-016-2.png?raw=true"
     ],
     "description": "شقة فاخرة في مجمع راقي مع خدمات متكاملة",
-    "features": ["مصعد", "نظام أمن", "صالة رياضية", "مسبح مشترك", "موقف سيارات"]
+    "features": [
+      "مصعد",
+      "نظام أمن",
+      "صالة رياضية",
+      "مسبح مشترك",
+      "موقف سيارات"
+    ]
   },
   {
     "id": "property-017",
@@ -429,11 +481,17 @@
       "email": "mazen.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-017-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-017-2.png?raw=true"
     ],
     "description": "دوبلكس كبير عائلي مع حديقة ومساحات واسعة",
-    "features": ["حديقة", "جراج ثلاث سيارات", "مطبخ كبير", "صالة واسعة", "سطح"]
+    "features": [
+      "حديقة",
+      "جراج ثلاث سيارات",
+      "مطبخ كبير",
+      "صالة واسعة",
+      "سطح"
+    ]
   },
   {
     "id": "property-018",
@@ -452,9 +510,9 @@
       "email": "nabil.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-018-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-018-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-018-3.png?raw=true"
     ],
     "description": "فيلا فاخرة مع جميع الخدمات والمرافق الحديثة",
     "features": [
@@ -482,8 +540,8 @@
       "email": "reem.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-019-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-019-2.png?raw=true"
     ],
     "description": "شقة بإطلالة مميزة على البحر في موقع ساحلي هادئ",
     "features": [
@@ -511,8 +569,8 @@
       "email": "kareem.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-020-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-020-2.png?raw=true"
     ],
     "description": "مكتب تجاري كبير مناسب للشركات الكبرى والمؤسسات",
     "features": [
@@ -540,9 +598,9 @@
       "email": "yasser.ali@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-021-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-021-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-021-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر بإطلالة بانورامية على المدينة مع تراس خاص",
     "features": [
@@ -570,10 +628,14 @@
       "email": "hind.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-022-1.png?raw=true"
     ],
     "description": "شقة صغيرة مناسبة للعزاب في منطقة هادئة",
-    "features": ["موقف سيارة", "مصعد", "شرفة صغيرة"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة صغيرة"
+    ]
   },
   {
     "id": "property-023",
@@ -592,9 +654,9 @@
       "email": "fadi.ali@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-023-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-023-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-023-3.png?raw=true"
     ],
     "description": "فيلا فاخرة مع حديقة ومسبح وإطلالة مميزة",
     "features": [
@@ -622,11 +684,16 @@
       "email": "amr.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-024-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-024-2.png?raw=true"
     ],
     "description": "دوبلكس عائلي مريح في منطقة آمنة وهادئة",
-    "features": ["حديقة صغيرة", "جراج لسيارتين", "مطبخ مجهز", "صالة واسعة"]
+    "features": [
+      "حديقة صغيرة",
+      "جراج لسيارتين",
+      "مطبخ مجهز",
+      "صالة واسعة"
+    ]
   },
   {
     "id": "property-025",
@@ -645,8 +712,8 @@
       "email": "bassam.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-025-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-025-2.png?raw=true"
     ],
     "description": "شقة فاخرة بإطلالة مباشرة على البحر في موقع مميز",
     "features": [
@@ -674,9 +741,9 @@
       "email": "walaa.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-026-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-026-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-026-3.png?raw=true"
     ],
     "description": "فيلا كبيرة جداً مع جميع المرافق والخدمات الفاخرة",
     "features": [
@@ -705,8 +772,8 @@
       "email": "tariq.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-027-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-027-2.png?raw=true"
     ],
     "description": "مكتب تجاري راقي في مبنى حديث مع خدمات متكاملة",
     "features": [
@@ -734,9 +801,9 @@
       "email": "rami.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-028-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-028-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-028-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر جداً بإطلالة مباشرة على البحر مع تراس كبير ومسبح خاص",
     "features": [
@@ -764,11 +831,17 @@
       "email": "nawaf.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-029-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-029-2.png?raw=true"
     ],
     "description": "شقة حديثة في مجمع جديد مع خدمات ومرافق متكاملة",
-    "features": ["موقف سيارة", "مصعد", "صالة رياضية", "مسبح مشترك", "نظام أمن"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "صالة رياضية",
+      "مسبح مشترك",
+      "نظام أمن"
+    ]
   },
   {
     "id": "property-030",
@@ -787,9 +860,9 @@
       "email": "sherif.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-030-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-030-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-030-3.png?raw=true"
     ],
     "description": "فيلا فاخرة في منطقة جبلية هادئة مع حديقة ومسبح وإطلالة خلابة",
     "features": [
@@ -817,11 +890,17 @@
       "email": "majed.hassan@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-031-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-031-2.png?raw=true"
     ],
     "description": "شقة مشرقة وواسعة في موقع مركزي مع خدمات متكاملة",
-    "features": ["موقف سيارة", "مصعد", "شرفة واسعة", "مطبخ مجهز", "نظام أمن"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة واسعة",
+      "مطبخ مجهز",
+      "نظام أمن"
+    ]
   },
   {
     "id": "property-032",
@@ -840,9 +919,9 @@
       "email": "waleed.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-032-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-032-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-032-3.png?raw=true"
     ],
     "description": "فيلا فاخرة مع حديقة كبيرة مزروعة بالأزهار ومسبح خاص",
     "features": [
@@ -870,8 +949,8 @@
       "email": "fadi.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-033-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-033-2.png?raw=true"
     ],
     "description": "مكتب تجاري حديث بتصميم عصري وخدمات متقدمة",
     "features": [
@@ -899,8 +978,8 @@
       "email": "abdullah.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-034-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-034-2.png?raw=true"
     ],
     "description": "دوبلكس فاخر مع حديقة ومساحات واسعة ومناسبة للعائلات الكبيرة",
     "features": [
@@ -928,8 +1007,8 @@
       "email": "samar.hassan@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-035-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-035-2.png?raw=true"
     ],
     "description": "شقة فاخرة بإطلالة مباشرة على البحر والكورنيش",
     "features": [
@@ -957,9 +1036,9 @@
       "email": "ihab.ali@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-036-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-036-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-036-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر بإطلالة خلابة على المدينة مع تراس خاص كبير",
     "features": [
@@ -987,9 +1066,9 @@
       "email": "hossam.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-037-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-037-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-037-3.png?raw=true"
     ],
     "description": "فيلا فاخرة مع حديقة واسعة تذكر بالواحة الخضراء ومسبح خاص",
     "features": [
@@ -1017,11 +1096,17 @@
       "email": "hind.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-038-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-038-2.png?raw=true"
     ],
     "description": "شقة حديثة في منطقة هادئة ومريحة قريب من الخدمات",
-    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مجهز", "نظام أمن"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة",
+      "مطبخ مجهز",
+      "نظام أمن"
+    ]
   },
   {
     "id": "property-039",
@@ -1040,8 +1125,8 @@
       "email": "rami.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-039-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-039-2.png?raw=true"
     ],
     "description": "مكتب تجاري فاخر بتصميم عصري مناسب للشركات الكبرى",
     "features": [
@@ -1069,8 +1154,8 @@
       "email": "marwa.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-040-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-040-2.png?raw=true"
     ],
     "description": "دوبلكس عائلي مريح مع حديقة صغيرة وموقع هادئ",
     "features": [
@@ -1098,10 +1183,15 @@
       "email": "khalil.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-041-1.png?raw=true"
     ],
     "description": "شقة صغيرة مناسبة للعزاب والأزواج في موقع مميز",
-    "features": ["موقف سيارة", "مصعد", "شرفة صغيرة", "مطبخ مفتوح"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة صغيرة",
+      "مطبخ مفتوح"
+    ]
   },
   {
     "id": "property-042",
@@ -1120,9 +1210,9 @@
       "email": "maher.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-042-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-042-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-042-3.png?raw=true"
     ],
     "description": "فيلا كبيرة جداً مع جميع المرافق الفاخرة والمساحات الواسعة",
     "features": [
@@ -1151,9 +1241,9 @@
       "email": "yassin.ali@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-043-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-043-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-043-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر جداً بإطلالة رائعة على البحر والسماء مع تراس كبير ومسبح خاص",
     "features": [
@@ -1182,8 +1272,8 @@
       "email": "abdulrahman.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-044-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-044-2.png?raw=true"
     ],
     "description": "شقة فاخرة في مجمع آمن مع خدمات ومرافق متكاملة",
     "features": [
@@ -1211,10 +1301,16 @@
       "email": "tariq.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-045-1.png?raw=true"
     ],
     "description": "مكتب تجاري صغير مناسب للشركات الصغيرة والناشئة",
-    "features": ["موقف سيارات", "نظام أمن", "إنترنت", "مكيف", "إضاءة ممتازة"]
+    "features": [
+      "موقف سيارات",
+      "نظام أمن",
+      "إنترنت",
+      "مكيف",
+      "إضاءة ممتازة"
+    ]
   },
   {
     "id": "property-046",
@@ -1233,9 +1329,9 @@
       "email": "samer.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-046-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-046-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-046-3.png?raw=true"
     ],
     "description": "فيلا فاخرة توفر أقصى درجات الراحة مع حديقة ومسبح ومساحات واسعة",
     "features": [
@@ -1264,8 +1360,8 @@
       "email": "omar.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-047-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-047-2.png?raw=true"
     ],
     "description": "دوبلكس كبير عائلي مع حديقة ومساحات واسعة ومناسبة للعائلات",
     "features": [
@@ -1294,11 +1390,17 @@
       "email": "nada.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-048-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-048-2.png?raw=true"
     ],
     "description": "شقة جميلة في منطقة هادئة مع خدمات قريبة",
-    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مجهز", "نظام أمن"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة",
+      "مطبخ مجهز",
+      "نظام أمن"
+    ]
   },
   {
     "id": "property-049",
@@ -1317,9 +1419,9 @@
       "email": "basem.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-049-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-049-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-049-3.png?raw=true"
     ],
     "description": "فيلا فاخرة مشرقة مع حديقة ومسبح ومساحات واسعة ومشرقة",
     "features": [
@@ -1348,8 +1450,8 @@
       "email": "mazen.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-050-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-050-2.png?raw=true"
     ],
     "description": "مكتب تجاري متوسط الحجم مناسب للشركات المتوسطة",
     "features": [
@@ -1377,8 +1479,8 @@
       "email": "reem.hassan@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-051-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-051-2.png?raw=true"
     ],
     "description": "شقة كبيرة مريحة في موقع مميز مع إطلالة جميلة",
     "features": [
@@ -1407,9 +1509,9 @@
       "email": "wissam.ali@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-052-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-052-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-052-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر جداً بإطلالة رائعة مع جميع وسائل الرفاهية",
     "features": [
@@ -1439,9 +1541,9 @@
       "email": "fadi.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-053-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-053-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-053-3.png?raw=true"
     ],
     "description": "فيلا كبيرة جداً مع جميع المرافق والخدمات الفاخرة",
     "features": [
@@ -1471,11 +1573,17 @@
       "email": "lamyaa.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-054-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-054-2.png?raw=true"
     ],
     "description": "شقة حديثة صغيرة في موقع هادئ ومناسب",
-    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مفتوح", "نظام أمن"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة",
+      "مطبخ مفتوح",
+      "نظام أمن"
+    ]
   },
   {
     "id": "property-055",
@@ -1494,8 +1602,8 @@
       "email": "abdullah.khaled@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-055-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-055-2.png?raw=true"
     ],
     "description": "دوبلكس عائلي مريح مع حديقة وموقع هادئ",
     "features": [
@@ -1523,8 +1631,8 @@
       "email": "marwan.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-056-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-056-2.png?raw=true"
     ],
     "description": "مكتب تجاري كبير مناسب للشركات الكبرى والمؤسسات",
     "features": [
@@ -1553,8 +1661,8 @@
       "email": "hanaa.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-057-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-057-2.png?raw=true"
     ],
     "description": "شقة فاخرة كبيرة في مجمع راقي مع خدمات ومرافق متكاملة",
     "features": [
@@ -1583,9 +1691,9 @@
       "email": "youssef.saeed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1679364297777-1db77b6199be?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-058-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-058-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-058-3.png?raw=true"
     ],
     "description": "فيلا كبيرة فاخرة مع حديقة ومسبح ومساحات واسعة وهادئة",
     "features": [
@@ -1614,9 +1722,9 @@
       "email": "tamer.mohammed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1762422410835-b3cb89469bee?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1724228319129-7cc33c9e8a2a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1668169064124-2e27339780d3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-059-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-059-2.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-059-3.png?raw=true"
     ],
     "description": "بنتهاوس فاخر جداً مع جميع وسائل الرفاهية والإطلالة الرائعة",
     "features": [
@@ -1645,10 +1753,16 @@
       "email": "kareem.ahmed@realestate.com"
     },
     "images": [
-      "https://images.unsplash.com/photo-1460317442991-0ec209397118?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-060-1.png?raw=true",
+      "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/real-estate/properties/property-060-2.png?raw=true"
     ],
     "description": "شقة صغيرة مريحة في موقع مركزي مع خدمات قريبة",
-    "features": ["موقف سيارة", "مصعد", "شرفة", "مطبخ مفتوح", "نظام أمن"]
+    "features": [
+      "موقف سيارة",
+      "مصعد",
+      "شرفة",
+      "مطبخ مفتوح",
+      "نظام أمن"
+    ]
   }
 ]

@@ -6,7 +6,7 @@
     "price": 720.00,
     "stock": 25,
     "description": "مكتب حديث بسطح خشبي مقاوم للخدوش وهيكل معدني أسود مع منافذ لإدارة الكابلات.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-001.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-001.png?raw=true"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "price": 495.50,
     "stock": 40,
     "description": "كرسي دوّار مع مسند رأس قابل للتعديل ودعم قطني مدمج لتخفيف الضغط أثناء العمل الطويل.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-002.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-002.png?raw=true"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "price": 310.75,
     "stock": 35,
     "description": "خزانة أدراج بمقابض مدمجة وقفل مركزي لتأمين المستندات والأدوات المكتبية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-003.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-003.png?raw=true"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "price": 58.40,
     "stock": 90,
     "description": "منظم بلاستيكي دوّار بثمانية أقسام لحفظ الأقلام والمقصات والمشابك في متناول اليد.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-004.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-004.png?raw=true"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "price": 165.30,
     "stock": 70,
     "description": "مصباح بإضاءة قابلة للتعتيم وذراع مرن لتوجيه الضوء مع منفذ USB لشحن الأجهزة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-005.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-005.png?raw=true"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "price": 420.90,
     "stock": 30,
     "description": "سبورة زجاجية بسطح لامع للكتابة الجافة مع إمكانية تثبيت الملاحظات باستخدام مغناطيسات.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-006.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-006.png?raw=true"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "price": 145.80,
     "stock": 85,
     "description": "قاعدة شاشة خشبية ترفع مستوى العرض وتشمل درجًا صغيرًا لتخزين الأدوات اليومية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-007.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-007.png?raw=true"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "price": 880.00,
     "stock": 28,
     "description": "طابعة نافثة للحبر تطبع، تنسخ، وتفحص مع اتصال لاسلكي ودعم الطباعة من الهاتف.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-008.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-008.png?raw=true"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "price": 96.20,
     "stock": 120,
     "description": "مجموعة تشمل دباسة، ثقّاب ورق، مقص، ومشابك مع علبة تخزين أنيقة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-009.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-009.png?raw=true"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "price": 210.45,
     "stock": 60,
     "description": "سجادة مصنوعة من رغوة عالية الكثافة تدعم الوقوف الطويل أمام المكتب القابل للارتفاع.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-010.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-010.png?raw=true"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "price": 52.90,
     "stock": 140,
     "description": "موزع معدني ثقيل يحافظ على الشريط ثابتًا مع شفرة حادة لقص دقيق ويد واحدة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-011.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-011.png?raw=true"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "price": 88.60,
     "stock": 150,
     "description": "دفتر حجم A5 بغلاف جلدي ناعم وصفحات كريمية بخطوط خفيفة لتدوين الأفكار اليومية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-012.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-012.png?raw=true"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "price": 64.75,
     "stock": 130,
     "description": "منظم صغير بأشرطة مغناطيسية يثبت على سطح المكتب للحفاظ على الكابلات مرتبة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-013.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-013.png?raw=true"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "price": 248.10,
     "stock": 75,
     "description": "حامل ألمنيوم خفيف يوفر زوايا متعددة للعرض ويضم منافذ تهوية لتبريد الجهاز.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-014.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-014.png?raw=true"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "price": 118.35,
     "stock": 100,
     "description": "لوحة جدارية بسطح أبيض ومربعات للأيام مع أقلام ملونة وممحاة مغناطيسية لتخطيط المهام.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-015.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-015.png?raw=true"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "price": 78.20,
     "stock": 140,
     "description": "سلة بلاستيكية صغيرة بغطاء متأرجح تمنع انتشار الروائح وتناسب تحت المكتب.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-016.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-016.png?raw=true"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "price": 1120.50,
     "stock": 18,
     "description": "طاولة واسعة يمكن طيها وتخزينها بسهولة مع عجلات قفل للاجتماعات المرنة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-017.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-017.png?raw=true"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "price": 64.30,
     "stock": 160,
     "description": "لوحة ماوس مطاطية مع دعم جل للمعصم يقلل الضغط أثناء استخدام الحاسوب لفترات طويلة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-018.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-018.png?raw=true"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "price": 540.90,
     "stock": 35,
     "description": "مكبر صوت وميكروفون 360 درجة لاتصالات الفيديو مع كابل USB-C وحقيبة حمل.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-019.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-019.png?raw=true"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "price": 95.40,
     "stock": 120,
     "description": "مقسم معدني بقاعدة ثقيلة وأربعة أقسام لترتيب الملفات والمجلات على الطاولة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-020.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-020.png?raw=true"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "price": 690.30,
     "stock": 22,
     "description": "خزانة خشبية بأربعة رفوف قابلة للتعديل لعرض الكتب والملفات والمقتنيات.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-021.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-021.png?raw=true"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "price": 62.80,
     "stock": 150,
     "description": "لوحة فلين مع إطار خشبي ومجموعة دبابيس ملونة لتثبيت الملاحظات والصور.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-022.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-022.png?raw=true"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "price": 34.90,
     "stock": 210,
     "description": "وعاء صغير بغطاء مغناطيسي يجمع المشابك ويوفرها بسهولة عند الحاجة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-023.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-023.png?raw=true"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "price": 225.70,
     "stock": 65,
     "description": "حقيبة قماشية بجيوب متعددة وحزام كتف مبطن لحماية نقل الأجهزة المحمولة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-024.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-024.png?raw=true"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "price": 52.60,
     "stock": 180,
     "description": "حامل هاتف بزوايا قابلة للتعديل وقاعدة مطاطية مانعة للانزلاق للمكالمات والاجتماعات.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-025.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-025.png?raw=true"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "price": 109.80,
     "stock": 90,
     "description": "منظم بثلاثة مستويات من الشبك المعدني لحفظ المستندات والأوراق المهمة داخل الدرج.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-026.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-026.png?raw=true"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "price": 420.40,
     "stock": 30,
     "description": "آلة تمزيق تقطع المستندات إلى شرائح رفيعة مع حاوية بسعة 15 لتر وحماية من الحرارة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-027.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-027.png?raw=true"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "price": 64.15,
     "stock": 160,
     "description": "مجموعة أقلام حبر جل ناعمة الألوان مع قبضة مطاطية للكتابة اليومية والرسم التخطيطي.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-028.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-028.png?raw=true"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "price": 138.90,
     "stock": 85,
     "description": "ساعة رقمية تعرض التاريخ ودرجة الحرارة وتتضمن منبهًا مزدوجًا مع بطاريات احتياطية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-029.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-029.png?raw=true"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "price": 275.80,
     "stock": 55,
     "description": "لوحة مفاتيح مضغوطة باتصال بلوتوث ويدوم شحنها حتى شهر كامل.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-030.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-030.png?raw=true"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "price": 155.60,
     "stock": 70,
     "description": "وسادة ظهر تدعم منطقة أسفل الظهر بغطاء قابل للإزالة والتهوية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-031.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-031.png?raw=true"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "price": 385.00,
     "stock": 28,
     "description": "وحدة تخزين جانبية بثلاثة أدراج وعجلات يمكن تحريكها بسهولة إلى جانب المكتب الرئيسي.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-032.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-032.png?raw=true"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "price": 72.50,
     "stock": 125,
     "description": "حامل مستندات قابل للطي مع مشبك علوي يثبت الأوراق بزاوية مريحة للقراءة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-033.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-033.png?raw=true"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "price": 88.20,
     "stock": 140,
     "description": "صندوق أرشفة من الورق المقوى مع فتحة لليد وشرائط تسمية لتحديد المحتوى بسهولة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-034.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-034.png?raw=true"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "price": 175.40,
     "stock": 65,
     "description": "مسند قدم قابل للتعديل بثلاث مستويات يخفف الضغط عن الركبتين أثناء الجلوس الطويل.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-035.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-035.png?raw=true"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "price": 56.90,
     "stock": 150,
     "description": "موزع مناديل بتصميم خشبي بسيط يحافظ على المناديل في المكتب بشكل أنيق.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-036.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-036.png?raw=true"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "price": 220.60,
     "stock": 58,
     "description": "لوحة موس كبيرة مع منطقة شحن لاسلكية 10 واط للأجهزة المتوافقة ودعم للأوضاع المتعددة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-037.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-037.png?raw=true"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "price": 47.30,
     "stock": 190,
     "description": "حامل نحيف يستوعب حتى 50 بطاقة أعمال بلمسة معدنية مصقولة لسطح المكتب.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-038.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-038.png?raw=true"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "price": 126.90,
     "stock": 75,
     "description": "منبه يعرض الوقت والإنذار ويعمل كمصباح ليلي خافت مع خيارات سطوع متعددة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-039.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-039.png?raw=true"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "price": 88.50,
     "stock": 130,
     "description": "لوحة معدنية تثبت أسفل المكتب لتنظيم وحدات الطاقة والكابلات بعيداً عن الأقدام.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/office/office-040.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/office/office-040.png?raw=true"
   }
 ]
 

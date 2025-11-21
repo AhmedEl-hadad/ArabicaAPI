@@ -6,7 +6,7 @@
     "price": 429.90,
     "stock": 65,
     "description": "سماعات بلوتوث بخاصية إلغاء الضوضاء النشطة ووقت تشغيل يصل إلى 30 ساعة مع شحن سريع.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-001.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-001.png?raw=true"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "price": 2399.00,
     "stock": 40,
     "description": "هاتف بمعالج ثماني النواة وذاكرة 128 جيجابايت وكاميرا ثلاثية بدقة 50 ميجابكسل.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-002.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-002.png?raw=true"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "price": 3299.50,
     "stock": 25,
     "description": "لابتوب بمعالج Intel i7 من الجيل 12، ذاكرة 16 جيجابايت، وقرص SSD بسعة 512 جيجابايت مع بطارية تدوم 12 ساعة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-003.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-003.png?raw=true"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "price": 765.75,
     "stock": 70,
     "description": "ساعة مقاومة للماء تتابع معدل ضربات القلب والنوم وتدعم إشعارات الهاتف مع بطارية لمدة أسبوع.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-004.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-004.png?raw=true"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "price": 1495.00,
     "stock": 55,
     "description": "جهاز لوحي بخاصية القلم الذكي وواجهة أطفال مخصصة وذاكرة 64 جيجابايت قابلة للتوسيع.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-005.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-005.png?raw=true"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "price": 980.60,
     "stock": 45,
     "description": "كاميرا صغيرة تصور بدقة 4K مع مثبت بصري وملحقات تثبيت للخوذة ولوحة التحكم.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-006.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-006.png?raw=true"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "price": 650.40,
     "stock": 80,
     "description": "مكبر صوت يدعم المساعد الصوتي ويدمج بلوتوث وواي فاي ويقدم صوت 360 درجة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-007.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-007.png?raw=true"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "price": 399.95,
     "stock": 90,
     "description": "راوتر بسرعة قصوى 3000 ميجابت/ث يضم أربعة هوائيات وتقنيات حماية متقدمة للشبكة المنزلية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-008.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-008.png?raw=true"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "price": 1120.80,
     "stock": 50,
     "description": "طابعة تطبع وتنسخ وتفحص بالأبيض والأسود مع اتصال لاسلكي ودعم للطباعة السحابية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-009.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-009.png?raw=true"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "price": 1899.00,
     "stock": 35,
     "description": "شاشة IPS بدقة QHD ومعدل تحديث 165 هرتز مع تقنية FreeSync ولوحة ألوان واسعة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-010.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-010.png?raw=true"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "price": 355.20,
     "stock": 120,
     "description": "قرص صلب محمول بواجهة USB-C متوافق مع أنظمة ويندوز وماك ويتميز بغطاء مقاوم للصدمات.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-011.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-011.png?raw=true"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "price": 465.70,
     "stock": 75,
     "description": "لوحة مفاتيح بإضاءة RGB مخصصة ومفاتيح خطية هادئة مع إطار ألمنيوم قوي ودعم برمجة الماكرو.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-012.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-012.png?raw=true"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "price": 325.60,
     "stock": 85,
     "description": "فأرة ألعاب استشعار بصري عالي الدقة مع أزرار جانبية قابلة للبرمجة ووزن قابل للتعديل.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-013.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-013.png?raw=true"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "price": 279.40,
     "stock": 140,
     "description": "باور بانك يدعم الشحن السريع PD وQC مع منفذي USB-C وشاشة لعرض مستوى الطاقة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-014.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-014.png?raw=true"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "price": 560.10,
     "stock": 45,
     "description": "ميكروفون مكثّف بفلتر بوب وحامل متين يقدم تسجيلًا نقيًا للبث المباشر والبودكاست.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-015.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-015.png?raw=true"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "price": 485.90,
     "stock": 60,
     "description": "سبيكر بلوتوث بقدرة 40 واط وتصنيف IP67 مع إضاءة تفاعلية ومدة تشغيل 18 ساعة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-016.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-016.png?raw=true"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "price": 310.40,
     "stock": 85,
     "description": "محور بسبعة منافذ يتضمن HDMI 4K وقارئ بطاقات وشحن 100 واط لأجهزة اللابتوب الحديثة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-017.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-017.png?raw=true"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "price": 620.75,
     "stock": 50,
     "description": "مشغل بث يدعم Dolby Vision ويدمج مساعداً صوتياً مع وحدة تحكم عن بعد بإضاءة خلفية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-018.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-018.png?raw=true"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "price": 235.80,
     "stock": 90,
     "description": "ميزان يتصل بالتطبيق عبر البلوتوث لقياس الوزن والدهون العضلية ومتابعة المؤشرات الحيوية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-019.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-019.png?raw=true"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "price": 975.20,
     "stock": 42,
     "description": "منقي هواء يغطي حتى 60 متر مربع بثلاث طبقات ترشيح ووضع نوم هادئ بلمسة واحدة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-020.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-020.png?raw=true"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "price": 1890.00,
     "stock": 28,
     "description": "بروجكتور صغير يدعم تصوير Full HD مع مكبر مدمج وبطارية تكفي لعرض فيلمين متتاليين.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-021.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-021.png?raw=true"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "price": 1420.50,
     "stock": 35,
     "description": "لوح بمساحة 13 إنش وقلم حساس لـ8192 مستوى ضغط مع أزرار اختصار قابلة للبرمجة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-022.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-022.png?raw=true"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "price": 360.60,
     "stock": 75,
     "description": "كاميرا بدقة 2K تدور 360 درجة مع رؤية ليلية ملوّنة وتخزين سحابي مشفر.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-023.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-023.png?raw=true"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "price": 285.30,
     "stock": 110,
     "description": "لوحة تشحن الهاتف والساعة والسماعات في آن واحد مع نظام حماية حراري.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-024.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-024.png?raw=true"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "price": 215.90,
     "stock": 95,
     "description": "مبرد مغناطيسي بمروحة صامتة وإضاءة RGB يحافظ على درجة حرارة الهاتف أثناء اللعب المكثف.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-025.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-025.png?raw=true"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "price": 540.40,
     "stock": 38,
     "description": "ذراع مكتب يدعم شاشتين حتى 32 إنش بآلية هيدروليكية لتعديل الارتفاع والميل بسهولة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-026.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-026.png?raw=true"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "price": 1680.00,
     "stock": 20,
     "description": "واجهة صوتية تجمع قنوات ميكروفون وتأثيرات فورية وبث مباشر عبر USB-C.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-027.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-027.png?raw=true"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "price": 155.75,
     "stock": 150,
     "description": "جهاز صغير يعمل بالبلوتوث والـGPS لتتبع الحقائب والمفاتيح مع تنبيهات ذكية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-028.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-028.png?raw=true"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "price": 225.10,
     "stock": 80,
     "description": "مستشعر يرسل إشعارات إلى الهاتف عند فتح الأبواب أو النوافذ ويتكامل مع أنظمة المنازل الذكية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-029.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-029.png?raw=true"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "price": 360.80,
     "stock": 70,
     "description": "سماعات أذن مقاومة للعرق بخطافات أذن ثابتة وبطارية 10 ساعات مع شحن سريع.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-030.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-030.png?raw=true"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "price": 890.30,
     "stock": 32,
     "description": "محطة إرساء توفر منافذ DisplayPort وشبكة سلكية وUSB-A عبر اتصال USB-C واحد.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-031.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-031.png?raw=true"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "price": 620.00,
     "stock": 58,
     "description": "قارئ بشاشة حبر إلكتروني 7 إنش مع إضاءة قابلة للتعديل وسعة تخزين 32 جيجابايت.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-032.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-032.png?raw=true"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "price": 345.60,
     "stock": 88,
     "description": "يد تحكم متوافقة مع أندرويد وiOS تدعم البلوتوث والاتصال السلكي مع أزرار قابلة للبرمجة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-033.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-033.png?raw=true"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "price": 295.40,
     "stock": 120,
     "description": "كاميرا ويب تدعم HDR وميكروفون مزدوج وتأتي مع غطاء منزلق لحماية الخصوصية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-034.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-034.png?raw=true"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "price": 210.15,
     "stock": 140,
     "description": "قارئ USB-C لبطاقات الصوت الاحترافية يتيح نقل التسجيلات من الأجهزة المحمولة بسرعة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-035.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-035.png?raw=true"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "price": 275.80,
     "stock": 105,
     "description": "شاحن Qi للسيارة يفتح ويغلق تلقائياً ويشحن بسرعة 15 واط مع ذراع قابل للتدوير.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-036.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-036.png?raw=true"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "price": 182.90,
     "stock": 115,
     "description": "جهاز صغير يربط الأضواء العادية بالواي فاي للتحكم بها عبر التطبيق أو الأوامر الصوتية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-037.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-037.png?raw=true"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "price": 415.70,
     "stock": 68,
     "description": "مكبر صوت صغير بصوت استريو وقاعدة شحن لاسلكية مدمجة للهواتف المتوافقة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-038.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-038.png?raw=true"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "price": 2299.50,
     "stock": 22,
     "description": "سماعة VR مستقلة بمعالج مدمج وشاشات 120 هرتز ومستشعرات تتبع يدوي متقدمة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-039.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-039.png?raw=true"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "price": 1780.00,
     "stock": 30,
     "description": "روبوت مكنسة ومسح بالليزر يرسم خريطة المنزل ويدعم الجدولة عبر التطبيق والتحكم الصوتي.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/electronics/electronics-040.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/electronics/electronics-040.png?raw=true"
   }
 ]
 

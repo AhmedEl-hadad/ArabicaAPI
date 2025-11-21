@@ -6,7 +6,7 @@
     "price": 249.90,
     "stock": 35,
     "description": "ساعة يد أنيقة بحزام جلدي بني ومينا فضية مقاومة للماء حتى 30 متر.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-001.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-001.png?raw=true"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "price": 179.50,
     "stock": 50,
     "description": "نظارات شمسية بتصميم مستطيل وعدسات تحجب الأشعة فوق البنفسجية بنسبة 100٪.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-002.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-002.png?raw=true"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "price": 95.75,
     "stock": 60,
     "description": "سوار معدني مطلي بالذهب مع قفل مغناطيسي يناسب الإطلالات اليومية والرسمية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-003.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-003.png?raw=true"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "price": 320.00,
     "stock": 28,
     "description": "حقيبة كتف صغيرة مصنوعة من الجلد الطبيعي مع جيب داخلي بسحاب.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-004.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-004.png?raw=true"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "price": 65.30,
     "stock": 45,
     "description": "قبعة واسعة الحواف من القش الطبيعي لحماية مثالية من الشمس أثناء السفر.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-005.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-005.png?raw=true"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "price": 89.90,
     "stock": 80,
     "description": "محفظة جلدية نحيفة بستة فتحات للبطاقات وجيب مركزي للأوراق النقدية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-006.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-006.png?raw=true"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "price": 140.40,
     "stock": 40,
     "description": "سلسلة فضية مزينة بحجر طبيعي أزرق تضفي لمسة أنيقة على أي إطلالة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-007.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-007.png?raw=true"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "price": 34.99,
     "stock": 120,
     "description": "عصابة رأس ناعمة من القطن المزخرف بألوان زاهية تثبت الشعر براحة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-008.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-008.png?raw=true"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "price": 55.60,
     "stock": 75,
     "description": "أقراط دائرية مطلية بالذهب المقاوم للخدش مع إغلاق آمن.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-009.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-009.png?raw=true"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "price": 110.00,
     "stock": 55,
     "description": "حزام جلد طبيعي بقطعة معدنية أنيقة قابل للتعديل ليتناسب مع معظم المقاسات.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-010.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-010.png?raw=true"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "price": 49.80,
     "stock": 90,
     "description": "قفازات محبوكة بطبقة داخلية دافئة مع أطراف متوافقة مع شاشات اللمس.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-011.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-011.png?raw=true"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "price": 130.25,
     "stock": 38,
     "description": "وشاح حريري فاخر بطبعات فنية يمكن ارتداؤه بعدة طرق.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-012.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-012.png?raw=true"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "price": 210.70,
     "stock": 65,
     "description": "سماعة بلوتوث بحجم صغير وصوت قوي مع إمكانية الاتصال بجهازين.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-013.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-013.png?raw=true"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "price": 39.95,
     "stock": 150,
     "description": "غطاء هاتف شفاف مع حواف معززة للحماية من الصدمات والخدوش.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-014.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-014.png?raw=true"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "price": 29.50,
     "stock": 85,
     "description": "حاملة مفاتيح مدمجة من الجلد مع خطاف معدني قوي وتفاصيل محفورة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-015.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-015.png?raw=true"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "price": 58.40,
     "stock": 95,
     "description": "مشبك شعر معدني مزين بصفين من اللآلئ الصناعية لتثبيت أنيق.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-016.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-016.png?raw=true"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "price": 42.75,
     "stock": 110,
     "description": "محفظة صغيرة من الجلد النباتي مع سحاب معدني وجيب للبطاقات.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-017.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-017.png?raw=true"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "price": 33.20,
     "stock": 140,
     "description": "سوار مطاطي مزين بخرز زجاجي لامع بألوان صيفية مبهجة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-018.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-018.png?raw=true"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "price": 185.90,
     "stock": 42,
     "description": "حقيبة ظهر خفيفة من قماش مقاوم للماء مع جيوب متعددة وتنظيم داخلي.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-019.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-019.png?raw=true"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "price": 72.60,
     "stock": 70,
     "description": "عقد تشوكر من المخمل الأسود مع تعليقة صغيرة مطلية بالذهب.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-020.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-020.png?raw=true"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "price": 120.80,
     "stock": 58,
     "description": "نظارة قراءة بإطار بلاستيكي خفيف وعدسات مقاومة للخدش بدرجة 1.5.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-021.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-021.png?raw=true"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "price": 88.10,
     "stock": 64,
     "description": "حزام خصر من القماش المنسوج يمكن ارتداؤه على الوجهين مع إبزيم معدني.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-022.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-022.png?raw=true"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "price": 134.45,
     "stock": 37,
     "description": "محفظة سفر جلدية مع جيب لجواز السفر وخانات للبطاقات وقلم معدني صغير.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-023.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-023.png?raw=true"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "price": 24.30,
     "stock": 160,
     "description": "سلسلة مفاتيح خشبية محفورة يدوياً مع حلقة معدنية قوية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-024.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-024.png?raw=true"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "price": 155.75,
     "stock": 33,
     "description": "أزرار أكمام من الفولاذ المصقول بتصميم هندسي يناسب القمصان الرسمية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-025.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-025.png?raw=true"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "price": 44.80,
     "stock": 115,
     "description": "عقال مرن مصنوع من ألياف ماصة للعرق مناسب للتمارين والجري.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-026.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-026.png?raw=true"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "price": 170.20,
     "stock": 48,
     "description": "وشاح صوفي طويل بنقشة مربعات دافئة مع أطراف مزخرفة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-027.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-027.png?raw=true"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "price": 99.15,
     "stock": 90,
     "description": "جراب سماعات لاسلكية من الجلد الطبيعي مع حلقة للتعليق على الحقائب.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-028.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-028.png?raw=true"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "price": 27.60,
     "stock": 180,
     "description": "رباط شعر مخملي ناعم لا يعلق بالشعر ومثالي للتسريحات اليومية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-029.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-029.png?raw=true"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "price": 310.00,
     "stock": 52,
     "description": "سوار ذكي مقاوم للماء يقيس الخطوات ومعدل نبض القلب مع إشعارات هاتفية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-030.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-030.png?raw=true"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "price": 145.30,
     "stock": 76,
     "description": "محفظة ألومنيوم تحجب موجات RFID وتدفع البطاقات بآلية انزلاق.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-031.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-031.png?raw=true"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "price": 118.90,
     "stock": 68,
     "description": "أقراط على شكل قطرة مرصعة بكريستالات لامعة مع قفل آمن.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-032.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-032.png?raw=true"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "price": 199.40,
     "stock": 44,
     "description": "حقيبة خصر قابلة للتعديل مصنوعة من جلد نباتي مع جيوب خفية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-033.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-033.png?raw=true"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "price": 60.55,
     "stock": 97,
     "description": "مشبك ربطة عنق معدني باللون الفضي مع تصميم مخطط بسيط.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-034.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-034.png?raw=true"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "price": 18.90,
     "stock": 210,
     "description": "حافظة بلاستيكية شفافة مع سلسلة قابلة للفصل لبطاقات النقل والعمل.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-035.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-035.png?raw=true"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "price": 82.70,
     "stock": 84,
     "description": "خاتم فضة استرليني بتصميم مفتوح يسمح بضبط المقاس بسهولة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-036.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-036.png?raw=true"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "price": 95.20,
     "stock": 72,
     "description": "نظارة سباحة بأحزمة سيليكون وغطاء واقٍ للعدسات مضاد للضباب.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-037.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-037.png?raw=true"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "price": 136.85,
     "stock": 53,
     "description": "عقد طويل من السلسلة الذهبية مع تعليقة على شكل ورقة محفورة.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-038.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-038.png?raw=true"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "price": 77.40,
     "stock": 130,
     "description": "سوار سيليكون للساعة الذكية بفتحات تهوية وإبزيم مقاوم للصدأ.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-039.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-039.png?raw=true"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "price": 158.60,
     "stock": 41,
     "description": "محفظة يد منسوجة من خيوط القطن الملونة مع بطانة داخلية قطنية.",
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/accessories/accessory-040.png"
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/ecommerce/accessories/accessory-040.png?raw=true"
   }
 ]
 

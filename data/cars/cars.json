@@ -11,7 +11,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.6,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-001.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-001.png?raw=true",
     "description": "سيارة سيدان فاخرة تتميز بالراحة والأمان والتقنيات الحديثة"
   },
   {
@@ -26,7 +26,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.8,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-002.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-002.png?raw=true",
     "description": "سيارة ألمانية فاخرة تجمع بين الأناقة والأداء العالي"
   },
   {
@@ -41,7 +41,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.7,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-003.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-003.png?raw=true",
     "description": "سيارة دفع رباعي رياضية بأداء قوي وتصميم عصري"
   },
   {
@@ -56,7 +56,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.6,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-004.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-004.png?raw=true",
     "description": "سيارة SUV فاخرة بسبعة مقاعد وتقنيات متقدمة"
   },
   {
@@ -71,7 +71,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.5,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-005.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-005.png?raw=true",
     "description": "سيارة سيدان موثوقة بتصميم عصري واقتصاد في استهلاك الوقود"
   },
   {
@@ -86,7 +86,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.7,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-006.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-006.png?raw=true",
     "description": "سيارة دفع رباعي قوية مناسبة للطرق الوعرة والرحلات الطويلة"
   },
   {
@@ -101,7 +101,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.4,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-007.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-007.png?raw=true",
     "description": "سيارة سيدان عملية بتصميم حديث وتقنيات متقدمة"
   },
   {
@@ -116,7 +116,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.5,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-008.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-008.png?raw=true",
     "description": "سيارة SUV متوسطة الحجم بسبعة مقاعد وتصميم عصري"
   },
   {
@@ -131,7 +131,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.8,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-009.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-009.png?raw=true",
     "description": "سيارة SUV فاخرة بتقنية هايبرد ورفاهية عالية"
   },
   {
@@ -146,7 +146,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "كهرباء",
     "rating": 4.7,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-010.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-010.png?raw=true",
     "description": "سيارة كهربائية عالية الأداء بتقنيات متطورة ونظام قيادة ذاتي"
   },
   {
@@ -161,7 +161,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.4,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-011.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-011.png?raw=true",
     "description": "سيارة SUV أمريكية كبيرة بسبعة مقاعد وقوة دفع عالية"
   },
   {
@@ -176,7 +176,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.6,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-012.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-012.png?raw=true",
     "description": "شاحنة بيك أب قوية مناسبة للعمل والاستخدام اليومي"
   },
   {
@@ -191,7 +191,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.5,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-013.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-013.png?raw=true",
     "description": "سيارة SUV كبيرة فاخرة بثمانية مقاعد وأداء قوي"
   },
   {
@@ -206,7 +206,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.6,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-014.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-014.png?raw=true",
     "description": "سيارة دفع رباعي كلاسيكية بقدرة فائقة على الطرق الوعرة"
   },
   {
@@ -221,7 +221,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.9,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-015.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-015.png?raw=true",
     "description": "سيارة SUV فاخرة بريطانية بتصميم أنيق ورفاهية لا مثيل لها"
   },
   {
@@ -236,7 +236,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.8,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-016.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-016.png?raw=true",
     "description": "سيارة SUV رياضية بأداء استثنائي وتصميم مميز"
   },
   {
@@ -251,7 +251,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.4,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-017.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-017.png?raw=true",
     "description": "سيارة سيدان ألمانية بتصميم كلاسيكي وأداء موثوق"
   },
   {
@@ -266,7 +266,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.5,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-018.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-018.png?raw=true",
     "description": "سيارة SUV يابانية بتصميم جذاب واقتصاد في الوقود"
   },
   {
@@ -281,7 +281,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.5,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-019.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-019.png?raw=true",
     "description": "سيارة SUV بتقنية الدفع الرباعي الكامل وراحة عالية"
   },
   {
@@ -296,7 +296,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.7,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-020.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-020.png?raw=true",
     "description": "سيارة دفع رباعي موثوقة مناسبة للمغامرات والاستخدام اليومي"
   },
   {
@@ -311,7 +311,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.4,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-021.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-021.png?raw=true",
     "description": "سيارة سيدان متوسطة الحجم بتصميم عصري وتقنيات متقدمة"
   },
   {
@@ -326,7 +326,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.5,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-022.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-022.png?raw=true",
     "description": "سيارة SUV كبيرة بسبعة مقاعد وتصميم عصري"
   },
   {
@@ -341,7 +341,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.8,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-023.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-023.png?raw=true",
     "description": "سيارة سيدان فاخرة بتصميم أنيق وتقنيات مبتكرة"
   },
   {
@@ -356,7 +356,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.7,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-024.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-024.png?raw=true",
     "description": "سيارة سيدان رياضية بأداء عالي وتصميم ديناميكي"
   },
   {
@@ -371,7 +371,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.6,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-025.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-025.png?raw=true",
     "description": "سيارة سيدان ألمانية بتقنيات متقدمة وتصميم عصري"
   },
   {
@@ -386,7 +386,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "كهرباء",
     "rating": 4.8,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-026.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-026.png?raw=true",
     "description": "سيارة كهربائية SUV بمدى طويل وتقنيات متطورة"
   },
   {
@@ -401,7 +401,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.6,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-027.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-027.png?raw=true",
     "description": "سيارة SUV هايبرد موثوقة واقتصادية في استهلاك الوقود"
   },
   {
@@ -416,7 +416,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.5,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-028.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-028.png?raw=true",
     "description": "سيارة سيدان عائلية بتصميم عصري وراحة عالية"
   },
   {
@@ -431,7 +431,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.7,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-029.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-029.png?raw=true",
     "description": "سيارة سيدان فاخرة بتقنية هايبرد ورفاهية استثنائية"
   },
   {
@@ -446,7 +446,7 @@
     "transmission": "أوتوماتيكي",
     "fuel": "بنزين",
     "rating": 4.3,
-    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/cars/car-030.png",
+    "image": "https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/cars/car-030.png?raw=true",
     "description": "سيارة هاتشباك عملية ومناسبة للمدينة بتصميم عصري"
   }
 ]
