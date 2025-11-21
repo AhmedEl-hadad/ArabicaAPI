@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/electronics.json
-Approximate images needed: ~40 device renders
-Naming pattern: electronics-001.png - electronics-040.png
-Notes:
-- Single angled hero image per device.
-- Ensure reflections/backgrounds stay consistent.
-- Reused by `all-products`.
-
-

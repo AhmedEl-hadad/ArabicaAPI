@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/all-products.json
-Approximate images needed: ~1,920 files (480 thumbnails + ~1,440 gallery shots)
-Naming pattern: <category>/<slug>-001.png etc.
-Notes:
-- Each product reuses the same base asset for thumbnail + gallery.
-- Organize actual PNGs inside the matching category folder below.
-- Ensure every item has 1 thumbnail plus at least 3 gallery frames.
-
-

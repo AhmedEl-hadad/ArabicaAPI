@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/beauty.json
-Approximate images needed: ~40 product shots
-Naming pattern: beauty-001.png - beauty-040.png
-Notes:
-- Bottle/jar renders with even lighting.
-- IDs align with filenames for quick lookup.
-- Shared with aggregated catalog.
-
-

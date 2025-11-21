@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/sports.json
-Approximate images needed: ~40 gear shots
-Naming pattern: sports-001.png - sports-040.png
-Notes:
-- Capture full product with minimal props.
-- One PNG per item referencing the dataset `id`.
-- Shared between category + all-products.
-
-

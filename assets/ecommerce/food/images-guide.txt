@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/food.json
-Approximate images needed: ~40 food images
-Naming pattern: food-001.png - food-040.png
-Notes:
-- High-resolution PNGs with transparent background.
-- Numbering follows dataset order.
-- Supply matching thumbnails for all-products.
-
-
