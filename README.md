@@ -2,7 +2,7 @@
 
 Reusable, Arabic-friendly mock datasets for UI prototyping, API simulations, and frontend testing. The repository ships 36 JSON files (1,660 total records) that cover commerce, jobs, real estate, education, events, recipes, reviews, and more—ready to import or fetch as-is.
 
-![Design Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/JSON-datasets/thumbnail.jpg?raw=true)
+![Design Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/thumbnail.jpg?raw=true)
 
 ---
 
