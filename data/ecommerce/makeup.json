@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "name": "برايمر مخملي لبشرة ناعمة",
+    "category": "مكياج",
+    "price": 135.90,
+    "stock": 70,
+    "description": "برايمر خفيف يقلل مظهر المسام ويثبت المكياج لساعات مع لمسة نهائية مخملية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-001.png"
+  },
+  {
+    "id": 2,
+    "name": "كريم أساس تغطية متوسطة",
+    "category": "مكياج",
+    "price": 189.50,
+    "stock": 65,
+    "description": "فاؤنديشن بتركيبة خالية من الزيوت يمنح تغطية متدرجة مع حماية SPF25 للبشرة المختلطة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-002.png"
+  },
+  {
+    "id": 3,
+    "name": "كونسيلر سائل مقاوم للتجاعيد",
+    "category": "مكياج",
+    "price": 115.75,
+    "stock": 80,
+    "description": "كونسيلر بتركيبة غنية بالفيتامينات يغطي الهالات والشوائب دون أن يتكتل أو يتشقق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-003.png"
+  },
+  {
+    "id": 4,
+    "name": "بودرة سائبة لتثبيت المكياج",
+    "category": "مكياج",
+    "price": 142.30,
+    "stock": 75,
+    "description": "بودرة شفافة تمتص اللمعان وتثبّت المكياج مع تأثير ضبابي على البشرة الدهنية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-004.png"
+  },
+  {
+    "id": 5,
+    "name": "باليت كونتور وإضاءة ثلاثي",
+    "category": "مكياج",
+    "price": 210.00,
+    "stock": 50,
+    "description": "مجموعة من ثلاث درجات للكونتور والهايلايتر بملمس كريمي يندمج بسلاسة على البشرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-005.png"
+  },
+  {
+    "id": 6,
+    "name": "أحمر خدود كريمي بلون خوخي",
+    "category": "مكياج",
+    "price": 98.40,
+    "stock": 95,
+    "description": "بلشر كريمي يمنح وجنتين متوردتين بلمسة لامعة خفيفة ويمكن دمجه بالأصابع بسهولة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-006.png"
+  },
+  {
+    "id": 7,
+    "name": "لوحة هايلايتر رباعية",
+    "category": "مكياج",
+    "price": 175.60,
+    "stock": 40,
+    "description": "أربعة ألوان بدرجات ذهبية ووردية تعطي بريقًا ناعمًا على عظمة الخد والجفن.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-007.png"
+  },
+  {
+    "id": 8,
+    "name": "ظلال عيون مطفية 10 درجات",
+    "category": "مكياج",
+    "price": 220.90,
+    "stock": 55,
+    "description": "باليت ألوان دافئة وباردة بتركيبة عالية الصبغة قابلة للدمج وتدوم طوال اليوم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-008.png"
+  },
+  {
+    "id": 9,
+    "name": "آيلاينر سائل بفرشاة دقيقة",
+    "category": "مكياج",
+    "price": 86.75,
+    "stock": 110,
+    "description": "آيلاينر أسود مكثف بفرشاة ملتوية لرسم خطوط دقيقة أو مجنحة مقاومة للتلطخ.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-009.png"
+  },
+  {
+    "id": 10,
+    "name": "ماسكارا رفع وتكثيف",
+    "category": "مكياج",
+    "price": 132.20,
+    "stock": 85,
+    "description": "ماسكارا بفرشاة منحنية ترفع الرموش وتمنحها كثافة فورية دون تكتلات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-010.png"
+  },
+  {
+    "id": 11,
+    "name": "حواجب جل ملون بفرشاة دقيقة",
+    "category": "مكياج",
+    "price": 104.90,
+    "stock": 70,
+    "description": "جل حواجب بدرجة بنية طبيعية يملأ الفراغات ويثبت الشعيرات حتى 12 ساعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-011.png"
+  },
+  {
+    "id": 12,
+    "name": "أحمر شفاه سائل بلمسة مخملية",
+    "category": "مكياج",
+    "price": 119.60,
+    "stock": 100,
+    "description": "أحمر شفاه سائل غني بالأصباغ يوفر تغطية كاملة وثبات حتى 10 ساعات دون جفاف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-012.png"
+  },
+  {
+    "id": 13,
+    "name": "قلم تحديد شفاه مقاوم للتلطخ",
+    "category": "مكياج",
+    "price": 74.50,
+    "stock": 120,
+    "description": "قلم تحديد كريمي يحدد الشفاه بدقة ويمنع تسرب اللون مع تركيبة طويلة الثبات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-013.png"
+  },
+  {
+    "id": 14,
+    "name": "مزيل مكياج ثنائي الطور",
+    "category": "مكياج",
+    "price": 89.80,
+    "stock": 130,
+    "description": "مزيل لطيف يجمع بين الماء والزيت يزيل المكياج المقاوم للماء دون ترك بقايا دهنية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-014.png"
+  },
+  {
+    "id": 15,
+    "name": "رذاذ تثبيت مع خلاصة الصبار",
+    "category": "مكياج",
+    "price": 128.35,
+    "stock": 95,
+    "description": "رذاذ خفيف يثبّت المكياج ويمنح انتعاشًا للبشرة بفضل خلاصة الصبار والببتيدات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-015.png"
+  },
+  {
+    "id": 16,
+    "name": "جل لامع للعين بلمعة معدنية",
+    "category": "مكياج",
+    "price": 112.40,
+    "stock": 85,
+    "description": "جل لامع يمكن وضعه على الجفن أو عظمة الخد ليوزع بريقاً معدنياً فاخراً.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-016.png"
+  },
+  {
+    "id": 17,
+    "name": "مسحوق حواجب ثنائي بدرجتين",
+    "category": "مكياج",
+    "price": 95.75,
+    "stock": 90,
+    "description": "بودرة حواجب بعلبة صغيرة ومرآة وفرشاة بزاوية لتعبئة فراغات الحواجب بدقة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-017.png"
+  },
+  {
+    "id": 18,
+    "name": "أحمر شفاه شفاف مغذي",
+    "category": "مكياج",
+    "price": 82.90,
+    "stock": 140,
+    "description": "بلسم شفاه ملون بدرجة خفيفة يحتوي على زبدة الشيا لترطيب يدوم ساعات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-018.png"
+  },
+  {
+    "id": 19,
+    "name": "كحل جل أسود قابل للدمج",
+    "category": "مكياج",
+    "price": 89.50,
+    "stock": 110,
+    "description": "كحل جل بتركيبة مقاومة للتلطخ وفرشاة صغيرة لعمل خطوط دقيقة أو دخانية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-019.png"
+  },
+  {
+    "id": 20,
+    "name": "اسفنجة مكياج على شكل قطرة",
+    "category": "مكياج",
+    "price": 55.20,
+    "stock": 200,
+    "description": "إسفنجة خالية من اللاتكس توسع عند الترطيب لتوزيع كريم الأساس والكونسيلر بالتساوي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-020.png"
+  },
+  {
+    "id": 21,
+    "name": "مجموعة فرش أعين دقيقة",
+    "category": "مكياج",
+    "price": 165.30,
+    "stock": 60,
+    "description": "مجموعة من خمس فرش مخصصة لتطبيق الظلال والدمج بذكاء مع شعيرات صناعية ناعمة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-021.png"
+  },
+  {
+    "id": 22,
+    "name": "جل تثبيت رموش قبل الماسكارا",
+    "category": "مكياج",
+    "price": 77.60,
+    "stock": 95,
+    "description": "برايمر رموش شفاف يضيف كثافة قبل الماسكارا ويغذي الشعيرات بمستخلصات نباتية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-022.png"
+  },
+  {
+    "id": 23,
+    "name": "بودرة برونزر مطفية واسعة",
+    "category": "مكياج",
+    "price": 156.40,
+    "stock": 70,
+    "description": "برونزر بتركيبة مطفية رقيقة يمنح دفء للبشرة دون لمعان مع مرآة داخلية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-023.png"
+  },
+  {
+    "id": 24,
+    "name": "جل تحديد الشفاه الشفاف",
+    "category": "مكياج",
+    "price": 68.30,
+    "stock": 130,
+    "description": "جل شفاف يطبق حول الشفاه لمنع تسرب أحمر الشفاه وضمان خطوط نظيفة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-024.png"
+  },
+  {
+    "id": 25,
+    "name": "محدد شفاه بلون وردي ترابي",
+    "category": "مكياج",
+    "price": 78.10,
+    "stock": 115,
+    "description": "محدد خشبي طويل الأمد بدرجة وردية ترابية ينسجم مع معظم ألوان أحمر الشفاه.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-025.png"
+  },
+  {
+    "id": 26,
+    "name": "علبة مزج ألوان صغيرة",
+    "category": "مكياج",
+    "price": 54.90,
+    "stock": 150,
+    "description": "لوح معدني مع ملعقة صغيرة لمزج كريم الأساس والكونسيلر للحفاظ على نظافة المنتجات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-026.png"
+  },
+  {
+    "id": 27,
+    "name": "كريم خدود وبرونزر سائل",
+    "category": "مكياج",
+    "price": 142.80,
+    "stock": 80,
+    "description": "منتج مزدوج يوفر لون خدود وبرونز مضيء بتركيبة سائلة تندمج بسهولة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-027.png"
+  },
+  {
+    "id": 28,
+    "name": "بودرة مضغوطة بحماية SPF20",
+    "category": "مكياج",
+    "price": 135.60,
+    "stock": 85,
+    "description": "بودرة مضغوطة تعطي تغطية خفيفة وتحتوي على عامل حماية 20 لتجديد البشرة خلال اليوم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-028.png"
+  },
+  {
+    "id": 29,
+    "name": "لوحة أحمر خدود بست درجات",
+    "category": "مكياج",
+    "price": 198.20,
+    "stock": 50,
+    "description": "باليت أحمر خدود بألوان دافئة وباردة بنهايات مطفية ولامعة لتعدد الاستخدامات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-029.png"
+  },
+  {
+    "id": 30,
+    "name": "رموش صناعية طبيعية المظهر",
+    "category": "مكياج",
+    "price": 84.70,
+    "stock": 120,
+    "description": "زوج رموش خفيف الوزن بقاعدة شفافة يضيف طولاً وكثافة مع غراء صغير مرفق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-030.png"
+  },
+  {
+    "id": 31,
+    "name": "كريم تصحيح ألوان أخضر",
+    "category": "مكياج",
+    "price": 99.90,
+    "stock": 100,
+    "description": "كريم خفيف بلون أخضر يعادل احمرار البشرة يوضع قبل كريم الأساس للحصول على بشرة متوازنة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-031.png"
+  },
+  {
+    "id": 32,
+    "name": "باليت غليتر للعيون والوجه",
+    "category": "مكياج",
+    "price": 165.80,
+    "stock": 65,
+    "description": "لوحة بثماني درجات من اللمعان الجلّي قابلة للبناء متوافقة مع العينين والوجه.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-032.png"
+  },
+  {
+    "id": 33,
+    "name": "بلسم شفاه قابل للتلوين حسب الحرارة",
+    "category": "مكياج",
+    "price": 72.60,
+    "stock": 135,
+    "description": "بلسم يتغير لونه حسب حرارة الشفاه ليمنح درجة وردية خاصة بكل شخص.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-033.png"
+  },
+  {
+    "id": 34,
+    "name": "بودرة تحديد الأنف الدقيقة",
+    "category": "مكياج",
+    "price": 109.70,
+    "stock": 90,
+    "description": "بودرة مزدوجة بدرجتين فاتحة وداكنة لتحديد الأنف بفرشاة صغيرة مرفقة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-034.png"
+  },
+  {
+    "id": 35,
+    "name": "جل لتثبيت المكياج اللامع",
+    "category": "مكياج",
+    "price": 118.30,
+    "stock": 70,
+    "description": "جل خفيف يطبق فوق الهايلايتر أو الظلال لإضافة لمعان زجاجي يدوم لساعات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-035.png"
+  },
+  {
+    "id": 36,
+    "name": "بودرة حرة بنغمات دافئة",
+    "category": "مكياج",
+    "price": 148.40,
+    "stock": 60,
+    "description": "بودرة حرة بنغمات دافئة تخفي اللمعان وتضفي توهجاً خفيفاً على الوجه والجسم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-036.png"
+  },
+  {
+    "id": 37,
+    "name": "مرطب شفاه بسكر القصب",
+    "category": "مكياج",
+    "price": 63.20,
+    "stock": 160,
+    "description": "مرطب شفاه مقشر يحتوي على حبيبات سكر تذوب لتنعيم الشفاه وتغذيتها.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-037.png"
+  },
+  {
+    "id": 38,
+    "name": "مناديل مصفرة لامتصاص الزيوت",
+    "category": "مكياج",
+    "price": 42.50,
+    "stock": 180,
+    "description": "مناديل ورقية حريرية تمتص الدهون الزائدة دون أن تزيل المكياج داخل حقيبة اليد.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-038.png"
+  },
+  {
+    "id": 39,
+    "name": "لوحة تحديد الشفاه المتدرجة",
+    "category": "مكياج",
+    "price": 185.90,
+    "stock": 55,
+    "description": "لوحة تحتوي على ستة ألوان كريمية لابتكار تأثير الشفاه المتدرجة مع فرشاة مزدوجة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-039.png"
+  },
+  {
+    "id": 40,
+    "name": "جل للحواجب الشفافة بفرشاة معدنية",
+    "category": "مكياج",
+    "price": 88.80,
+    "stock": 125,
+    "description": "جل شفاف بفرشاة معدنية رفيعة يرفع الحواجب ويمنحها مظهر الريش الطبيعي طوال اليوم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/makeup/makeup-040.png"
+  }
+]
+

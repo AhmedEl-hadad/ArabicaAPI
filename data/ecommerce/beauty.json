@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "name": "سيروم فيتامين سي مضيء",
+    "category": "جمال",
+    "price": 149.90,
+    "stock": 60,
+    "description": "سيروم خفيف بتركيز 15٪ من فيتامين سي لتفتيح البقع الداكنة ومنح البشرة إشراقة فورية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-001.png"
+  },
+  {
+    "id": 2,
+    "name": "كريم ترطيب يومي بحمض الهيالورونيك",
+    "category": "جمال",
+    "price": 110.50,
+    "stock": 80,
+    "description": "كريم سريع الامتصاص يوفر ترطيبًا عميقًا لمدة 24 ساعة مع حمض الهيالورونيك والببتيدات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-002.png"
+  },
+  {
+    "id": 3,
+    "name": "منظف رغوي للبشرة الحساسة",
+    "category": "جمال",
+    "price": 78.25,
+    "stock": 70,
+    "description": "منظف رغوي خالٍ من العطور يزيل الشوائب دون تجفيف البشرة مع خلاصة الشاي الأبيض.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-003.png"
+  },
+  {
+    "id": 4,
+    "name": "زيت شعر مغذي بالأرجان",
+    "category": "جمال",
+    "price": 95.40,
+    "stock": 55,
+    "description": "زيت خفيف يعيد اللمعان للشعر الجاف والمتقصف مع خليط الأرجان وفيتامين إي للحماية من الحرارة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-004.png"
+  },
+  {
+    "id": 5,
+    "name": "قناع طين لتنقية المسام",
+    "category": "جمال",
+    "price": 68.90,
+    "stock": 65,
+    "description": "قناع طين غني بالكاولين والفحم المنشط يمتص الدهون الزائدة ويشد المسام في عشر دقائق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-005.png"
+  },
+  {
+    "id": 6,
+    "name": "عطر زهري خفيف للسيدات",
+    "category": "جمال",
+    "price": 210.00,
+    "stock": 40,
+    "description": "مزيج أنثوي من أزهار الفاوانيا والمسك الأبيض يدوم على البشرة طوال اليوم.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-006.png"
+  },
+  {
+    "id": 7,
+    "name": "لوحة ظلال عيون دافئة",
+    "category": "جمال",
+    "price": 175.75,
+    "stock": 35,
+    "description": "لوحة تضم 12 ظلًا مطفيًا وبرّاقًا بدرجات نحاسية ودافئة قابلة للدمج بسهولة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-007.png"
+  },
+  {
+    "id": 8,
+    "name": "أحمر شفاه مطفي طويل المدى",
+    "category": "جمال",
+    "price": 89.99,
+    "stock": 90,
+    "description": "تركيبة مطفية مريحة بفيتامين إي تحافظ على الشفاه ناعمة مع ثبات حتى 12 ساعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-008.png"
+  },
+  {
+    "id": 9,
+    "name": "ماسكارا حجم مكثف",
+    "category": "جمال",
+    "price": 105.60,
+    "stock": 85,
+    "description": "ماسكارا بفرشاة مقوسة تضاعف حجم الرموش دون تكتلات وبصيغة مقاومة للتلطخ.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-009.png"
+  },
+  {
+    "id": 10,
+    "name": "كريم واقي شمس SPF50",
+    "category": "جمال",
+    "price": 130.20,
+    "stock": 120,
+    "description": "واقي شمس بخلاصة الصبار يوفر حماية واسعة الطيف مع لمسة نهائية مخملية غير لامعة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-010.png"
+  },
+  {
+    "id": 11,
+    "name": "جل ألوفيرا مهدئ متعدد الاستخدام",
+    "category": "جمال",
+    "price": 59.80,
+    "stock": 150,
+    "description": "جل شفاف بنسبة 92٪ من الألوفيرا يبرد البشرة بعد الشمس ويهدئ التهيج الخفيف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-011.png"
+  },
+  {
+    "id": 12,
+    "name": "مقشر جسم بالقهوة العربية",
+    "category": "جمال",
+    "price": 115.30,
+    "stock": 50,
+    "description": "مقشر حبيبي غني بزيت جوز الهند وحبيبات القهوة يعزز نعومة الجلد ويحفز الدورة الدموية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-012.png"
+  },
+  {
+    "id": 13,
+    "name": "مجموعة فرش مكياج احترافية",
+    "category": "جمال",
+    "price": 189.00,
+    "stock": 45,
+    "description": "مجموعة من 12 فرشاة صناعية ناعمة للاستخدام مع المنتجات البودرة والكريمية في حقيبة جلدية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-013.png"
+  },
+  {
+    "id": 14,
+    "name": "تونر موازن للبشرة الدهنية",
+    "category": "جمال",
+    "price": 84.70,
+    "stock": 75,
+    "description": "تونر غني بحمض الساليسيليك وماء الورد يخفف اللمعان ويعيد توازن البشرة الدهنية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-014.png"
+  },
+  {
+    "id": 15,
+    "name": "ماء ميسيلار لإزالة المكياج",
+    "category": "جمال",
+    "price": 72.40,
+    "stock": 95,
+    "description": "ماء ميسيلار لطيف يزيل المكياج المقاوم للماء وينعش البشرة دون الحاجة للشطف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-015.png"
+  },
+  {
+    "id": 16,
+    "name": "كريم عين بخلاصة الخيار",
+    "category": "جمال",
+    "price": 124.80,
+    "stock": 65,
+    "description": "كريم تبريد للهالات يحتوي على ببتيدات وخلاصة الخيار لتقليل الانتفاخ وترطيب محيط العين.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-016.png"
+  },
+  {
+    "id": 17,
+    "name": "رذاذ تثبيت مكياج مرطب",
+    "category": "جمال",
+    "price": 88.60,
+    "stock": 90,
+    "description": "رذاذ بخلاصة اللافندر يثبت المكياج حتى 16 ساعة مع طبقة نهائية مرطبة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-017.png"
+  },
+  {
+    "id": 18,
+    "name": "جل حواجب شفاف مقاوم للماء",
+    "category": "جمال",
+    "price": 64.90,
+    "stock": 110,
+    "description": "جل يحدد الحواجب بفرشاة دقيقة ويحافظ على شكلها طوال اليوم دون تكتل.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-018.png"
+  },
+  {
+    "id": 19,
+    "name": "سيروم رموش معزز للنمو",
+    "category": "جمال",
+    "price": 210.40,
+    "stock": 34,
+    "description": "سيروم غني بالببتيدات والبيوتين يعزز طول وكثافة الرموش خلال ستة أسابيع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-019.png"
+  },
+  {
+    "id": 20,
+    "name": "مقشر شفاه بسكر الورد",
+    "category": "جمال",
+    "price": 52.30,
+    "stock": 140,
+    "description": "مقشر لطيف بالسكر البني وزيت الورد يزيل التشققات ويترك الشفاه ناعمة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-020.png"
+  },
+  {
+    "id": 21,
+    "name": "كريم أساس خفيف بتغطية قابلة للبناء",
+    "category": "جمال",
+    "price": 165.90,
+    "stock": 55,
+    "description": "كريم أساس بتركيبة سائلة يسمح بتغطية متوسطة مع لمسة طبيعية ومقاومة للعرق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-021.png"
+  },
+  {
+    "id": 22,
+    "name": "تونر فيتامين بي 5 المهدئ",
+    "category": "جمال",
+    "price": 79.40,
+    "stock": 85,
+    "description": "تونر خالٍ من الكحول يحتوي على فيتامين بي 5 وحمض اللبنيك لتهدئة الاحمرار بعد التنظيف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-022.png"
+  },
+  {
+    "id": 23,
+    "name": "قناع ليلي لإصلاح الشفاه",
+    "category": "جمال",
+    "price": 99.70,
+    "stock": 75,
+    "description": "قناع غني بزبدة الشيا والسكوالان يغذي الشفاه خلال النوم ويمنحها مظهراً ممتلئاً.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-023.png"
+  },
+  {
+    "id": 24,
+    "name": "بخاخ حراري لحماية الشعر",
+    "category": "جمال",
+    "price": 115.20,
+    "stock": 68,
+    "description": "بخاخ يحمي الشعر من حرارة المجفف حتى 230 درجة مع بروتين القمح لتقوية الألياف.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-024.png"
+  },
+  {
+    "id": 25,
+    "name": "زيت جسم لامع بالذهب الوردي",
+    "category": "جمال",
+    "price": 132.80,
+    "stock": 47,
+    "description": "زيت خفيف مع جزيئات لامعة يمنح البشرة إشراقة فورية مع رائحة مسكية دافئة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-025.png"
+  },
+  {
+    "id": 26,
+    "name": "مصل أظافر مقوي بالكالسيوم",
+    "category": "جمال",
+    "price": 71.55,
+    "stock": 100,
+    "description": "مصل سريع الجفاف يقوي الأظافر الضعيفة ويمنع التكسر مع مكونات نباتية مغذية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-026.png"
+  },
+  {
+    "id": 27,
+    "name": "شامبو جاف برائحة زهرة القطن",
+    "category": "جمال",
+    "price": 63.40,
+    "stock": 120,
+    "description": "شامبو جاف يمتص الزيوت الزائدة ويمنح الشعر حجماً فورياً دون ترك بقايا بيضاء.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-027.png"
+  },
+  {
+    "id": 28,
+    "name": "قناع ورقي بالحلزون الكوري",
+    "category": "جمال",
+    "price": 34.90,
+    "stock": 200,
+    "description": "قناع ورقي مشبع بخلاصة الحلزون يهدئ الالتهاب ويرطب البشرة المتعبة في عشر دقائق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-028.png"
+  },
+  {
+    "id": 29,
+    "name": "بلسم شفاه ملون برائحة الفواكه",
+    "category": "جمال",
+    "price": 48.20,
+    "stock": 150,
+    "description": "بلسم يعطي لمسة لون خفيفة ويحمي من التشقق بفضل زيت جوز الهند وفيتامين إي.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-029.png"
+  },
+  {
+    "id": 30,
+    "name": "مجموعة أقنعة طين مصغرة",
+    "category": "جمال",
+    "price": 145.60,
+    "stock": 50,
+    "description": "مجموعة من ثلاثة أقنعة طين مختلفة لتفتيح وترطيب وتنقية البشرة مع ملعقة تطبيق.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-030.png"
+  },
+  {
+    "id": 31,
+    "name": "سيروم تفتيح للهالات الداكنة",
+    "category": "جمال",
+    "price": 198.00,
+    "stock": 42,
+    "description": "سيروم غني بفيتامين ك والكافيين يقلل من ظهور الهالات خلال أربعة أسابيع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-031.png"
+  },
+  {
+    "id": 32,
+    "name": "رغوة حلاقة للبشرة الحساسة",
+    "category": "جمال",
+    "price": 56.75,
+    "stock": 130,
+    "description": "رغوة كثيفة تحتوي على الألوفيرا وزيت اللوز لتهدئة البشرة أثناء الحلاقة وتقليل الاحمرار.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-032.png"
+  },
+  {
+    "id": 33,
+    "name": "مجموعة تبييض أسنان منزلية",
+    "category": "جمال",
+    "price": 310.40,
+    "stock": 24,
+    "description": "مجموعة مع أطقم سيليكون وجل بيروكسيد بنسبة منخفضة تمنح نتائج ملحوظة خلال أسبوع.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-033.png"
+  },
+  {
+    "id": 34,
+    "name": "زيت بشرة جاف بخلاصة اللافندر",
+    "category": "جمال",
+    "price": 142.20,
+    "stock": 58,
+    "description": "زيت متعدد الاستخدام يمتص سريعاً ويمنح الجسم رائحة مريحة مع ترطيب طويل الأمد.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-034.png"
+  },
+  {
+    "id": 35,
+    "name": "مناديل إزالة مكياج مبللة",
+    "category": "جمال",
+    "price": 32.80,
+    "stock": 170,
+    "description": "مناديل تحتوي على مياه الورد وفيتامين بي 3 تزيل المكياج بسرعة أثناء السفر.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-035.png"
+  },
+  {
+    "id": 36,
+    "name": "مصل إصلاح أطراف الشعر المتقصفة",
+    "category": "جمال",
+    "price": 126.90,
+    "stock": 62,
+    "description": "مصل سيليكون خفيف يغلق الأطراف المتقصفة ويقلل النفشة حتى الغسلة التالية.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-036.png"
+  },
+  {
+    "id": 37,
+    "name": "كريم يدين بزبدة الشيا والفانيلا",
+    "category": "جمال",
+    "price": 47.60,
+    "stock": 190,
+    "description": "كريم سميك يغذي اليدين الجافتين ويترك طبقة واقية ناعمة برائحة الفانيلا.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-037.png"
+  },
+  {
+    "id": 38,
+    "name": "مجموعة أشرطة شمع للوجه",
+    "category": "جمال",
+    "price": 58.30,
+    "stock": 115,
+    "description": "شرائط شمع مسبقة التسخين لاحتياجات إزالة الشعر الدقيقة بمنظف زيتي لما بعد الاستخدام.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-038.png"
+  },
+  {
+    "id": 39,
+    "name": "جهاز بخار وجه منزلي",
+    "category": "جمال",
+    "price": 245.00,
+    "stock": 33,
+    "description": "جهاز بخار سريع التسخين يفتح المسام ويهيئ البشرة لامتصاص السيرومات والماسكات.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-039.png"
+  },
+  {
+    "id": 40,
+    "name": "كريم جسم معطر بالفانيلا والعنبر",
+    "category": "جمال",
+    "price": 138.50,
+    "stock": 60,
+    "description": "كريم جسم غني بزبدة الكاكاو يمنح ترطيباً مكثفاً ويغلف البشرة برائحة فاخرة.",
+    "image": "https://raw.githubusercontent.com/username/arabicaapi/assets/ecommerce/beauty/beauty-040.png"
+  }
+]
+
