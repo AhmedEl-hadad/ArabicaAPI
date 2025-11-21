@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/office.json
-Approximate images needed: ~40 stationery shots
-Naming pattern: office-001.png - office-040.png
-Notes:
-- Include transparent backgrounds for compositing.
-- Sequential numbering mirrors record order.
-- Feeds both office category + all-products.
-
-

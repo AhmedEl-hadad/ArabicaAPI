@@ -1,9 +1,0 @@
-﻿Dataset: data/companies/companies.json
-Approximate images needed: ~50 logo renders (1 per company)
-Naming pattern: company-001.png - company-050.png
-Notes:
-- Transparent PNG logos sized for dark/light themes.
-- Matches the `logo` field referenced from the dataset.
-- Store logos directly under this folder.
-
-

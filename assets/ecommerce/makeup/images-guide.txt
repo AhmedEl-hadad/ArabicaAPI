@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/makeup.json
-Approximate images needed: ~40 cosmetic shots
-Naming pattern: makeup-001.png - makeup-040.png
-Notes:
-- Single PNG per SKU on clean background.
-- Number ties back to dataset `id`.
-- Also used in the all-products feed.
-
-

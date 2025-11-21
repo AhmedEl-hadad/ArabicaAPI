@@ -1,9 +1,0 @@
-﻿Dataset: data/ecommerce/accessories.json
-Approximate images needed: ~40 product shots
-Naming pattern: accessory-001.png - accessory-040.png
-Notes:
-- One hero PNG per accessory.
-- Also consumed by `all-products` for matching SKUs.
-- Keep styling consistent (white background, soft shadow).
-
-
