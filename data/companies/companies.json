@@ -13,7 +13,6 @@
     "foundingDate": "2015-03-20",
     "ceo": "أحمد محمد السعيد",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-001.png",
     "description": "شركة رائدة في مجال تطوير البرمجيات والحلول التقنية",
     "tags": ["برمجيات", "تطوير", "تقنية"],
     "social": {
@@ -38,7 +37,6 @@
     "foundingDate": "2010-07-15",
     "ceo": "فاطمة علي حسن",
     "rating": 4.8,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-002.png",
     "description": "مؤسسة متخصصة في تقديم خدمات الرعاية الصحية والطبية",
     "tags": ["صحة", "طب", "رعاية"],
     "social": {
@@ -63,7 +61,6 @@
     "foundingDate": "2012-11-08",
     "ceo": "خالد عبدالله المطيري",
     "rating": 4.3,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-003.png",
     "description": "مجموعة متخصصة في الخدمات المالية والاستثمار",
     "tags": ["تمويل", "استثمار", "مصرفية"],
     "social": {
@@ -88,7 +85,6 @@
     "foundingDate": "2018-02-14",
     "ceo": "سارة أحمد الزهراني",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-004.png",
     "description": "شركة تعليمية تقدم برامج تدريبية وتطويرية عالية الجودة",
     "tags": ["تعليم", "تدريب", "تطوير"],
     "social": {
@@ -113,7 +109,6 @@
     "foundingDate": "2005-05-30",
     "ceo": "محمود حسن القرشي",
     "rating": 4.4,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-005.png",
     "description": "مؤسسة رائدة في مجال الإنشاءات والمقاولات",
     "tags": ["إنشاءات", "مقاولات", "هندسة مدنية"],
     "social": {
@@ -138,7 +133,6 @@
     "foundingDate": "2019-09-12",
     "ceo": "نورا سعيد الغامدي",
     "rating": 4.7,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-006.png",
     "description": "شركة متخصصة في تنظيم رحلات سياحية وبرامج سفر",
     "tags": ["سياحة", "سفر", "رحلات"],
     "social": {
@@ -163,7 +157,6 @@
     "foundingDate": "2011-04-25",
     "ceo": "علي خالد العسيري",
     "rating": 4.2,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-007.png",
     "description": "مؤسسة متخصصة في الزراعة الحديثة والإنتاج الزراعي",
     "tags": ["زراعة", "إنتاج", "بيئة"],
     "social": {
@@ -188,7 +181,6 @@
     "foundingDate": "2017-06-18",
     "ceo": "يوسف محمد القحطاني",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-008.png",
     "description": "مجموعة متخصصة في التسويق الرقمي والإعلان",
     "tags": ["تسويق", "إعلان", "رقمي"],
     "social": {
@@ -213,7 +205,6 @@
     "foundingDate": "2014-08-22",
     "ceo": "مريم عبدالرحمن الحربي",
     "rating": 4.1,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-009.png",
     "description": "شركة تجارية متخصصة في الاستيراد والتصدير",
     "tags": ["تجارة", "استيراد", "تصدير"],
     "social": {
@@ -238,7 +229,6 @@
     "foundingDate": "2016-10-05",
     "ceo": "حسن سعيد الشمري",
     "rating": 4.9,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-010.png",
     "description": "مؤسسة استشارية متخصصة في الأعمال والإدارة",
     "tags": ["استشارات", "إدارة", "أعمال"],
     "social": {
@@ -263,7 +253,6 @@
     "foundingDate": "2008-12-10",
     "ceo": "عبدالله إبراهيم الجازي",
     "rating": 4.3,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-011.png",
     "description": "شركة رائدة في الصناعات التحويلية والإنتاج",
     "tags": ["صناعة", "إنتاج", "تحويل"],
     "social": {
@@ -288,7 +277,6 @@
     "foundingDate": "2013-01-28",
     "ceo": "ليلى خالد النجراني",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-012.png",
     "description": "مؤسسة إعلامية تنتج محتوى إعلامي وتلفزيوني",
     "tags": ["إعلام", "إنتاج", "محتوى"],
     "social": {
@@ -313,7 +301,6 @@
     "foundingDate": "2015-07-14",
     "ceo": "طارق علي الزهراني",
     "rating": 4.4,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-013.png",
     "description": "مجموعة متخصصة في الخدمات اللوجستية والنقل",
     "tags": ["لوجستيات", "نقل", "شحن"],
     "social": {
@@ -338,7 +325,6 @@
     "foundingDate": "2019-03-09",
     "ceo": "سعد محمد الجوف",
     "rating": 4.7,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-014.png",
     "description": "شركة متخصصة في تنظيم الفعاليات والأنشطة الترفيهية",
     "tags": ["ترفيه", "فعاليات", "أنشطة"],
     "social": {
@@ -363,7 +349,6 @@
     "foundingDate": "2018-11-20",
     "ceo": "زينب أحمد الشمري",
     "rating": 4.8,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-015.png",
     "description": "مؤسسة متخصصة في التصميم الجرافيكي والداخلي",
     "tags": ["تصميم", "جرافيك", "إبداع"],
     "social": {
@@ -388,7 +373,6 @@
     "foundingDate": "2017-04-16",
     "ceo": "منى حسن الخالدي",
     "rating": 4.9,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-016.png",
     "description": "شركة محاماة متخصصة في الخدمات القانونية",
     "tags": ["قانون", "محاماة", "استشارات قانونية"],
     "social": {
@@ -413,7 +397,6 @@
     "foundingDate": "2009-09-03",
     "ceo": "رامي خالد القحطاني",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-017.png",
     "description": "مؤسسة هندسية متخصصة في المشاريع الكبرى",
     "tags": ["هندسة", "مشاريع", "تصميم هندسي"],
     "social": {
@@ -438,7 +421,6 @@
     "foundingDate": "2016-02-11",
     "ceo": "مها سعيد البقمي",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-018.png",
     "description": "مجموعة متخصصة في التدريب المهني والتطوير",
     "tags": ["تدريب", "تطوير", "مهني"],
     "social": {
@@ -463,7 +445,6 @@
     "foundingDate": "2003-06-25",
     "ceo": "نواف عبدالله القطيفي",
     "rating": 4.2,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-019.png",
     "description": "شركة رائدة في مجال الطاقة المتجددة والنفط",
     "tags": ["طاقة", "متجددة", "نفط"],
     "social": {
@@ -488,7 +469,6 @@
     "foundingDate": "2014-12-07",
     "ceo": "باسم محمد الخليفي",
     "rating": 4.4,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-020.png",
     "description": "مؤسسة تأمينية تقدم خدمات التأمين الشامل",
     "tags": ["تأمين", "خدمات مالية", "حماية"],
     "social": {
@@ -513,7 +493,6 @@
     "foundingDate": "2007-05-19",
     "ceo": "عادل أحمد العلياني",
     "rating": 4.3,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-021.png",
     "description": "شركة متخصصة في التطوير العقاري والإدارة",
     "tags": ["عقارات", "تطوير", "استثمار"],
     "social": {
@@ -538,7 +517,6 @@
     "foundingDate": "2015-08-30",
     "ceo": "إيهاب سعيد الجهني",
     "rating": 4.7,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-022.png",
     "description": "مؤسسة متخصصة في تطوير البرمجيات والتطبيقات",
     "tags": ["برمجيات", "تطبيقات", "تقنية"],
     "social": {
@@ -563,7 +541,6 @@
     "foundingDate": "2012-03-22",
     "ceo": "وليد خالد الدوسري",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-023.png",
     "description": "مجموعة استثمارية متخصصة في إدارة المحافظ",
     "tags": ["استثمار", "محافظ", "أموال"],
     "social": {
@@ -588,7 +565,6 @@
     "foundingDate": "2016-07-08",
     "ceo": "شريف محمد الزهراني",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-024.png",
     "description": "شركة إعلانية تنتج حملات إعلانية مبتكرة",
     "tags": ["إعلان", "حملات", "إبداع"],
     "social": {
@@ -613,7 +589,6 @@
     "foundingDate": "2006-10-14",
     "ceo": "ياسر علي المدني",
     "rating": 4.4,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-025.png",
     "description": "مؤسسة متخصصة في التصنيع والإنتاج الصناعي",
     "tags": ["تصنيع", "إنتاج", "صناعة"],
     "social": {
@@ -638,7 +613,6 @@
     "foundingDate": "2018-01-26",
     "ceo": "سمر حسن الثقفي",
     "rating": 4.8,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-026.png",
     "description": "شركة تدير سلسلة من المطاعم الراقية",
     "tags": ["مطاعم", "طعام", "ضيافة"],
     "social": {
@@ -663,7 +637,6 @@
     "foundingDate": "2011-09-17",
     "ceo": "رانيا محمد العسيري",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-027.png",
     "description": "مؤسسة تعليمية تقدم برامج أكاديمية متقدمة",
     "tags": ["تعليم", "أكاديمي", "تطوير"],
     "social": {
@@ -688,7 +661,6 @@
     "foundingDate": "2013-04-12",
     "ceo": "عمر سعيد القحطاني",
     "rating": 4.3,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-028.png",
     "description": "مجموعة متخصصة في تقديم الخدمات المتكاملة",
     "tags": ["خدمات", "صيانة", "نظافة"],
     "social": {
@@ -713,7 +685,6 @@
     "foundingDate": "2019-05-21",
     "ceo": "مازن خالد الحويطي",
     "rating": 4.7,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-029.png",
     "description": "شركة متخصصة في الزراعة العضوية والإنتاج الطبيعي",
     "tags": ["زراعة عضوية", "طبيعي", "بيئة"],
     "social": {
@@ -738,7 +709,6 @@
     "foundingDate": "2017-11-04",
     "ceo": "نبيل أحمد الشمري",
     "rating": 4.8,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-030.png",
     "description": "مؤسسة تقنية متخصصة في الذكاء الاصطناعي",
     "tags": ["ذكاء اصطناعي", "تقنية", "ابتكار"],
     "social": {
@@ -763,7 +733,6 @@
     "foundingDate": "2014-06-29",
     "ceo": "رائد محمد الجازي",
     "rating": 4.2,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-031.png",
     "description": "شركة متخصصة في خدمات الصيانة والإصلاح",
     "tags": ["صيانة", "إصلاح", "خدمات"],
     "social": {
@@ -788,7 +757,6 @@
     "foundingDate": "2010-02-18",
     "ceo": "كامل سعيد النجراني",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-032.png",
     "description": "مؤسسة متخصصة في التصنيع عالي الجودة",
     "tags": ["تصنيع", "جودة", "إنتاج"],
     "social": {
@@ -813,7 +781,6 @@
     "foundingDate": "2018-08-23",
     "ceo": "هند خالد الزهراني",
     "rating": 4.7,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-033.png",
     "description": "مجموعة متخصصة في التدريب المهني والتأهيل",
     "tags": ["تدريب", "مهني", "تأهيل"],
     "social": {
@@ -838,7 +805,6 @@
     "foundingDate": "2020-12-15",
     "ceo": "سعد أحمد الجوف",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-034.png",
     "description": "شركة متخصصة في السياحة التراثية والثقافية",
     "tags": ["تراث", "سياحة", "ثقافة"],
     "social": {
@@ -863,7 +829,6 @@
     "foundingDate": "2011-07-06",
     "ceo": "فادي علي الشمري",
     "rating": 4.4,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-035.png",
     "description": "مؤسسة متخصصة في خدمات النقل والشحن",
     "tags": ["نقل", "شحن", "لوجستيات"],
     "social": {
@@ -888,7 +853,6 @@
     "foundingDate": "2008-03-13",
     "ceo": "عمرو خالد الخليفي",
     "rating": 4.3,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-036.png",
     "description": "شركة متخصصة في المقاولات والإنشاءات",
     "tags": ["مقاولات", "إنشاءات", "بناء"],
     "social": {
@@ -913,7 +877,6 @@
     "foundingDate": "2015-10-27",
     "ceo": "بسام محمد القحطاني",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-037.png",
     "description": "مؤسسة متخصصة في الخدمات المالية والاستشارات",
     "tags": ["مالية", "استشارات", "استثمار"],
     "social": {
@@ -938,7 +901,6 @@
     "foundingDate": "2012-09-19",
     "ceo": "ولاء سعيد البقمي",
     "rating": 4.4,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-038.png",
     "description": "مجموعة متخصصة في تقديم الخدمات المتكاملة",
     "tags": ["خدمات", "تنظيف", "صيانة"],
     "social": {
@@ -963,7 +925,6 @@
     "foundingDate": "2017-04-02",
     "ceo": "طارق خالد القطيفي",
     "rating": 4.8,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-039.png",
     "description": "شركة متخصصة في الطاقة الشمسية والمتجددة",
     "tags": ["طاقة شمسية", "متجددة", "بيئة"],
     "social": {
@@ -988,7 +949,6 @@
     "foundingDate": "2019-06-11",
     "ceo": "رامي محمد الخليفي",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-040.png",
     "description": "مؤسسة متخصصة في التجارة الإلكترونية والتسويق الرقمي",
     "tags": ["تجارة إلكترونية", "تسويق رقمي", "بيع"],
     "social": {
@@ -1013,7 +973,6 @@
     "foundingDate": "2016-01-24",
     "ceo": "نادية أحمد العلياني",
     "rating": 4.7,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-041.png",
     "description": "شركة متخصصة في الخدمات الاجتماعية والتنمية",
     "tags": ["خدمات اجتماعية", "تنمية", "إنسانية"],
     "social": {
@@ -1038,7 +997,6 @@
     "foundingDate": "2009-08-07",
     "ceo": "نواف سعيد الجهني",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-042.png",
     "description": "مؤسسة استشارات هندسية متخصصة في المشاريع الكبرى",
     "tags": ["هندسة", "استشارات", "مشاريع"],
     "social": {
@@ -1063,7 +1021,6 @@
     "foundingDate": "2018-02-16",
     "ceo": "هالة خالد الدوسري",
     "rating": 4.8,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-043.png",
     "description": "مجموعة متخصصة في التدريب التقني والمهني",
     "tags": ["تدريب تقني", "مهني", "تطوير"],
     "social": {
@@ -1088,7 +1045,6 @@
     "foundingDate": "2020-09-28",
     "ceo": "كريم محمد الزهراني",
     "rating": 4.9,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-044.png",
     "description": "شركة رائدة في مجال الذكاء الاصطناعي والتعلم الآلي",
     "tags": ["ذكاء اصطناعي", "تعلم آلي", "تقنية"],
     "social": {
@@ -1113,7 +1069,6 @@
     "foundingDate": "2014-11-03",
     "ceo": "ماجد علي المدني",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-045.png",
     "description": "مؤسسة استشارية متخصصة في الاستراتيجية والإدارة",
     "tags": ["استشارات", "إستراتيجية", "إدارة"],
     "social": {
@@ -1138,7 +1093,6 @@
     "foundingDate": "2011-05-31",
     "ceo": "عبدالرحمن سعيد الثقفي",
     "rating": 4.4,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-046.png",
     "description": "مجموعة متخصصة في التطوير العقاري والإدارة",
     "tags": ["عقارات", "تطوير", "إدارة"],
     "social": {
@@ -1163,7 +1117,6 @@
     "foundingDate": "2007-12-19",
     "ceo": "محمد خالد العسيري",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-047.png",
     "description": "شركة متخصصة في تصنيع الأدوية والمستحضرات الطبية",
     "tags": ["أدوية", "طبي", "تصنيع"],
     "social": {
@@ -1188,7 +1141,6 @@
     "foundingDate": "2015-07-22",
     "ceo": "فاطمة علي القحطاني",
     "rating": 4.7,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-048.png",
     "description": "مؤسسة متخصصة في الخدمات الصحية والطبية",
     "tags": ["صحة", "طبي", "رعاية"],
     "social": {
@@ -1213,7 +1165,6 @@
     "foundingDate": "2013-03-14",
     "ceo": "وسام سعيد الحويطي",
     "rating": 4.6,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-049.png",
     "description": "مجموعة متخصصة في تطوير التطبيقات والأنظمة",
     "tags": ["تطبيقات", "أنظمة", "تقنية"],
     "social": {
@@ -1238,7 +1189,6 @@
     "foundingDate": "2010-04-09",
     "ceo": "فادي خالد الشمري",
     "rating": 4.5,
-    "logo": "https://raw.githubusercontent.com/username/arabicaapi/assets/logos/company-050.png",
     "description": "شركة رائدة في الخدمات اللوجستية والنقل الدولي",
     "tags": ["لوجستيات", "نقل", "شحن دولي"],
     "social": {
