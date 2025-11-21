@@ -1,5 +1,7 @@
 # ArabicaAPI
 
+**Version:** v1.0.0
+
 Reusable, Arabic-friendly mock datasets for UI prototyping, API simulations, and frontend testing. The repository ships 36 JSON files (1,660 total records) that cover commerce, jobs, real estate, education, events, recipes, reviews, and more—ready to import or fetch as-is.
 
 ![Design Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/thumbnail.jpg?raw=true)
@@ -272,13 +274,19 @@ Because everything is plain JSON, you can also load the files into MirageJS, MSW
 
 ## Contribution Guidelines
 
-1. **Plan the dataset** – Decide which domain the new data belongs to and whether a new file is required.
-2. **Follow schemas** – Reuse the field orderings and naming patterns documented in `DATA_GUIDELINES.md`.
-3. **Validate JSON** – Run a formatter/linter or `jq` to ensure arrays, commas, and quotes are valid.
-4. **Respect IDs** – Continue numbering without gaps (`product-481` after `product-480`). Never reuse IDs.
-5. **Keep it realistic** – Prices, salaries, dates, and descriptions should feel authentic and culturally appropriate.
-6. **Link imagery** – Reference existing assets or add entries to the dedicated assets branch described in `IMAGES_GUIDELINES.md`.
-7. **Avoid duplication** – Only touch the files you modify and keep aggregate files in sync when necessary.
+1. **Plan the dataset** – Before adding data, decide which domain the new records belong to and whether a new file is required or an existing one should be extended. Review the folder structure in `DATA_GUIDELINES.md` to maintain consistency.
+
+2. **Follow schemas** – Reuse the field orderings and naming patterns documented in `DATA_GUIDELINES.md`. Ensure all required fields are present and optional fields follow the established conventions.
+
+3. **Validate JSON** – Run a formatter/linter or `jq` to ensure arrays, commas, and quotes are valid. Each file must be valid JSON that can be parsed without errors.
+
+4. **Respect IDs** – Continue numbering without gaps (`product-481` after `product-480`). Never reuse IDs across files. Use deterministic prefixes with zero-padded numbers (e.g., `product-001`, `agent-020`). Cross-file relationships reference these IDs directly.
+
+5. **Keep it realistic** – Prices, salaries, dates, and descriptions should feel authentic and culturally appropriate. Use realistic Arabic names, locations, and currency values. Avoid placeholder text or lorem ipsum.
+
+6. **Link imagery** – Reference existing assets or add entries following the patterns in `IMAGES_GUIDELINES.md`. Update the relevant `images-guide.txt` with new counts and naming ranges. Ensure every record with an `image`, `avatar`, `logo`, or gallery array has corresponding files in `/assets`.
+
+7. **Avoid duplication** – Only touch the files you modify and keep aggregate files (like `all-products.json`) in sync when necessary. When datasets are aggregated, ensure they point to the same canonical asset files to maintain a single source of truth.
 
 Pull requests that add data should mention record counts changed so maintainers can spot-check quickly.
 
